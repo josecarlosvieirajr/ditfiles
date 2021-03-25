@@ -1,0 +1,1 @@
+{"_id":"5e1bfce7-0157-448a-a33f-4170d1a61ab2","filter":{"status":{"$in":["invalid"]}},"_lastExecuted":{"$date":"2021-02-10T11:45:15.739Z"},"_ns":"intexfy_source.guessed_emails"}

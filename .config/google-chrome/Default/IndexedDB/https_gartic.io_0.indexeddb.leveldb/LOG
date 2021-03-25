@@ -1,0 +1,5 @@
+2021/03/12-18:31:58.462 311bc Reusing MANIFEST /home/zejr/.config/google-chrome/Default/IndexedDB/https_gartic.io_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/12-18:32:08.790 311bc Level-0 table #5: started
+2021/03/12-18:32:08.792 311bc Level-0 table #5: 349 bytes OK
+2021/03/12-18:32:08.794 311bc Delete type=0 #3
+2021/03/12-18:32:08.795 311bc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

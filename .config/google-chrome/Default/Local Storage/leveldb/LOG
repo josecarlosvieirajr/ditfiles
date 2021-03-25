@@ -1,0 +1,6 @@
+2021/03/24-18:57:00.878 3 Reusing MANIFEST /home/zejr/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2021/03/24-18:57:00.879 3 Recovering log #28
+2021/03/24-18:57:00.889 3 Reusing old log /home/zejr/.config/google-chrome/Default/Local Storage/leveldb/000028.log 
+2021/03/24-19:30:58.596 a Level-0 table #33: started
+2021/03/24-19:30:58.600 a Level-0 table #33: 17664 bytes OK
+2021/03/24-19:30:58.602 a Delete type=0 #28

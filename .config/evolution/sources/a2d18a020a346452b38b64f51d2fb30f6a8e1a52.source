@@ -1,0 +1,44 @@
+[Data Source]
+DisplayName=zejunior.py@gmail.com
+Enabled=true
+Parent=
+
+[Authentication]
+Host=
+Method=OAuth2
+Port=0
+ProxyUid=system-proxy
+RememberPassword=true
+User=
+CredentialName=
+IsExternal=true
+
+[Collection]
+BackendName=google
+CalendarEnabled=true
+ContactsEnabled=true
+Identity=zejunior.py@gmail.com
+MailEnabled=true
+AllowSourcesRename=false
+CalendarUrl=
+ContactsUrl=
+
+[GNOME Online Accounts]
+AccountId=account_1612459476_0
+CalendarUrl=https://apidata.googleusercontent.com/caldav/v2/zejunior.py@gmail.com/user
+ContactsUrl=https://www.googleapis.com/.well-known/carddav
+Name=
+Address=zejunior.py@gmail.com
+
+[WebDAV Backend]
+AvoidIfmatch=false
+CalendarAutoSchedule=false
+Color=
+DisplayName=
+EmailAddress=
+ResourcePath=
+ResourceQuery=
+SslTrust=
+
+[Security]
+Method=none

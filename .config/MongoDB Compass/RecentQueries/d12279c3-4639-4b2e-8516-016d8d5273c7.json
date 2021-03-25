@@ -1,0 +1,1 @@
+{"_id":"d12279c3-4639-4b2e-8516-016d8d5273c7","filter":{"status":{"$in":["accept"]}},"_lastExecuted":{"$date":"2021-02-10T12:23:10.754Z"},"_ns":"intexfy_source.guessed_emails"}

@@ -1,0 +1,8 @@
+[init]
+	templatedir = ~/.git_template
+[alias]
+	ctag = !.git/hooks/ctags
+	ctags = !.git_template/hooks/ctags
+[user]
+	email = zejunior
+	name = zejunior

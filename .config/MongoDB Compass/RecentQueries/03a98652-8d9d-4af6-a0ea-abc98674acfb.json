@@ -1,0 +1,1 @@
+{"_id":"03a98652-8d9d-4af6-a0ea-abc98674acfb","filter":{"status":{"$in":["catchall","accept-all","deliverable"]}},"_lastExecuted":{"$date":"2021-02-10T16:06:55.560Z"},"_ns":"intexfy_source.guessed_emails"}

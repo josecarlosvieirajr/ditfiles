@@ -1,0 +1,75 @@
+[Info  - 02:50:27.482] Refreshing token...
+[Error  - 02:50:28.128] Unexpected token � in JSON at position 1
+[Info  - 02:50:28.128] Failed to fetch token claims from access_token. Attempting to parse id_token instead
+[Info  - 02:50:28.128] Token refresh success
+[Info  - 02:50:28.132] Token available from cache, expires in 3598996 milliseconds
+[Info  - 03:49:57.129] Refreshing token...
+[Error  - 03:49:57.606] Unexpected token @ in JSON at position 0
+[Info  - 03:49:57.606] Failed to fetch token claims from access_token. Attempting to parse id_token instead
+[Info  - 03:49:57.606] Token refresh success
+[Info  - 03:49:57.610] Token available from cache, expires in 3598996 milliseconds
+[Info  - 04:49:26.606] Refreshing token...
+[Error  - 04:49:27.40] Unexpected token � in JSON at position 0
+[Info  - 04:49:27.40] Failed to fetch token claims from access_token. Attempting to parse id_token instead
+[Info  - 04:49:27.41] Token refresh success
+[Info  - 04:49:27.44] Token available from cache, expires in 3598996 milliseconds
+[Info  - 05:48:56.40] Refreshing token...
+[Error  - 05:48:56.431] Unexpected token � in JSON at position 0
+[Info  - 05:48:56.431] Failed to fetch token claims from access_token. Attempting to parse id_token instead
+[Info  - 05:48:56.431] Token refresh success
+[Info  - 05:48:56.435] Token available from cache, expires in 3598996 milliseconds
+[Info  - 06:48:25.432] Refreshing token...
+[Error  - 06:48:25.867] Unexpected token * in JSON at position 0
+[Info  - 06:48:25.868] Failed to fetch token claims from access_token. Attempting to parse id_token instead
+[Info  - 06:48:25.868] Token refresh success
+[Info  - 06:48:25.872] Token available from cache, expires in 3598996 milliseconds
+[Info  - 07:47:54.868] Refreshing token...
+[Error  - 07:47:55.343] Unexpected token � in JSON at position 0
+[Info  - 07:47:55.343] Failed to fetch token claims from access_token. Attempting to parse id_token instead
+[Info  - 07:47:55.343] Token refresh success
+[Info  - 07:47:55.347] Token available from cache, expires in 3598996 milliseconds
+[Info  - 08:47:24.343] Refreshing token...
+[Error  - 08:47:24.812] Unexpected token + in JSON at position 0
+[Info  - 08:47:24.812] Failed to fetch token claims from access_token. Attempting to parse id_token instead
+[Info  - 08:47:24.812] Token refresh success
+[Info  - 08:47:24.816] Token available from cache, expires in 3598996 milliseconds
+[Info  - 09:46:53.814] Refreshing token...
+[Error  - 09:46:54.248] Unexpected token \ in JSON at position 0
+[Info  - 09:46:54.248] Failed to fetch token claims from access_token. Attempting to parse id_token instead
+[Info  - 09:46:54.248] Token refresh success
+[Info  - 09:46:54.251] Token available from cache, expires in 3598997 milliseconds
+[Info  - 10:46:23.249] Refreshing token...
+[Error  - 10:46:23.681] Unexpected token � in JSON at position 1
+[Info  - 10:46:23.681] Failed to fetch token claims from access_token. Attempting to parse id_token instead
+[Info  - 10:46:23.682] Token refresh success
+[Info  - 10:46:23.685] Token available from cache, expires in 3598996 milliseconds
+[Info  - 11:45:52.682] Refreshing token...
+[Error  - 11:45:53.125] Unexpected token � in JSON at position 0
+[Info  - 11:45:53.125] Failed to fetch token claims from access_token. Attempting to parse id_token instead
+[Info  - 11:45:53.125] Token refresh success
+[Info  - 11:45:53.129] Token available from cache, expires in 3598996 milliseconds
+[Info  - 12:45:22.124] Refreshing token...
+[Error  - 12:45:22.622] Unexpected token A in JSON at position 0
+[Info  - 12:45:22.622] Failed to fetch token claims from access_token. Attempting to parse id_token instead
+[Info  - 12:45:22.622] Token refresh success
+[Info  - 12:45:22.626] Token available from cache, expires in 3598996 milliseconds
+[Info  - 13:44:51.622] Refreshing token...
+[Error  - 13:44:52.56] Unexpected token � in JSON at position 0
+[Info  - 13:44:52.56] Failed to fetch token claims from access_token. Attempting to parse id_token instead
+[Info  - 13:44:52.56] Token refresh success
+[Info  - 13:44:52.59] Token available from cache, expires in 3598997 milliseconds
+[Info  - 14:44:21.57] Refreshing token...
+[Error  - 14:44:21.500] Unexpected token � in JSON at position 0
+[Info  - 14:44:21.500] Failed to fetch token claims from access_token. Attempting to parse id_token instead
+[Info  - 14:44:21.501] Token refresh success
+[Info  - 14:44:21.503] Token available from cache, expires in 3598997 milliseconds
+[Info  - 15:43:50.501] Refreshing token...
+[Error  - 15:43:50.917] Unexpected token � in JSON at position 0
+[Info  - 15:43:50.917] Failed to fetch token claims from access_token. Attempting to parse id_token instead
+[Info  - 15:43:50.918] Token refresh success
+[Info  - 15:43:50.921] Token available from cache, expires in 3598996 milliseconds
+[Info  - 16:43:19.918] Refreshing token...
+[Error  - 16:43:20.360] Unexpected token � in JSON at position 0
+[Info  - 16:43:20.360] Failed to fetch token claims from access_token. Attempting to parse id_token instead
+[Info  - 16:43:20.360] Token refresh success
+[Info  - 16:43:20.363] Token available from cache, expires in 3598997 milliseconds

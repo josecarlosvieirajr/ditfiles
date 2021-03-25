@@ -1,0 +1,260 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/zejr/Works/Globo/tvg-novo-flow-frontend
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/AreaLogada/Pages/GerarTicket/Components/TicketCriativos/TicketCriativos.tsx
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/Pages/GerarTicket/Components/TicketCriativos/TicketCriativos.tsx
+> git cat-file -s a6b8d8200e7634b6aabe45d28c2c90319096b8ec
+> git check-ignore -v -z --stdin
+> git show --textconv :src/AreaLogada/Pages/RelatorioTicket/Components/ExibirPliDadosCard.tsx
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/Pages/RelatorioTicket/Components/ExibirPliDadosCard.tsx
+> git cat-file -s 1264a2aee2d440f02b971f142a709251a70576d7
+> git check-ignore -v -z --stdin
+> git show --textconv :src/AreaLogada/Pages/RelatorioTicket/Components/ModalVisualizar.tsx
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/Pages/RelatorioTicket/Components/ModalVisualizar.tsx
+> git cat-file -s 242512ee257d2012024f2badf92a236cb3625706
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Models/TicketItem.model.ts
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/Models/TicketItem.model.ts
+> git cat-file -s 944e00bd71950ee5c7ce65e75659d691f9541f71
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/AreaLogada/Pages/RelatorioTicket/Components/ModalVisualizar.tsx
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/Pages/RelatorioTicket/Components/ModalVisualizar.tsx
+> git cat-file -s 242512ee257d2012024f2badf92a236cb3625706
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/AreaLogada/Pages/RelatorioTicket/Components/ExibirPliDadosCard.tsx
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/Pages/RelatorioTicket/Components/ExibirPliDadosCard.tsx
+> git cat-file -s 1264a2aee2d440f02b971f142a709251a70576d7
+> git show --textconv :src/Models/TicketItem.model.ts
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/Models/TicketItem.model.ts
+> git cat-file -s 944e00bd71950ee5c7ce65e75659d691f9541f71
+> git show --textconv :src/AreaLogada/Pages/RelatorioTicket/Components/ModalVisualizar.tsx
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/Pages/RelatorioTicket/Components/ModalVisualizar.tsx
+> git cat-file -s 242512ee257d2012024f2badf92a236cb3625706
+> git show --textconv :src/AreaLogada/Pages/RelatorioTicket/Components/ExibirPliDadosCard.tsx
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/Pages/RelatorioTicket/Components/ExibirPliDadosCard.tsx
+> git cat-file -s 1264a2aee2d440f02b971f142a709251a70576d7
+> git show --textconv :src/AreaLogada/Pages/RelatorioTicket/RelatorioTicket.tsx
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/Pages/RelatorioTicket/RelatorioTicket.tsx
+> git cat-file -s 9b27aeb827affd4fdfd07515cbee0d8078c9e585
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/AreaLogada/Pages/RelatorioTicket/Components/ModalVisualizar.tsx
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/Pages/RelatorioTicket/Components/ModalVisualizar.tsx
+> git cat-file -s 242512ee257d2012024f2badf92a236cb3625706
+> git show --textconv :src/AreaLogada/Pages/GerarTicket/Components/TicketCriativos/TicketCriativos.tsx
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/Pages/GerarTicket/Components/TicketCriativos/TicketCriativos.tsx
+> git cat-file -s a6b8d8200e7634b6aabe45d28c2c90319096b8ec
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/Pages/GerarTicket/Components/TicketCriativos/TicketCriativos.tsx
+> git config --get commit.template
+> git cat-file -s a6b8d8200e7634b6aabe45d28c2c90319096b8ec
+> git show --textconv :src/AreaLogada/Pages/GerarTicket/Components/TicketCriativos/TicketCriativos.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/Pages/GerarTicket/Components/TicketCriativos/TicketCriativos.tsx
+> git config --get commit.template
+> git cat-file -s 7cec515d2188fb1f3f9c9c8eee5ba8c680feed93
+> git show --textconv :src/AreaLogada/Pages/GerarTicket/Components/TicketCriativos/TicketCriativos.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/Pages/GerarTicket/Components/TicketCriativos/TicketCriativos.tsx
+> git cat-file -s 7cec515d2188fb1f3f9c9c8eee5ba8c680feed93
+> git show --textconv :src/AreaLogada/Pages/GerarTicket/Components/TicketCriativos/TicketCriativos.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/LDIGO-799 refs/remotes/LDIGO-799
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/Pages/GerarTicket/Components/TicketCriativos/TicketCriativos.tsx
+> git cat-file -s 7cec515d2188fb1f3f9c9c8eee5ba8c680feed93
+> git show --textconv :src/AreaLogada/Pages/GerarTicket/Components/TicketCriativos/TicketCriativos.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/LDIGO-799 refs/remotes/LDIGO-799
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/AreaLogada/Pages/RelatorioTicket/Components/ExibirPliDadosCard.tsx
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/Pages/RelatorioTicket/Components/ExibirPliDadosCard.tsx
+> git cat-file -s 1264a2aee2d440f02b971f142a709251a70576d7
+> git show --textconv :src/AreaLogada/Pages/RelatorioTicket/Components/ModalVisualizar.tsx
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/Pages/RelatorioTicket/Components/ModalVisualizar.tsx
+> git cat-file -s eeb7c236ba9e8b657b6cf37c718e5d331b2cb8ab
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/LDIGO-799 refs/remotes/LDIGO-799
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/LDIGO-799 refs/remotes/LDIGO-799
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/Pages/RelatorioTicket/Components/ModalVisualizar.tsx
+> git cat-file -s b7178759420f395d83e67621eb0267dc50359c46
+> git show --textconv :src/AreaLogada/Pages/RelatorioTicket/Components/ModalVisualizar.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/LDIGO-799 refs/remotes/LDIGO-799
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/Pages/RelatorioTicket/Components/ModalVisualizar.tsx
+> git cat-file -s b7178759420f395d83e67621eb0267dc50359c46
+> git show --textconv :src/AreaLogada/Pages/RelatorioTicket/Components/ModalVisualizar.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/LDIGO-799 refs/remotes/LDIGO-799
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/LDIGO-799 refs/remotes/LDIGO-799
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/Pages/RelatorioTicket/Components/ModalVisualizar.tsx
+> git cat-file -s eeb7c236ba9e8b657b6cf37c718e5d331b2cb8ab
+> git show --textconv :src/AreaLogada/Pages/RelatorioTicket/Components/ModalVisualizar.tsx
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/Pages/RelatorioTicket/Components/ModalVisualizar.tsx
+> git cat-file -s b7178759420f395d83e67621eb0267dc50359c46
+> git show --textconv :src/AreaLogada/Pages/RelatorioTicket/Components/ModalVisualizar.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/Pages/RelatorioTicket/Components/ModalVisualizar.tsx
+> git cat-file -s b7178759420f395d83e67621eb0267dc50359c46
+> git show --textconv :src/AreaLogada/Pages/RelatorioTicket/Components/ModalVisualizar.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/Pages/RelatorioTicket/Components/ModalVisualizar.tsx
+> git cat-file -s b7178759420f395d83e67621eb0267dc50359c46
+> git show --textconv :src/AreaLogada/Pages/RelatorioTicket/Components/ModalVisualizar.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

@@ -1,0 +1,1 @@
+{"_id":"e1a94044-377b-4ac7-950c-53bb55a31461","filter":{"status":{"$in":["accept-all","acceptall"]},"sendmail":{"$exists":false}},"_lastExecuted":{"$date":"2021-02-10T04:58:44.619Z"},"_ns":"intexfy_source.guessed_emails"}

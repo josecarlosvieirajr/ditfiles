@@ -1,0 +1,5 @@
+2021/03/24-19:31:00.174 217bf Reusing MANIFEST /home/zejr/.config/google-chrome/Default/IndexedDB/https_www.wish.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/24-19:31:34.855 217bf Level-0 table #5: started
+2021/03/24-19:31:34.856 217bf Level-0 table #5: 1960 bytes OK
+2021/03/24-19:31:34.859 217bf Delete type=0 #3
+2021/03/24-19:31:34.859 217bf Manual compaction at level-0 from (begin) .. (end); will stop at (end)

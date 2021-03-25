@@ -1,0 +1,1 @@
+{"_id":"8e53e33d-6def-4c3a-b73d-a14c6b64124d","filter":{"email":{"$in":["qualuqer@nao.com"]},"status":{"$in":["catchall","accept-all","deliverable"]}},"_lastExecuted":{"$date":"2021-02-10T13:06:32.896Z"},"_ns":"intexfy_source.guessed_emails"}

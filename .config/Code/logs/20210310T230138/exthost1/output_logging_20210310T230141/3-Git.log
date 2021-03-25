@@ -1,0 +1,160 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/zejr/Works/Globo/tvg-novo-flow-frontend
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/feature/LDIGO-738 refs/remotes/feature/LDIGO-738
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/AreaLogada/GerarTicketAfiliada/FormDadosTicketAfiliada/FormDadosTicketAfiliada.tsx
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/GerarTicketAfiliada/FormDadosTicketAfiliada/FormDadosTicketAfiliada.tsx
+> git cat-file -s a4365aff82d3409024fa5b362de477e5da33ae6c
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/feature/LDIGO-738 refs/remotes/feature/LDIGO-738
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/GerarTicketAfiliada/FormDadosTicketAfiliada/FormDadosTicketAfiliada.tsx
+> git cat-file -s a4365aff82d3409024fa5b362de477e5da33ae6c
+> git show --textconv :src/AreaLogada/GerarTicketAfiliada/FormDadosTicketAfiliada/FormDadosTicketAfiliada.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/feature/LDIGO-738 refs/remotes/feature/LDIGO-738
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/feature/LDIGO-738 refs/remotes/feature/LDIGO-738
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/GerarTicketAfiliada/FormDadosTicketAfiliada/FormDadosTicketAfiliada.tsx
+> git cat-file -s a4365aff82d3409024fa5b362de477e5da33ae6c
+> git show --textconv :src/AreaLogada/GerarTicketAfiliada/FormDadosTicketAfiliada/FormDadosTicketAfiliada.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/feature/LDIGO-738 refs/remotes/feature/LDIGO-738
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/GerarTicketAfiliada/FormDadosTicketAfiliada/FormDadosTicketAfiliada.tsx
+> git cat-file -s a4365aff82d3409024fa5b362de477e5da33ae6c
+> git show --textconv :src/AreaLogada/GerarTicketAfiliada/FormDadosTicketAfiliada/FormDadosTicketAfiliada.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/feature/LDIGO-738 refs/remotes/feature/LDIGO-738
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/feature/LDIGO-738 refs/remotes/feature/LDIGO-738
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/GerarTicketAfiliada/FormDadosTicketAfiliada/FormDadosTicketAfiliada.tsx
+> git cat-file -s a4365aff82d3409024fa5b362de477e5da33ae6c
+> git show --textconv :src/AreaLogada/GerarTicketAfiliada/FormDadosTicketAfiliada/FormDadosTicketAfiliada.tsx
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/GerarTicketAfiliada/FormDadosTicketAfiliada/FormDadosTicketAfiliada.tsx
+> git cat-file -s a4365aff82d3409024fa5b362de477e5da33ae6c
+> git show --textconv :src/AreaLogada/GerarTicketAfiliada/FormDadosTicketAfiliada/FormDadosTicketAfiliada.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/feature/LDIGO-738 refs/remotes/feature/LDIGO-738
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/GerarTicketAfiliada/FormDadosTicketAfiliada/FormDadosTicketAfiliada.tsx
+> git cat-file -s d8e471b2b2c905e9d460aa1513af82c4d6eab909
+> git show --textconv :src/AreaLogada/GerarTicketAfiliada/FormDadosTicketAfiliada/FormDadosTicketAfiliada.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/feature/LDIGO-738 refs/remotes/feature/LDIGO-738
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/feature/LDIGO-738 refs/remotes/feature/LDIGO-738
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/GerarTicketAfiliada/FormDadosTicketAfiliada/FormDadosTicketAfiliada.tsx
+> git cat-file -s d8e471b2b2c905e9d460aa1513af82c4d6eab909
+> git show --textconv :src/AreaLogada/GerarTicketAfiliada/FormDadosTicketAfiliada/FormDadosTicketAfiliada.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/feature/LDIGO-738 refs/remotes/feature/LDIGO-738
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/feature/LDIGO-738 refs/remotes/feature/LDIGO-738
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/GerarTicketAfiliada/FormDadosTicketAfiliada/FormDadosTicketAfiliada.tsx
+> git cat-file -s 1921fa51413b8a176e94a9130ab979d12ef8fd7a
+> git show --textconv :src/AreaLogada/GerarTicketAfiliada/FormDadosTicketAfiliada/FormDadosTicketAfiliada.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/feature/LDIGO-738 refs/remotes/feature/LDIGO-738
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/GerarTicketAfiliada/FormDadosTicketAfiliada/FormDadosTicketAfiliada.tsx
+> git check-ignore -v -z --stdin
+> git show --textconv :.env
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/.env
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/feature/LDIGO-738 refs/remotes/feature/LDIGO-738
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/.env
+> git show --textconv :.env
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/feature/LDIGO-738 refs/remotes/feature/LDIGO-738
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/feature/LDIGO-738 refs/remotes/feature/LDIGO-738
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/.env
+> git show --textconv :.env
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/feature/LDIGO-738 refs/remotes/feature/LDIGO-738
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/AreaLogada/GerarTicketAfiliada/FormDadosTicketAfiliada/FormDadosTicketAfiliada.tsx
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/GerarTicketAfiliada/FormDadosTicketAfiliada/FormDadosTicketAfiliada.tsx
+> git cat-file -s 1921fa51413b8a176e94a9130ab979d12ef8fd7a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/feature/LDIGO-738 refs/remotes/feature/LDIGO-738
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/zejr/Works/Globo/tvg-novo-flow-frontend/src/AreaLogada/GerarTicketAfiliada/FormDadosTicketAfiliada/FormDadosTicketAfiliada.tsx
+> git cat-file -s 1921fa51413b8a176e94a9130ab979d12ef8fd7a
+> git show --textconv :src/AreaLogada/GerarTicketAfiliada/FormDadosTicketAfiliada/FormDadosTicketAfiliada.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/feature/LDIGO-738 refs/remotes/feature/LDIGO-738
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

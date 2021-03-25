@@ -1,0 +1,9 @@
+[Info  - 17:04:21.241] Logging in...
+[Info  - 17:04:25.760] Exchanging login code for token
+[Info  - 17:04:26.209] Exchanging login code for token success
+[Error  - 17:04:26.210] Unexpected token J in JSON at position 0
+[Info  - 17:04:26.210] Failed to fetch token claims from access_token. Attempting to parse id_token instead
+[Info  - 17:04:26.211] Login successful
+[Info  - 17:04:26.211] Token available from cache, expires in 3598999 milliseconds
+[Info  - 17:04:26.215] Token available from cache, expires in 3598995 milliseconds
+[Info  - 17:04:26.222] Token available from cache, expires in 3598988 milliseconds

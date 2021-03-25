@@ -1,0 +1,21 @@
+2021/03/18-23:45:25.685 20a1d Reusing MANIFEST /home/zejr/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/03/18-23:45:25.686 20a1d Recovering log #641
+2021/03/18-23:45:25.705 20a1d Reusing old log /home/zejr/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000641.log 
+2021/03/18-23:46:41.437 20beb Level-0 table #645: started
+2021/03/18-23:46:41.456 20beb Level-0 table #645: 1092795 bytes OK
+2021/03/18-23:46:41.459 20beb Delete type=0 #641
+2021/03/18-23:53:32.358 20beb Level-0 table #647: started
+2021/03/18-23:53:32.372 20beb Level-0 table #647: 1086121 bytes OK
+2021/03/18-23:53:32.374 20beb Delete type=0 #644
+2021/03/18-23:53:32.375 20beb Compacting 4@0 + 1@1 files
+2021/03/18-23:53:32.397 20beb Generated table #648@0: 444 keys, 105427 bytes
+2021/03/18-23:53:32.397 20beb Compacted 4@0 + 1@1 files => 105427 bytes
+2021/03/18-23:53:32.400 20beb compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/18-23:53:32.400 20beb Delete type=2 #637
+2021/03/18-23:53:32.400 20beb Delete type=2 #642
+2021/03/18-23:53:32.400 20beb Delete type=2 #640
+2021/03/18-23:53:32.400 20beb Delete type=2 #647
+2021/03/18-23:53:32.401 20beb Delete type=2 #645
+2021/03/18-23:57:19.612 20beb Level-0 table #650: started
+2021/03/18-23:57:19.627 20beb Level-0 table #650: 1085119 bytes OK
+2021/03/18-23:57:19.630 20beb Delete type=0 #646

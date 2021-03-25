@@ -1,0 +1,5 @@
+[Info  - 17:16:14.930] Refreshing token...
+[Error  - 17:16:20.149] Unexpected token v in JSON at position 0
+[Info  - 17:16:20.149] Failed to fetch token claims from access_token. Attempting to parse id_token instead
+[Info  - 17:16:20.149] Token refresh success
+[Info  - 17:16:20.154] Token available from cache, expires in 3598995 milliseconds

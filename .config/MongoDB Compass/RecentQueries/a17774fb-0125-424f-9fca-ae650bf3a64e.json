@@ -1,0 +1,1 @@
+{"_id":"a17774fb-0125-424f-9fca-ae650bf3a64e","filter":{"email":{"$in":["marcelo@ferrazbrasil.com.br"]},"$or":[{"status":{"$in":["accept_all"]}},{"sendmail":{"$exists":true}}]},"_lastExecuted":{"$date":"2021-02-10T16:28:37.569Z"},"_ns":"intexfy_source.guessed_emails"}

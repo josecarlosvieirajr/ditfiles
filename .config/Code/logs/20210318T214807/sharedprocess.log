@@ -1,0 +1,7 @@
+[2021-03-18 21:48:14.080] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2021-03-18 21:48:21.784] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker undefined
+[2021-03-18 21:48:22.008] [sharedprocess] [info] Extracted extension to /home/zejr/.vscode/extensions/.ms-azuretools.vscode-docker-1.11.0: ms-azuretools.vscode-docker
+[2021-03-18 21:48:22.008] [sharedprocess] [info] Renamed to /home/zejr/.vscode/extensions/ms-azuretools.vscode-docker-1.11.0
+[2021-03-18 21:48:22.015] [sharedprocess] [info] Installation completed. ms-azuretools.vscode-docker
+[2021-03-18 21:48:22.100] [sharedprocess] [info] Extensions installed successfully: ms-azuretools.vscode-docker
+[2021-03-18 21:48:50.276] [sharedprocess] [info] Starting to clean up unused language packs.

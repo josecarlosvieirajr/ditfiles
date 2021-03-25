@@ -1,0 +1,7 @@
+[2021-03-22 13:44:04.821] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-03-22 14:02:11.122] [sharedprocess] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2021-03-22 14:02:13.485] [sharedprocess] [info] Downloaded extension: ms-vsliveshare.vsliveshare undefined
+[2021-03-22 14:02:14.403] [sharedprocess] [info] Extracted extension to /home/zejr/.vscode/extensions/.ms-vsliveshare.vsliveshare-1.0.3968: ms-vsliveshare.vsliveshare
+[2021-03-22 14:02:14.403] [sharedprocess] [info] Renamed to /home/zejr/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.3968
+[2021-03-22 14:02:14.410] [sharedprocess] [info] Installation completed. ms-vsliveshare.vsliveshare
+[2021-03-22 14:02:14.420] [sharedprocess] [info] Extensions installed successfully: ms-vsliveshare.vsliveshare

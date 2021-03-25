@@ -1,0 +1,15 @@
+2021/03/18-18:34:54.044 17320 Reusing MANIFEST /home/zejr/.config/google-chrome/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/18-18:34:54.044 17320 Recovering log #4
+2021/03/18-18:34:54.045 17320 Reusing old log /home/zejr/.config/google-chrome/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000004.log 
+2021/03/18-19:27:19.680 18ac0 Level-0 table #8: started
+2021/03/18-19:27:19.682 18ac0 Level-0 table #8: 1805 bytes OK
+2021/03/18-19:27:19.683 18ac0 Delete type=0 #4
+2021/03/18-19:27:19.683 18ac0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/18-19:27:19.683 18ac0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x13\x00c\x00l\x00i\x00e\x00n\x00t\x00R\x00e\x00g\x00i\x00s\x00t\x00r\x00a\x00t\x00i\x00o\x00n\x00s' @ 73 : 1
+2021/03/18-19:27:19.683 18ac0 Compacting 1@1 + 1@2 files
+2021/03/18-19:27:19.685 18ac0 Generated table #9@1: 20 keys, 667 bytes
+2021/03/18-19:27:19.685 18ac0 Compacted 1@1 + 1@2 files => 667 bytes
+2021/03/18-19:27:19.686 18ac0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/18-19:27:19.686 18ac0 Delete type=2 #5
+2021/03/18-19:27:19.686 18ac0 Delete type=2 #8
+2021/03/18-19:27:19.687 18ac0 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x13\x00c\x00l\x00i\x00e\x00n\x00t\x00R\x00e\x00g\x00i\x00s\x00t\x00r\x00a\x00t\x00i\x00o\x00n\x00s' @ 73 : 1 .. (end); will stop at (end)

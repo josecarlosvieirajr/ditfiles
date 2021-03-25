@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=zejunior.py@gmail.com
+Enabled=true
+Parent=a2d18a020a346452b38b64f51d2fb30f6a8e1a52
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=d90554ef869d174e823f89c5f15038f1e1d77220
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=zejunior.py@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

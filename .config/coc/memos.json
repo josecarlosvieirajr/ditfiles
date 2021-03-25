@@ -1,0 +1,5091 @@
+{
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [],
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [],
+    "/bin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "c56d6eb2ff2551a751138288e1434016ac4a8a78d61290636f518647c0ff49ed2e87829192fe8d30d1c475ffe9177c927d77ae43375c7e5a886a8fb7e3d1ece8"
+      },
+      "expiry": 1616693299971
+    },
+    "/bin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "3dc5900b169c22d3b234a9e2de35662f88c34d0dc79fe4d833d65601b79a3538e607bb5060e0ff8ab0ad674970297176a690321bc05a594fc218a1b88a40fdbd"
+      },
+      "expiry": 1616693299974
+    },
+    "/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "bfab1cae4c27a53bce46eb275d1c11ae1398e4a0cbf4924b16a0cc5af6c87e52987f4c9f12854b87ebbf8f5f4b742338056eea24bb5153580c4885c6c7eea95b"
+      },
+      "expiry": 1612031070687
+    },
+    "/usr/bin/python3.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.3-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.3-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "c8e51bc50e7c27740eb5058dc09cc4ea3e76e0864701039ca7e8acbbb6ea7e6c90c24af5a32e72d8cc65f3af42f5cf90b86c18a58e18f0ad7dbac41b2b15eeb7"
+      },
+      "expiry": 1612031070689
+    },
+    "/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "9c637d10dfe0e68122f2a8e45491c48c4ec885ae3f156f50d6d03016459304b430cf640ce6dd5ee52a73108e174411f35c9a3ad3707f3e46861386ca830f9ebf"
+      },
+      "expiry": 1616693299979
+    },
+    "/usr/bin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "c56d6eb2ff2551a751138288e1434016ac4a8a78d61290636f518647c0ff49ed2e87829192fe8d30d1c475ffe9177c927d77ae43375c7e5a886a8fb7e3d1ece8"
+      },
+      "expiry": 1616693299987
+    },
+    "/usr/bin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "3dc5900b169c22d3b234a9e2de35662f88c34d0dc79fe4d833d65601b79a3538e607bb5060e0ff8ab0ad674970297176a690321bc05a594fc218a1b88a40fdbd"
+      },
+      "expiry": 1616693299989
+    },
+    "/usr/local/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/usr/local",
+        "fileHash": "bd2ed6009121c7fc4bd1b5b393ba93e10a185157ba279a7beaeed19ad9d5de2cc5d481f2948c011eba53b6a84c2cf84029a7f2d6a45dbb24b73a32b9be35bad0"
+      },
+      "expiry": 1612031070701
+    },
+    "/usr/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "bfab1cae4c27a53bce46eb275d1c11ae1398e4a0cbf4924b16a0cc5af6c87e52987f4c9f12854b87ebbf8f5f4b742338056eea24bb5153580c4885c6c7eea95b"
+      },
+      "expiry": 1612031070698
+    },
+    "/usr/local/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.2-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.2-final"
+        },
+        "sysPrefix": "/usr/local",
+        "fileHash": "c69d353108d415d314b4e9c5d2b2611bc902a7288935871c65bc4d3d67fd59f7104ff957ebfb553290575641451e51abb6b5e5e0e9395779fd84983ddb51a0e5"
+      },
+      "expiry": 1612031070703
+    },
+    "/usr/local/bin/python3.4.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.4",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.4.0-final",
+          "major": 3,
+          "minor": 4,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.4.0-final"
+        },
+        "sysPrefix": "/usr/local",
+        "fileHash": "1fa481bc7d3eba03d5e02e2c695f3b8831cfe6311c6632166d1ba42e36638070096fcedef583d955b5a3ab7bf39060fb4b4868d37310f76514cba7add4a80f58"
+      },
+      "expiry": 1612031070705
+    },
+    "/bin/python3.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.3-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.3-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "c8e51bc50e7c27740eb5058dc09cc4ea3e76e0864701039ca7e8acbbb6ea7e6c90c24af5a32e72d8cc65f3af42f5cf90b86c18a58e18f0ad7dbac41b2b15eeb7"
+      },
+      "expiry": 1612031070798
+    },
+    "/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "9c637d10dfe0e68122f2a8e45491c48c4ec885ae3f156f50d6d03016459304b430cf640ce6dd5ee52a73108e174411f35c9a3ad3707f3e46861386ca830f9ebf"
+      },
+      "expiry": 1616693299964
+    },
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Globo/tvg-novo-flow/env",
+        "fileHash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "3dc5900b169c22d3b234a9e2de35662f88c34d0dc79fe4d833d65601b79a3538e607bb5060e0ff8ab0ad674970297176a690321bc05a594fc218a1b88a40fdbd",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Globo/tvg-novo-flow/env",
+        "fileHash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Globo/tvg-novo-flow/env",
+        "fileHash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39",
+        "type": "Unknown"
+      }
+    ],
+    "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Globo/tvg-novo-flow/env",
+        "fileHash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39"
+      },
+      "expiry": 1616727526760
+    },
+    "/home/zejr/.pyenv/versions/3.7.2/bin/python3.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/.pyenv/versions/3.7.2/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.2-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.2-final"
+        },
+        "sysPrefix": "/home/zejr/.pyenv/versions/3.7.2",
+        "fileHash": "6142b76b7e70914c10e871d643da0ccb9cda045d6a8f9a976dc41a96a61fb8b908ddfa3b4114de8d71b6e53820f5f61e116220b76991ef6fca54851c9ea8c497"
+      },
+      "expiry": 1612031070866
+    },
+    "/home/zejr/.pyenv/versions/3.7.2/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/.pyenv/versions/3.7.2/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.2-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.2-final"
+        },
+        "sysPrefix": "/home/zejr/.pyenv/versions/3.7.2",
+        "fileHash": "9a0ad1e6ad9d9c47735bed6d799d257dbbd47c8439926f317f9d4649c893a7126d07b0ba45f854d92d7c2132ab3e352e5ba763b801eeadad1533810f1b4edec9"
+      },
+      "expiry": 1612031070863
+    },
+    "/home/zejr/.pyenv/versions/3.7.2/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/.pyenv/versions/3.7.2/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.2-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.2-final"
+        },
+        "sysPrefix": "/home/zejr/.pyenv/versions/3.7.2",
+        "fileHash": "94f0fef3ac6b0e0db957071eeb996303c07b27429b625f74ce155a82682b3884d41a58c1378b42a02ed6881055cf747ef22e5acc4b5e552cf2968fccbd9ede1e"
+      },
+      "expiry": 1612031070865
+    },
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [],
+    "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Globo/tvg-novo-flow/env",
+        "fileHash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39"
+      },
+      "expiry": 1616727526676
+    },
+    "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Globo/tvg-novo-flow/env",
+        "fileHash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39"
+      },
+      "expiry": 1616727526757
+    },
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Globo/tvg-novo-flow/env",
+        "fileHash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Globo/tvg-novo-flow/env",
+        "fileHash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Globo/tvg-novo-flow/env",
+        "fileHash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "3dc5900b169c22d3b234a9e2de35662f88c34d0dc79fe4d833d65601b79a3538e607bb5060e0ff8ab0ad674970297176a690321bc05a594fc218a1b88a40fdbd",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "c56d6eb2ff2551a751138288e1434016ac4a8a78d61290636f518647c0ff49ed2e87829192fe8d30d1c475ffe9177c927d77ae43375c7e5a886a8fb7e3d1ece8",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "9c637d10dfe0e68122f2a8e45491c48c4ec885ae3f156f50d6d03016459304b430cf640ce6dd5ee52a73108e174411f35c9a3ad3707f3e46861386ca830f9ebf",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "ead26da0e189ea324ec3bd811f6e0bd87e7d14a18b11ce47fc56e984bf3623e7ff758a3842cc3c96ed5ac850766ed34d90e2fcd94762582627f0d4589172eadb",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "7ef4ab52c83c06444355b77766e5885598779fc2f65ec22ba77988443fb9c3b2d9f2e24afb966076f7727fdb3191efdfb55db7f099013c574ced342529f50e7e",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "3dc5900b169c22d3b234a9e2de35662f88c34d0dc79fe4d833d65601b79a3538e607bb5060e0ff8ab0ad674970297176a690321bc05a594fc218a1b88a40fdbd",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "c56d6eb2ff2551a751138288e1434016ac4a8a78d61290636f518647c0ff49ed2e87829192fe8d30d1c475ffe9177c927d77ae43375c7e5a886a8fb7e3d1ece8",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "9c637d10dfe0e68122f2a8e45491c48c4ec885ae3f156f50d6d03016459304b430cf640ce6dd5ee52a73108e174411f35c9a3ad3707f3e46861386ca830f9ebf",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "ead26da0e189ea324ec3bd811f6e0bd87e7d14a18b11ce47fc56e984bf3623e7ff758a3842cc3c96ed5ac850766ed34d90e2fcd94762582627f0d4589172eadb",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "7ef4ab52c83c06444355b77766e5885598779fc2f65ec22ba77988443fb9c3b2d9f2e24afb966076f7727fdb3191efdfb55db7f099013c574ced342529f50e7e",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "3dc5900b169c22d3b234a9e2de35662f88c34d0dc79fe4d833d65601b79a3538e607bb5060e0ff8ab0ad674970297176a690321bc05a594fc218a1b88a40fdbd",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "c56d6eb2ff2551a751138288e1434016ac4a8a78d61290636f518647c0ff49ed2e87829192fe8d30d1c475ffe9177c927d77ae43375c7e5a886a8fb7e3d1ece8",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "9c637d10dfe0e68122f2a8e45491c48c4ec885ae3f156f50d6d03016459304b430cf640ce6dd5ee52a73108e174411f35c9a3ad3707f3e46861386ca830f9ebf",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "ead26da0e189ea324ec3bd811f6e0bd87e7d14a18b11ce47fc56e984bf3623e7ff758a3842cc3c96ed5ac850766ed34d90e2fcd94762582627f0d4589172eadb",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "7ef4ab52c83c06444355b77766e5885598779fc2f65ec22ba77988443fb9c3b2d9f2e24afb966076f7727fdb3191efdfb55db7f099013c574ced342529f50e7e",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "3dc5900b169c22d3b234a9e2de35662f88c34d0dc79fe4d833d65601b79a3538e607bb5060e0ff8ab0ad674970297176a690321bc05a594fc218a1b88a40fdbd",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "c56d6eb2ff2551a751138288e1434016ac4a8a78d61290636f518647c0ff49ed2e87829192fe8d30d1c475ffe9177c927d77ae43375c7e5a886a8fb7e3d1ece8",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "9c637d10dfe0e68122f2a8e45491c48c4ec885ae3f156f50d6d03016459304b430cf640ce6dd5ee52a73108e174411f35c9a3ad3707f3e46861386ca830f9ebf",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "ead26da0e189ea324ec3bd811f6e0bd87e7d14a18b11ce47fc56e984bf3623e7ff758a3842cc3c96ed5ac850766ed34d90e2fcd94762582627f0d4589172eadb",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "7ef4ab52c83c06444355b77766e5885598779fc2f65ec22ba77988443fb9c3b2d9f2e24afb966076f7727fdb3191efdfb55db7f099013c574ced342529f50e7e",
+        "type": "Unknown"
+      }
+    ],
+    "PipEnvInformation": [],
+    "/home/zejr/.pyenv/versions/3.7.2/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.7.2 64-bit ('3.7.2': pyenv)",
+        "hash": "94f0fef3ac6b0e0db957071eeb996303c07b27429b625f74ce155a82682b3884d41a58c1378b42a02ed6881055cf747ef22e5acc4b5e552cf2968fccbd9ede1e-593340331ee55ce23a04a3969e0cc518"
+      },
+      "expiry": 1612031070984
+    },
+    "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit ('env': venv)",
+        "hash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39-7c19ee063854c2a576e3b295fa4e6074"
+      },
+      "expiry": 1616729436431
+    },
+    "/usr/local/bin/python3.4.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.4.0 64-bit",
+        "hash": "1fa481bc7d3eba03d5e02e2c695f3b8831cfe6311c6632166d1ba42e36638070096fcedef583d955b5a3ab7bf39060fb4b4868d37310f76514cba7add4a80f58-473ec6bcf120dfca15b3d68cb11aaf45"
+      },
+      "expiry": 1612031070988
+    },
+    "/usr/local/bin/python3.8.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.2 64-bit",
+        "hash": "c69d353108d415d314b4e9c5d2b2611bc902a7288935871c65bc4d3d67fd59f7104ff957ebfb553290575641451e51abb6b5e5e0e9395779fd84983ddb51a0e5-99e058bffb6c86903c17fdcf055c515a"
+      },
+      "expiry": 1612031070990
+    },
+    "/usr/local/bin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.1 64-bit",
+        "hash": "bd2ed6009121c7fc4bd1b5b393ba93e10a185157ba279a7beaeed19ad9d5de2cc5d481f2948c011eba53b6a84c2cf84029a7f2d6a45dbb24b73a32b9be35bad0-9e964cb81bc1ae24d07a39ed75f1a428"
+      },
+      "expiry": 1612031070992
+    },
+    "/usr/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.16 64-bit",
+        "hash": "bfab1cae4c27a53bce46eb275d1c11ae1398e4a0cbf4924b16a0cc5af6c87e52987f4c9f12854b87ebbf8f5f4b742338056eea24bb5153580c4885c6c7eea95b-3fd084a487bab3b7a42feae1a7ca2cf3"
+      },
+      "expiry": 1612031070994
+    },
+    "/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.5 64-bit",
+        "hash": "9c637d10dfe0e68122f2a8e45491c48c4ec885ae3f156f50d6d03016459304b430cf640ce6dd5ee52a73108e174411f35c9a3ad3707f3e46861386ca830f9ebf-75a1b4fb74c7d718270337df7b1dd834"
+      },
+      "expiry": 1616693300225
+    },
+    "/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.16 64-bit",
+        "hash": "bfab1cae4c27a53bce46eb275d1c11ae1398e4a0cbf4924b16a0cc5af6c87e52987f4c9f12854b87ebbf8f5f4b742338056eea24bb5153580c4885c6c7eea95b-835fd66e2dbd3c8e9ceea0ce011e2868"
+      },
+      "expiry": 1612031070998
+    },
+    "/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.5 64-bit",
+        "hash": "9c637d10dfe0e68122f2a8e45491c48c4ec885ae3f156f50d6d03016459304b430cf640ce6dd5ee52a73108e174411f35c9a3ad3707f3e46861386ca830f9ebf-a6247eca6321d7ddf8cc9a5b5f7587a9"
+      },
+      "expiry": 1616693300239
+    },
+    "/home/zejr/.pyenv/versions/3.7.2/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "94f0fef3ac6b0e0db957071eeb996303c07b27429b625f74ce155a82682b3884d41a58c1378b42a02ed6881055cf747ef22e5acc4b5e552cf2968fccbd9ede1e",
+        "info": {
+          "architecture": 3,
+          "path": "/home/zejr/.pyenv/versions/3.7.2/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.7.2-final",
+            "major": 3,
+            "minor": 7,
+            "patch": 2,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.7.2-final"
+          },
+          "sysPrefix": "/home/zejr/.pyenv/versions/3.7.2",
+          "fileHash": "94f0fef3ac6b0e0db957071eeb996303c07b27429b625f74ce155a82682b3884d41a58c1378b42a02ed6881055cf747ef22e5acc4b5e552cf2968fccbd9ede1e",
+          "envName": "3.7.2",
+          "type": "Pyenv",
+          "displayName": "Python 3.7.2 64-bit ('3.7.2': pyenv)"
+        }
+      },
+      "expiry": 1612031071034
+    },
+    "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39",
+        "info": {
+          "architecture": 3,
+          "path": "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.0-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 0,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.0-final"
+          },
+          "sysPrefix": "/home/zejr/Works/Globo/tvg-novo-flow/env",
+          "fileHash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39",
+          "envName": "env",
+          "type": "Venv",
+          "displayName": "Python 3.9.0 64-bit ('env': venv)"
+        }
+      },
+      "expiry": 1616729436495
+    },
+    "/usr/local/bin/python3.4.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "1fa481bc7d3eba03d5e02e2c695f3b8831cfe6311c6632166d1ba42e36638070096fcedef583d955b5a3ab7bf39060fb4b4868d37310f76514cba7add4a80f58",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/local/bin/python3.4",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.4.0-final",
+            "major": 3,
+            "minor": 4,
+            "patch": 0,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.4.0-final"
+          },
+          "sysPrefix": "/usr/local",
+          "fileHash": "1fa481bc7d3eba03d5e02e2c695f3b8831cfe6311c6632166d1ba42e36638070096fcedef583d955b5a3ab7bf39060fb4b4868d37310f76514cba7add4a80f58",
+          "type": "Unknown",
+          "displayName": "Python 3.4.0 64-bit"
+        }
+      },
+      "expiry": 1612031071042
+    },
+    "/usr/local/bin/python3.8.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "c69d353108d415d314b4e9c5d2b2611bc902a7288935871c65bc4d3d67fd59f7104ff957ebfb553290575641451e51abb6b5e5e0e9395779fd84983ddb51a0e5",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/local/bin/python3.8",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.2-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 2,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.2-final"
+          },
+          "sysPrefix": "/usr/local",
+          "fileHash": "c69d353108d415d314b4e9c5d2b2611bc902a7288935871c65bc4d3d67fd59f7104ff957ebfb553290575641451e51abb6b5e5e0e9395779fd84983ddb51a0e5",
+          "type": "Unknown",
+          "displayName": "Python 3.8.2 64-bit"
+        }
+      },
+      "expiry": 1612031071046
+    },
+    "/usr/local/bin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "bd2ed6009121c7fc4bd1b5b393ba93e10a185157ba279a7beaeed19ad9d5de2cc5d481f2948c011eba53b6a84c2cf84029a7f2d6a45dbb24b73a32b9be35bad0",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/local/bin/python3.9",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.1-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 1,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.1-final"
+          },
+          "sysPrefix": "/usr/local",
+          "fileHash": "bd2ed6009121c7fc4bd1b5b393ba93e10a185157ba279a7beaeed19ad9d5de2cc5d481f2948c011eba53b6a84c2cf84029a7f2d6a45dbb24b73a32b9be35bad0",
+          "type": "Unknown",
+          "displayName": "Python 3.9.1 64-bit"
+        }
+      },
+      "expiry": 1612031071051
+    },
+    "/usr/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "bfab1cae4c27a53bce46eb275d1c11ae1398e4a0cbf4924b16a0cc5af6c87e52987f4c9f12854b87ebbf8f5f4b742338056eea24bb5153580c4885c6c7eea95b",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.16-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 16,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.16-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "bfab1cae4c27a53bce46eb275d1c11ae1398e4a0cbf4924b16a0cc5af6c87e52987f4c9f12854b87ebbf8f5f4b742338056eea24bb5153580c4885c6c7eea95b",
+          "type": "Unknown",
+          "displayName": "Python 2.7.16 64-bit"
+        }
+      },
+      "expiry": 1612031071054
+    },
+    "/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "9c637d10dfe0e68122f2a8e45491c48c4ec885ae3f156f50d6d03016459304b430cf640ce6dd5ee52a73108e174411f35c9a3ad3707f3e46861386ca830f9ebf",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.5-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.5-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "9c637d10dfe0e68122f2a8e45491c48c4ec885ae3f156f50d6d03016459304b430cf640ce6dd5ee52a73108e174411f35c9a3ad3707f3e46861386ca830f9ebf",
+          "type": "Unknown",
+          "displayName": "Python 3.8.5 64-bit"
+        }
+      },
+      "expiry": 1616693300269
+    },
+    "/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "bfab1cae4c27a53bce46eb275d1c11ae1398e4a0cbf4924b16a0cc5af6c87e52987f4c9f12854b87ebbf8f5f4b742338056eea24bb5153580c4885c6c7eea95b",
+        "info": {
+          "architecture": 3,
+          "path": "/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.16-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 16,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.16-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "bfab1cae4c27a53bce46eb275d1c11ae1398e4a0cbf4924b16a0cc5af6c87e52987f4c9f12854b87ebbf8f5f4b742338056eea24bb5153580c4885c6c7eea95b",
+          "type": "Unknown",
+          "displayName": "Python 2.7.16 64-bit"
+        }
+      },
+      "expiry": 1612031071063
+    },
+    "/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "9c637d10dfe0e68122f2a8e45491c48c4ec885ae3f156f50d6d03016459304b430cf640ce6dd5ee52a73108e174411f35c9a3ad3707f3e46861386ca830f9ebf",
+        "info": {
+          "architecture": 3,
+          "path": "/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.5-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.5-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "9c637d10dfe0e68122f2a8e45491c48c4ec885ae3f156f50d6d03016459304b430cf640ce6dd5ee52a73108e174411f35c9a3ad3707f3e46861386ca830f9ebf",
+          "type": "Unknown",
+          "displayName": "Python 3.8.5 64-bit"
+        }
+      },
+      "expiry": 1616693300291
+    },
+    "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39"
+      },
+      "expiry": 1616727526938
+    },
+    "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit ('env': venv)",
+        "hash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39-3e70d592c89aa4cbbf165643ecd2be7b"
+      },
+      "expiry": 1616727527094
+    },
+    "ProposeLSBanner": false,
+    "/home/zejr/Works/Olist/olist-migrator/env/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/olist-migrator/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/olist-migrator/env",
+        "fileHash": "0497c54a12f3264c79ddc5a9d950bff7cb7fb59aa1f4322681d3e9e453236c90138f5fa34f3ec5438d9d05413c563d6cfc7c3dd2ef3cee4fd7b9a8d018807803"
+      },
+      "expiry": 1611667079931
+    },
+    "/home/zejr/Works/Olist/olist-migrator/env/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/olist-migrator/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/olist-migrator/env",
+        "fileHash": "0497c54a12f3264c79ddc5a9d950bff7cb7fb59aa1f4322681d3e9e453236c90138f5fa34f3ec5438d9d05413c563d6cfc7c3dd2ef3cee4fd7b9a8d018807803"
+      },
+      "expiry": 1611667079929
+    },
+    "/home/zejr/Works/Olist/olist-migrator/env/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/olist-migrator/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/olist-migrator/env",
+        "fileHash": "0497c54a12f3264c79ddc5a9d950bff7cb7fb59aa1f4322681d3e9e453236c90138f5fa34f3ec5438d9d05413c563d6cfc7c3dd2ef3cee4fd7b9a8d018807803"
+      },
+      "expiry": 1611667079931
+    },
+    "/home/zejr/Works/Olist/olist-migrator/env/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.1 64-bit",
+        "hash": "0497c54a12f3264c79ddc5a9d950bff7cb7fb59aa1f4322681d3e9e453236c90138f5fa34f3ec5438d9d05413c563d6cfc7c3dd2ef3cee4fd7b9a8d018807803-1f7f440ceb73121d933bd9da0b4e472e"
+      },
+      "expiry": 1611688621269
+    },
+    "/home/zejr/Works/Olist/olist-migrator/env/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "0497c54a12f3264c79ddc5a9d950bff7cb7fb59aa1f4322681d3e9e453236c90138f5fa34f3ec5438d9d05413c563d6cfc7c3dd2ef3cee4fd7b9a8d018807803",
+        "info": {
+          "architecture": 3,
+          "path": "/home/zejr/Works/Olist/olist-migrator/env/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.1-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 1,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.1-final"
+          },
+          "sysPrefix": "/home/zejr/Works/Olist/olist-migrator/env",
+          "fileHash": "0497c54a12f3264c79ddc5a9d950bff7cb7fb59aa1f4322681d3e9e453236c90138f5fa34f3ec5438d9d05413c563d6cfc7c3dd2ef3cee4fd7b9a8d018807803",
+          "type": "Unknown",
+          "displayName": "Python 3.9.1 64-bit"
+        }
+      },
+      "expiry": 1611688621320
+    },
+    "/home/zejr/Works/Olist/olist-migrator/env/bin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "0497c54a12f3264c79ddc5a9d950bff7cb7fb59aa1f4322681d3e9e453236c90138f5fa34f3ec5438d9d05413c563d6cfc7c3dd2ef3cee4fd7b9a8d018807803"
+      },
+      "expiry": 1611667080025
+    },
+    "/home/zejr/Works/Olist/olist-migrator/env/bin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.1 64-bit ('env': venv)",
+        "hash": "0497c54a12f3264c79ddc5a9d950bff7cb7fb59aa1f4322681d3e9e453236c90138f5fa34f3ec5438d9d05413c563d6cfc7c3dd2ef3cee4fd7b9a8d018807803-f1627d2fd34360dca60a6850cbc723a2"
+      },
+      "expiry": 1611667080082
+    },
+    "/home/zejr/Works/Intexfy/email_leads/env/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Intexfy/email_leads/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Intexfy/email_leads/env",
+        "fileHash": "18beb67a5460b228f01ac75a1e6bb680d68d051e06b5957cd48183e5e33683614de323c14e4d4d15a82c88cd6edccf783b12b64a5d161957f6fb2d36f0665d4e"
+      },
+      "expiry": 1616294454856
+    },
+    "/home/zejr/Works/Intexfy/email_leads/env/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Intexfy/email_leads/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Intexfy/email_leads/env",
+        "fileHash": "18beb67a5460b228f01ac75a1e6bb680d68d051e06b5957cd48183e5e33683614de323c14e4d4d15a82c88cd6edccf783b12b64a5d161957f6fb2d36f0665d4e"
+      },
+      "expiry": 1616294454859
+    },
+    "/home/zejr/Works/Intexfy/email_leads/env/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit ('env': venv)",
+        "hash": "18beb67a5460b228f01ac75a1e6bb680d68d051e06b5957cd48183e5e33683614de323c14e4d4d15a82c88cd6edccf783b12b64a5d161957f6fb2d36f0665d4e-e86f67acd8a07096eac98a200798d114"
+      },
+      "expiry": 1616294454978
+    },
+    "/home/zejr/Works/Intexfy/email_leads/env/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "18beb67a5460b228f01ac75a1e6bb680d68d051e06b5957cd48183e5e33683614de323c14e4d4d15a82c88cd6edccf783b12b64a5d161957f6fb2d36f0665d4e",
+        "info": {
+          "architecture": 3,
+          "path": "/home/zejr/Works/Intexfy/email_leads/env/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.0-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 0,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.0-final"
+          },
+          "sysPrefix": "/home/zejr/Works/Intexfy/email_leads/env",
+          "fileHash": "18beb67a5460b228f01ac75a1e6bb680d68d051e06b5957cd48183e5e33683614de323c14e4d4d15a82c88cd6edccf783b12b64a5d161957f6fb2d36f0665d4e",
+          "envName": "env",
+          "type": "Venv",
+          "displayName": "Python 3.9.0 64-bit ('env': venv)"
+        }
+      },
+      "expiry": 1616294455070
+    },
+    "/home/zejr/Works/Intexfy/email_leads/env/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "18beb67a5460b228f01ac75a1e6bb680d68d051e06b5957cd48183e5e33683614de323c14e4d4d15a82c88cd6edccf783b12b64a5d161957f6fb2d36f0665d4e"
+      },
+      "expiry": 1616294455033
+    },
+    "/home/zejr/Works/Intexfy/email_leads/env/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit ('env': venv)",
+        "hash": "18beb67a5460b228f01ac75a1e6bb680d68d051e06b5957cd48183e5e33683614de323c14e4d4d15a82c88cd6edccf783b12b64a5d161957f6fb2d36f0665d4e-965d8506d908aef44397370bce6c7b96"
+      },
+      "expiry": 1616294455134
+    },
+    "/home/zejr/Works/Intexfy/intexfy-devaneios/env/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Intexfy/intexfy-devaneios/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Intexfy/intexfy-devaneios/env",
+        "fileHash": "165e36e23c54df02261b17c77025e606004b0f2ca348b88eb1633328dc873d093d4421cba7ba54a4b42653982f356c0d241cbd3d66d0b77252f7bf0da46aa25e"
+      },
+      "expiry": 1611697813958
+    },
+    "/home/zejr/Works/Intexfy/intexfy-devaneios/env/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Intexfy/intexfy-devaneios/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Intexfy/intexfy-devaneios/env",
+        "fileHash": "8ba03bad41f60761291bdf2615db39b161ca908457f5f0e637fd6c2e37fe9644b968860c5511a58a945465c34e76903a31aeecdb14a6a7380d7f6f4cf0c7f130"
+      },
+      "expiry": 1611697813968
+    },
+    "/home/zejr/Works/Intexfy/intexfy-devaneios/env/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Intexfy/intexfy-devaneios/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Intexfy/intexfy-devaneios/env",
+        "fileHash": "165e36e23c54df02261b17c77025e606004b0f2ca348b88eb1633328dc873d093d4421cba7ba54a4b42653982f356c0d241cbd3d66d0b77252f7bf0da46aa25e"
+      },
+      "expiry": 1611697813969
+    },
+    "/home/zejr/Works/Intexfy/intexfy-devaneios/env/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.1 64-bit",
+        "hash": "165e36e23c54df02261b17c77025e606004b0f2ca348b88eb1633328dc873d093d4421cba7ba54a4b42653982f356c0d241cbd3d66d0b77252f7bf0da46aa25e-ef714662d222cdf788b0f05bc0506473"
+      },
+      "expiry": 1611714865059
+    },
+    "/home/zejr/Works/Intexfy/intexfy-devaneios/env/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "165e36e23c54df02261b17c77025e606004b0f2ca348b88eb1633328dc873d093d4421cba7ba54a4b42653982f356c0d241cbd3d66d0b77252f7bf0da46aa25e",
+        "info": {
+          "architecture": 3,
+          "path": "/home/zejr/Works/Intexfy/intexfy-devaneios/env/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.1-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 1,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.1-final"
+          },
+          "sysPrefix": "/home/zejr/Works/Intexfy/intexfy-devaneios/env",
+          "fileHash": "165e36e23c54df02261b17c77025e606004b0f2ca348b88eb1633328dc873d093d4421cba7ba54a4b42653982f356c0d241cbd3d66d0b77252f7bf0da46aa25e",
+          "type": "Unknown",
+          "displayName": "Python 3.9.1 64-bit"
+        }
+      },
+      "expiry": 1611714865120
+    },
+    "/home/zejr/Works/Intexfy/intexfy-devaneios/env/bin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "8ba03bad41f60761291bdf2615db39b161ca908457f5f0e637fd6c2e37fe9644b968860c5511a58a945465c34e76903a31aeecdb14a6a7380d7f6f4cf0c7f130"
+      },
+      "expiry": 1611697814111
+    },
+    "/home/zejr/Works/Intexfy/intexfy-devaneios/env/bin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.1 64-bit ('env': venv)",
+        "hash": "8ba03bad41f60761291bdf2615db39b161ca908457f5f0e637fd6c2e37fe9644b968860c5511a58a945465c34e76903a31aeecdb14a6a7380d7f6f4cf0c7f130-31ed2875b14027c98085dc3baf5f6dc0"
+      },
+      "expiry": 1611697814155
+    },
+    "/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "ead26da0e189ea324ec3bd811f6e0bd87e7d14a18b11ce47fc56e984bf3623e7ff758a3842cc3c96ed5ac850766ed34d90e2fcd94762582627f0d4589172eadb"
+      },
+      "expiry": 1616693299966
+    },
+    "/usr/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "ead26da0e189ea324ec3bd811f6e0bd87e7d14a18b11ce47fc56e984bf3623e7ff758a3842cc3c96ed5ac850766ed34d90e2fcd94762582627f0d4589172eadb"
+      },
+      "expiry": 1616693299983
+    },
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "/home/zejr/Works/Globo/tvg-novo-flow/env",
+      "fileHash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39",
+      "type": "Unknown"
+    },
+    "/usr/bin/python2.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.18 64-bit",
+        "hash": "3dc5900b169c22d3b234a9e2de35662f88c34d0dc79fe4d833d65601b79a3538e607bb5060e0ff8ab0ad674970297176a690321bc05a594fc218a1b88a40fdbd-b73a7a5e27ef3425e974abecaf5d36e7"
+      },
+      "expiry": 1616693300222
+    },
+    "/bin/python2.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.18 64-bit",
+        "hash": "3dc5900b169c22d3b234a9e2de35662f88c34d0dc79fe4d833d65601b79a3538e607bb5060e0ff8ab0ad674970297176a690321bc05a594fc218a1b88a40fdbd-8406bc58b03f393c3d7cd418c49bbc8b"
+      },
+      "expiry": 1616693300236
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "7ef4ab52c83c06444355b77766e5885598779fc2f65ec22ba77988443fb9c3b2d9f2e24afb966076f7727fdb3191efdfb55db7f099013c574ced342529f50e7e",
+      "type": "Unknown",
+      "displayName": "Python 3.9.0 64-bit"
+    },
+    "/usr/bin/python2.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "3dc5900b169c22d3b234a9e2de35662f88c34d0dc79fe4d833d65601b79a3538e607bb5060e0ff8ab0ad674970297176a690321bc05a594fc218a1b88a40fdbd",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python2",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.18-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 18,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.18-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "3dc5900b169c22d3b234a9e2de35662f88c34d0dc79fe4d833d65601b79a3538e607bb5060e0ff8ab0ad674970297176a690321bc05a594fc218a1b88a40fdbd",
+          "type": "Unknown",
+          "displayName": "Python 2.7.18 64-bit"
+        }
+      },
+      "expiry": 1616693300261
+    },
+    "/bin/python2.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "3dc5900b169c22d3b234a9e2de35662f88c34d0dc79fe4d833d65601b79a3538e607bb5060e0ff8ab0ad674970297176a690321bc05a594fc218a1b88a40fdbd",
+        "info": {
+          "architecture": 3,
+          "path": "/bin/python2",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.18-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 18,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.18-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "3dc5900b169c22d3b234a9e2de35662f88c34d0dc79fe4d833d65601b79a3538e607bb5060e0ff8ab0ad674970297176a690321bc05a594fc218a1b88a40fdbd",
+          "type": "Unknown",
+          "displayName": "Python 2.7.18 64-bit"
+        }
+      },
+      "expiry": 1616693300284
+    },
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "7ef4ab52c83c06444355b77766e5885598779fc2f65ec22ba77988443fb9c3b2d9f2e24afb966076f7727fdb3191efdfb55db7f099013c574ced342529f50e7e",
+      "type": "Unknown",
+      "displayName": "Python 3.9.0 64-bit"
+    },
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "7ef4ab52c83c06444355b77766e5885598779fc2f65ec22ba77988443fb9c3b2d9f2e24afb966076f7727fdb3191efdfb55db7f099013c574ced342529f50e7e",
+      "type": "Unknown",
+      "displayName": "Python 3.9.0 64-bit"
+    },
+    "/usr/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "7ef4ab52c83c06444355b77766e5885598779fc2f65ec22ba77988443fb9c3b2d9f2e24afb966076f7727fdb3191efdfb55db7f099013c574ced342529f50e7e"
+      },
+      "expiry": 1616693299977
+    },
+    "/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "7ef4ab52c83c06444355b77766e5885598779fc2f65ec22ba77988443fb9c3b2d9f2e24afb966076f7727fdb3191efdfb55db7f099013c574ced342529f50e7e"
+      },
+      "expiry": 1616693299962
+    },
+    "/home/zejr/Works/Intexfy/async_mail/env/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Intexfy/async_mail/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Intexfy/async_mail/env",
+        "fileHash": "2dfb53089bfece77f55012e6e2ee29692ea8cea61078115c38a09c47132218f2e7385e90f2d0c86939d98b6e4c053b6246e70d6b68845a661c120b90912a129c"
+      },
+      "expiry": 1616023203111
+    },
+    "/home/zejr/Works/Intexfy/async_mail/env/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Intexfy/async_mail/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Intexfy/async_mail/env",
+        "fileHash": "2dfb53089bfece77f55012e6e2ee29692ea8cea61078115c38a09c47132218f2e7385e90f2d0c86939d98b6e4c053b6246e70d6b68845a661c120b90912a129c"
+      },
+      "expiry": 1616023203143
+    },
+    "/home/zejr/Works/Intexfy/async_mail/env/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Intexfy/async_mail/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Intexfy/async_mail/env",
+        "fileHash": "2dfb53089bfece77f55012e6e2ee29692ea8cea61078115c38a09c47132218f2e7385e90f2d0c86939d98b6e4c053b6246e70d6b68845a661c120b90912a129c"
+      },
+      "expiry": 1616023203140
+    },
+    "InterpreterAutoSeletionRule-workspaceEnvs": {
+      "architecture": 3,
+      "path": "/home/zejr/Works/Olist/products-api/env/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "/home/zejr/Works/Olist/products-api/env",
+      "fileHash": "3cf73dbc4253a478ecefe4c3a3112f5c836b614b1bf462991d6c36e3f30529fd5688579a4dbe04b51d6505e37e11544a74e671151f00da904ecaf80693aa9bd4",
+      "envName": "env",
+      "type": "Venv"
+    },
+    "/home/zejr/Works/Intexfy/async_mail/env/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit ('env': venv)",
+        "hash": "2dfb53089bfece77f55012e6e2ee29692ea8cea61078115c38a09c47132218f2e7385e90f2d0c86939d98b6e4c053b6246e70d6b68845a661c120b90912a129c-4c815ef2988cf2ef4e7835d5e1490f39"
+      },
+      "expiry": 1616023203261
+    },
+    "/usr/bin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit",
+        "hash": "7ef4ab52c83c06444355b77766e5885598779fc2f65ec22ba77988443fb9c3b2d9f2e24afb966076f7727fdb3191efdfb55db7f099013c574ced342529f50e7e-ec38c58ede081c2c13f63e66371e6e7e"
+      },
+      "expiry": 1616693300228
+    },
+    "/bin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit",
+        "hash": "7ef4ab52c83c06444355b77766e5885598779fc2f65ec22ba77988443fb9c3b2d9f2e24afb966076f7727fdb3191efdfb55db7f099013c574ced342529f50e7e-acb60fa57b11c74081b94f854486c59e"
+      },
+      "expiry": 1616693300243
+    },
+    "/home/zejr/Works/Intexfy/async_mail/env/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "2dfb53089bfece77f55012e6e2ee29692ea8cea61078115c38a09c47132218f2e7385e90f2d0c86939d98b6e4c053b6246e70d6b68845a661c120b90912a129c",
+        "info": {
+          "architecture": 3,
+          "path": "/home/zejr/Works/Intexfy/async_mail/env/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.0-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 0,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.0-final"
+          },
+          "sysPrefix": "/home/zejr/Works/Intexfy/async_mail/env",
+          "fileHash": "2dfb53089bfece77f55012e6e2ee29692ea8cea61078115c38a09c47132218f2e7385e90f2d0c86939d98b6e4c053b6246e70d6b68845a661c120b90912a129c",
+          "envName": "env",
+          "type": "Venv",
+          "displayName": "Python 3.9.0 64-bit ('env': venv)"
+        }
+      },
+      "expiry": 1616023203313
+    },
+    "/usr/bin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "7ef4ab52c83c06444355b77766e5885598779fc2f65ec22ba77988443fb9c3b2d9f2e24afb966076f7727fdb3191efdfb55db7f099013c574ced342529f50e7e",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3.9",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.0-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 0,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.0-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "7ef4ab52c83c06444355b77766e5885598779fc2f65ec22ba77988443fb9c3b2d9f2e24afb966076f7727fdb3191efdfb55db7f099013c574ced342529f50e7e",
+          "type": "Unknown",
+          "displayName": "Python 3.9.0 64-bit"
+        }
+      },
+      "expiry": 1616693300276
+    },
+    "/bin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "7ef4ab52c83c06444355b77766e5885598779fc2f65ec22ba77988443fb9c3b2d9f2e24afb966076f7727fdb3191efdfb55db7f099013c574ced342529f50e7e",
+        "info": {
+          "architecture": 3,
+          "path": "/bin/python3.9",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.0-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 0,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.0-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "7ef4ab52c83c06444355b77766e5885598779fc2f65ec22ba77988443fb9c3b2d9f2e24afb966076f7727fdb3191efdfb55db7f099013c574ced342529f50e7e",
+          "type": "Unknown",
+          "displayName": "Python 3.9.0 64-bit"
+        }
+      },
+      "expiry": 1616693300300
+    },
+    "/home/zejr/Works/Olist/products-api/env/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/products-api/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/products-api/env",
+        "fileHash": "3cf73dbc4253a478ecefe4c3a3112f5c836b614b1bf462991d6c36e3f30529fd5688579a4dbe04b51d6505e37e11544a74e671151f00da904ecaf80693aa9bd4"
+      },
+      "expiry": 1616692978577
+    },
+    "/home/zejr/Works/Olist/products-api/env/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/products-api/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/products-api/env",
+        "fileHash": "3cf73dbc4253a478ecefe4c3a3112f5c836b614b1bf462991d6c36e3f30529fd5688579a4dbe04b51d6505e37e11544a74e671151f00da904ecaf80693aa9bd4"
+      },
+      "expiry": 1616692978557
+    },
+    "/home/zejr/Works/Olist/products-api/env/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/products-api/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/products-api/env",
+        "fileHash": "3cf73dbc4253a478ecefe4c3a3112f5c836b614b1bf462991d6c36e3f30529fd5688579a4dbe04b51d6505e37e11544a74e671151f00da904ecaf80693aa9bd4"
+      },
+      "expiry": 1616692978549
+    },
+    "/home/zejr/Works/Olist/products-api/env/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "3cf73dbc4253a478ecefe4c3a3112f5c836b614b1bf462991d6c36e3f30529fd5688579a4dbe04b51d6505e37e11544a74e671151f00da904ecaf80693aa9bd4"
+      },
+      "expiry": 1613235760987
+    },
+    "/home/zejr/Works/Olist/products-api/env/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit ('env': venv)",
+        "hash": "3cf73dbc4253a478ecefe4c3a3112f5c836b614b1bf462991d6c36e3f30529fd5688579a4dbe04b51d6505e37e11544a74e671151f00da904ecaf80693aa9bd4-b27561d0b2daac2f65d64d95d3287de8"
+      },
+      "expiry": 1616692978660
+    },
+    "/home/zejr/Works/Olist/products-api/env/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "3cf73dbc4253a478ecefe4c3a3112f5c836b614b1bf462991d6c36e3f30529fd5688579a4dbe04b51d6505e37e11544a74e671151f00da904ecaf80693aa9bd4",
+        "info": {
+          "architecture": 3,
+          "path": "/home/zejr/Works/Olist/products-api/env/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.0-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 0,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.0-final"
+          },
+          "sysPrefix": "/home/zejr/Works/Olist/products-api/env",
+          "fileHash": "3cf73dbc4253a478ecefe4c3a3112f5c836b614b1bf462991d6c36e3f30529fd5688579a4dbe04b51d6505e37e11544a74e671151f00da904ecaf80693aa9bd4",
+          "envName": "env",
+          "type": "Venv",
+          "displayName": "Python 3.9.0 64-bit ('env': venv)"
+        }
+      },
+      "expiry": 1616692978727
+    },
+    "/home/zejr/Works/Olist/products-api/env/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit ('env': venv)",
+        "hash": "3cf73dbc4253a478ecefe4c3a3112f5c836b614b1bf462991d6c36e3f30529fd5688579a4dbe04b51d6505e37e11544a74e671151f00da904ecaf80693aa9bd4-8cf2d3df63cca5e4cdef5d024d5f5e4a"
+      },
+      "expiry": 1613235761152
+    },
+    "/home/zejr/Works/Globo/tvg-validacao-facil/env/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Globo/tvg-validacao-facil/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Globo/tvg-validacao-facil/env",
+        "fileHash": "ff9db339a7d83fa67d9175c9b3fdd4431241e8724a217287660fb9f667183edee9021d788d0aaa7c9e19f918cf58fe1166957279feab72d148d49eb632b39e22"
+      },
+      "expiry": 1613692751133
+    },
+    "/home/zejr/Works/Globo/tvg-validacao-facil/env/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Globo/tvg-validacao-facil/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Globo/tvg-validacao-facil/env",
+        "fileHash": "ff9db339a7d83fa67d9175c9b3fdd4431241e8724a217287660fb9f667183edee9021d788d0aaa7c9e19f918cf58fe1166957279feab72d148d49eb632b39e22"
+      },
+      "expiry": 1613692751134
+    },
+    "/home/zejr/Works/Globo/tvg-validacao-facil/env/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Globo/tvg-validacao-facil/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Globo/tvg-validacao-facil/env",
+        "fileHash": "ff9db339a7d83fa67d9175c9b3fdd4431241e8724a217287660fb9f667183edee9021d788d0aaa7c9e19f918cf58fe1166957279feab72d148d49eb632b39e22"
+      },
+      "expiry": 1613692751136
+    },
+    "/home/zejr/Works/Globo/tvg-validacao-facil/env/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit ('env': venv)",
+        "hash": "ff9db339a7d83fa67d9175c9b3fdd4431241e8724a217287660fb9f667183edee9021d788d0aaa7c9e19f918cf58fe1166957279feab72d148d49eb632b39e22-0448ae61010c2fbcf2379e7e33bfbfe2"
+      },
+      "expiry": 1613692751160
+    },
+    "/home/zejr/Works/Globo/tvg-validacao-facil/env/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "ff9db339a7d83fa67d9175c9b3fdd4431241e8724a217287660fb9f667183edee9021d788d0aaa7c9e19f918cf58fe1166957279feab72d148d49eb632b39e22",
+        "info": {
+          "architecture": 3,
+          "path": "/home/zejr/Works/Globo/tvg-validacao-facil/env/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.0-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 0,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.0-final"
+          },
+          "sysPrefix": "/home/zejr/Works/Globo/tvg-validacao-facil/env",
+          "fileHash": "ff9db339a7d83fa67d9175c9b3fdd4431241e8724a217287660fb9f667183edee9021d788d0aaa7c9e19f918cf58fe1166957279feab72d148d49eb632b39e22",
+          "envName": "env",
+          "type": "Venv",
+          "displayName": "Python 3.9.0 64-bit ('env': venv)"
+        }
+      },
+      "expiry": 1613692751176
+    },
+    "/home/zejr/Works/Globo/tvg-validacao-facil/env/bin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "ff9db339a7d83fa67d9175c9b3fdd4431241e8724a217287660fb9f667183edee9021d788d0aaa7c9e19f918cf58fe1166957279feab72d148d49eb632b39e22"
+      },
+      "expiry": 1613692751346
+    },
+    "/home/zejr/Works/Globo/tvg-validacao-facil/env/bin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit ('env': venv)",
+        "hash": "ff9db339a7d83fa67d9175c9b3fdd4431241e8724a217287660fb9f667183edee9021d788d0aaa7c9e19f918cf58fe1166957279feab72d148d49eb632b39e22-97b81b4a17186ed48931bfe85d8d3b2f"
+      },
+      "expiry": 1613692751516
+    },
+    "/home/zejr/Works/Olist/olist-webapp/env/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/olist-webapp/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/olist-webapp/env",
+        "fileHash": "c77cc1066c974d8b3f5838e00011c271585695c85c0d353c912b7e2738d27931c969062745573d7d792f5dd1b2789245e299a534d07ee63f3a3e4c404c2c0c13"
+      },
+      "expiry": 1616692916928
+    },
+    "/home/zejr/Works/Olist/olist-webapp/env/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/olist-webapp/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/olist-webapp/env",
+        "fileHash": "c77cc1066c974d8b3f5838e00011c271585695c85c0d353c912b7e2738d27931c969062745573d7d792f5dd1b2789245e299a534d07ee63f3a3e4c404c2c0c13"
+      },
+      "expiry": 1616692916889
+    },
+    "/home/zejr/Works/Olist/olist-webapp/env/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/olist-webapp/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/olist-webapp/env",
+        "fileHash": "c77cc1066c974d8b3f5838e00011c271585695c85c0d353c912b7e2738d27931c969062745573d7d792f5dd1b2789245e299a534d07ee63f3a3e4c404c2c0c13"
+      },
+      "expiry": 1616692916893
+    },
+    "/home/zejr/Works/Olist/olist-webapp/env/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit ('env': venv)",
+        "hash": "c77cc1066c974d8b3f5838e00011c271585695c85c0d353c912b7e2738d27931c969062745573d7d792f5dd1b2789245e299a534d07ee63f3a3e4c404c2c0c13-9991606081b70f647537a7f160339ab3"
+      },
+      "expiry": 1616692917141
+    },
+    "/home/zejr/Works/Olist/olist-webapp/env/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "c77cc1066c974d8b3f5838e00011c271585695c85c0d353c912b7e2738d27931c969062745573d7d792f5dd1b2789245e299a534d07ee63f3a3e4c404c2c0c13",
+        "info": {
+          "architecture": 3,
+          "path": "/home/zejr/Works/Olist/olist-webapp/env/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.0-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 0,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.0-final"
+          },
+          "sysPrefix": "/home/zejr/Works/Olist/olist-webapp/env",
+          "fileHash": "c77cc1066c974d8b3f5838e00011c271585695c85c0d353c912b7e2738d27931c969062745573d7d792f5dd1b2789245e299a534d07ee63f3a3e4c404c2c0c13",
+          "envName": "env",
+          "type": "Venv",
+          "displayName": "Python 3.9.0 64-bit ('env': venv)"
+        }
+      },
+      "expiry": 1616692917263
+    },
+    "/home/zejr/Works/Olist/olist-webapp/env/bin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "c77cc1066c974d8b3f5838e00011c271585695c85c0d353c912b7e2738d27931c969062745573d7d792f5dd1b2789245e299a534d07ee63f3a3e4c404c2c0c13"
+      },
+      "expiry": 1616692917195
+    },
+    "/home/zejr/Works/Olist/olist-webapp/env/bin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit ('env': venv)",
+        "hash": "c77cc1066c974d8b3f5838e00011c271585695c85c0d353c912b7e2738d27931c969062745573d7d792f5dd1b2789245e299a534d07ee63f3a3e4c404c2c0c13-0680e3f9dfdeff669ae314ee35f466e2"
+      },
+      "expiry": 1616692917385
+    },
+    "/home/zejr/Works/Olist/sellers-api/env/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/sellers-api/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/sellers-api/env",
+        "fileHash": "9e3c890c925a746095033a56d05af979bf173a096e0483146f9bfbced901467b528872eb84bfd14d9a837204772436f40493fb48c04280ece6bfe9890333bf8b"
+      },
+      "expiry": 1615491463132
+    },
+    "/home/zejr/Works/Olist/sellers-api/env/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/sellers-api/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/sellers-api/env",
+        "fileHash": "9e3c890c925a746095033a56d05af979bf173a096e0483146f9bfbced901467b528872eb84bfd14d9a837204772436f40493fb48c04280ece6bfe9890333bf8b"
+      },
+      "expiry": 1615491463282
+    },
+    "/home/zejr/Works/Olist/sellers-api/env/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/sellers-api/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/sellers-api/env",
+        "fileHash": "9e3c890c925a746095033a56d05af979bf173a096e0483146f9bfbced901467b528872eb84bfd14d9a837204772436f40493fb48c04280ece6bfe9890333bf8b"
+      },
+      "expiry": 1615491463214
+    },
+    "/home/zejr/Works/Olist/sellers-api/env/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "9e3c890c925a746095033a56d05af979bf173a096e0483146f9bfbced901467b528872eb84bfd14d9a837204772436f40493fb48c04280ece6bfe9890333bf8b"
+      },
+      "expiry": 1615491463343
+    },
+    "/home/zejr/Works/Olist/sellers-api/env/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit ('env': venv)",
+        "hash": "9e3c890c925a746095033a56d05af979bf173a096e0483146f9bfbced901467b528872eb84bfd14d9a837204772436f40493fb48c04280ece6bfe9890333bf8b-3a5e613d149358603f01aec2585e7853"
+      },
+      "expiry": 1615491463370
+    },
+    "/home/zejr/Works/Olist/sellers-api/env/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "9e3c890c925a746095033a56d05af979bf173a096e0483146f9bfbced901467b528872eb84bfd14d9a837204772436f40493fb48c04280ece6bfe9890333bf8b",
+        "info": {
+          "architecture": 3,
+          "path": "/home/zejr/Works/Olist/sellers-api/env/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.0-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 0,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.0-final"
+          },
+          "sysPrefix": "/home/zejr/Works/Olist/sellers-api/env",
+          "fileHash": "9e3c890c925a746095033a56d05af979bf173a096e0483146f9bfbced901467b528872eb84bfd14d9a837204772436f40493fb48c04280ece6bfe9890333bf8b",
+          "envName": "env",
+          "type": "Venv",
+          "displayName": "Python 3.9.0 64-bit ('env': venv)"
+        }
+      },
+      "expiry": 1615491463515
+    },
+    "/home/zejr/Works/Olist/sellers-api/env/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit ('env': venv)",
+        "hash": "9e3c890c925a746095033a56d05af979bf173a096e0483146f9bfbced901467b528872eb84bfd14d9a837204772436f40493fb48c04280ece6bfe9890333bf8b-7c53185d21a6049e985ca47d30bec787"
+      },
+      "expiry": 1615491463608
+    },
+    "/home/zejr/Works/Intexfy/email_leads/env/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Intexfy/email_leads/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Intexfy/email_leads/env",
+        "fileHash": "18beb67a5460b228f01ac75a1e6bb680d68d051e06b5957cd48183e5e33683614de323c14e4d4d15a82c88cd6edccf783b12b64a5d161957f6fb2d36f0665d4e"
+      },
+      "expiry": 1616294454805
+    },
+    "/home/zejr/Works/Intexfy/intexfyinternalplatform/backend/env/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Intexfy/intexfyinternalplatform/backend/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Intexfy/intexfyinternalplatform/backend/env",
+        "fileHash": "e2a7338aa863c2f6d4ef0eceaef4d2f12f57ca927556a4cd9796ad987ce5bc2c02bbe6ee3757226a14c6158d9354fdadc7698420364be0e1b66351bd27bc61c4"
+      },
+      "expiry": 1616717448608
+    },
+    "/home/zejr/Works/Intexfy/intexfyinternalplatform/backend/env/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Intexfy/intexfyinternalplatform/backend/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Intexfy/intexfyinternalplatform/backend/env",
+        "fileHash": "e2a7338aa863c2f6d4ef0eceaef4d2f12f57ca927556a4cd9796ad987ce5bc2c02bbe6ee3757226a14c6158d9354fdadc7698420364be0e1b66351bd27bc61c4"
+      },
+      "expiry": 1616717448699
+    },
+    "/home/zejr/Works/Intexfy/intexfyinternalplatform/backend/env/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Intexfy/intexfyinternalplatform/backend/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Intexfy/intexfyinternalplatform/backend/env",
+        "fileHash": "e2a7338aa863c2f6d4ef0eceaef4d2f12f57ca927556a4cd9796ad987ce5bc2c02bbe6ee3757226a14c6158d9354fdadc7698420364be0e1b66351bd27bc61c4"
+      },
+      "expiry": 1616717448697
+    },
+    "/home/zejr/Works/Intexfy/intexfyinternalplatform/backend/env/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit",
+        "hash": "e2a7338aa863c2f6d4ef0eceaef4d2f12f57ca927556a4cd9796ad987ce5bc2c02bbe6ee3757226a14c6158d9354fdadc7698420364be0e1b66351bd27bc61c4-6c2baef98d948c530da264d924e1cea6"
+      },
+      "expiry": 1616717448803
+    },
+    "/home/zejr/Works/Intexfy/intexfyinternalplatform/backend/env/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "e2a7338aa863c2f6d4ef0eceaef4d2f12f57ca927556a4cd9796ad987ce5bc2c02bbe6ee3757226a14c6158d9354fdadc7698420364be0e1b66351bd27bc61c4",
+        "info": {
+          "architecture": 3,
+          "path": "/home/zejr/Works/Intexfy/intexfyinternalplatform/backend/env/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.0-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 0,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.0-final"
+          },
+          "sysPrefix": "/home/zejr/Works/Intexfy/intexfyinternalplatform/backend/env",
+          "fileHash": "e2a7338aa863c2f6d4ef0eceaef4d2f12f57ca927556a4cd9796ad987ce5bc2c02bbe6ee3757226a14c6158d9354fdadc7698420364be0e1b66351bd27bc61c4",
+          "type": "Unknown",
+          "displayName": "Python 3.9.0 64-bit ('env': venv)"
+        }
+      },
+      "expiry": 1616729424053
+    },
+    "/home/zejr/Works/Intexfy/intexfyinternalplatform/backend/env/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "e2a7338aa863c2f6d4ef0eceaef4d2f12f57ca927556a4cd9796ad987ce5bc2c02bbe6ee3757226a14c6158d9354fdadc7698420364be0e1b66351bd27bc61c4",
+        "info": {
+          "architecture": 3,
+          "path": "/home/zejr/Works/Intexfy/intexfyinternalplatform/backend/env/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.0-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 0,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.0-final"
+          },
+          "sysPrefix": "/home/zejr/Works/Intexfy/intexfyinternalplatform/backend/env",
+          "fileHash": "e2a7338aa863c2f6d4ef0eceaef4d2f12f57ca927556a4cd9796ad987ce5bc2c02bbe6ee3757226a14c6158d9354fdadc7698420364be0e1b66351bd27bc61c4",
+          "type": "Unknown",
+          "displayName": "Python 3.9.0 64-bit"
+        }
+      },
+      "expiry": 1616717448896
+    },
+    "/home/zejr/Works/Intexfy/intexfyinternalplatform/backend/env/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit ('env': venv)",
+        "hash": "e2a7338aa863c2f6d4ef0eceaef4d2f12f57ca927556a4cd9796ad987ce5bc2c02bbe6ee3757226a14c6158d9354fdadc7698420364be0e1b66351bd27bc61c4-eb28deb70c740576af2c7f25da60448c"
+      },
+      "expiry": 1616729423922
+    },
+    "/home/zejr/.cache/pypoetry/virtualenvs/products-api-jWfuJ8Sw-py3.9/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/.cache/pypoetry/virtualenvs/products-api-jWfuJ8Sw-py3.9/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/.cache/pypoetry/virtualenvs/products-api-jWfuJ8Sw-py3.9",
+        "fileHash": "f7e1722d497bb5f80ee8018254e3a7a428e1359966acd90ae1c23d6615b54d8ba1fef43e959bcb0649ed765bfe24e36e60825e8212723b7a87e43448a66454e2"
+      },
+      "expiry": 1616692978551
+    },
+    "/home/zejr/.cache/pypoetry/virtualenvs/products-api-jWfuJ8Sw-py3.9/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit",
+        "hash": "f7e1722d497bb5f80ee8018254e3a7a428e1359966acd90ae1c23d6615b54d8ba1fef43e959bcb0649ed765bfe24e36e60825e8212723b7a87e43448a66454e2-31b63e2dbf8de4e7a69b9566bba63833"
+      },
+      "expiry": 1616693013568
+    },
+    "/home/zejr/.cache/pypoetry/virtualenvs/products-api-jWfuJ8Sw-py3.9/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "f7e1722d497bb5f80ee8018254e3a7a428e1359966acd90ae1c23d6615b54d8ba1fef43e959bcb0649ed765bfe24e36e60825e8212723b7a87e43448a66454e2",
+        "info": {
+          "architecture": 3,
+          "path": "/home/zejr/.cache/pypoetry/virtualenvs/products-api-jWfuJ8Sw-py3.9/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.0-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 0,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.0-final"
+          },
+          "sysPrefix": "/home/zejr/.cache/pypoetry/virtualenvs/products-api-jWfuJ8Sw-py3.9",
+          "fileHash": "f7e1722d497bb5f80ee8018254e3a7a428e1359966acd90ae1c23d6615b54d8ba1fef43e959bcb0649ed765bfe24e36e60825e8212723b7a87e43448a66454e2",
+          "type": "Unknown",
+          "displayName": "Python 3.9.0 64-bit"
+        }
+      },
+      "expiry": 1616693013580
+    },
+    "/home/zejr/Works/Olist/zaig-order-validation-service/env/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/zaig-order-validation-service/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/zaig-order-validation-service/env",
+        "fileHash": "89b0757558c6babe29554bf00273b1c13560491076602c39d7bed95bc0ead45d2d4d45064112974e5b5eefbef7240b4f25c00f994265502efaf0d114af18d63a"
+      },
+      "expiry": 1616698352331
+    },
+    "/home/zejr/Works/Olist/zaig-order-validation-service/env/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/zaig-order-validation-service/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/zaig-order-validation-service/env",
+        "fileHash": "89b0757558c6babe29554bf00273b1c13560491076602c39d7bed95bc0ead45d2d4d45064112974e5b5eefbef7240b4f25c00f994265502efaf0d114af18d63a"
+      },
+      "expiry": 1616698352241
+    },
+    "/home/zejr/Works/Olist/zaig-order-validation-service/env/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/zaig-order-validation-service/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/zaig-order-validation-service/env",
+        "fileHash": "89b0757558c6babe29554bf00273b1c13560491076602c39d7bed95bc0ead45d2d4d45064112974e5b5eefbef7240b4f25c00f994265502efaf0d114af18d63a"
+      },
+      "expiry": 1616698352243
+    },
+    "/home/zejr/Works/Olist/zaig-order-validation-service/env/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "89b0757558c6babe29554bf00273b1c13560491076602c39d7bed95bc0ead45d2d4d45064112974e5b5eefbef7240b4f25c00f994265502efaf0d114af18d63a"
+      },
+      "expiry": 1616698352432
+    },
+    "/home/zejr/Works/Olist/zaig-order-validation-service/env/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit ('env': venv)",
+        "hash": "89b0757558c6babe29554bf00273b1c13560491076602c39d7bed95bc0ead45d2d4d45064112974e5b5eefbef7240b4f25c00f994265502efaf0d114af18d63a-94f903997f7221b2015f527ea9848b11"
+      },
+      "expiry": 1616698352461
+    },
+    "/home/zejr/Works/Olist/zaig-order-validation-service/env/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "89b0757558c6babe29554bf00273b1c13560491076602c39d7bed95bc0ead45d2d4d45064112974e5b5eefbef7240b4f25c00f994265502efaf0d114af18d63a",
+        "info": {
+          "architecture": 3,
+          "path": "/home/zejr/Works/Olist/zaig-order-validation-service/env/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.0-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 0,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.0-final"
+          },
+          "sysPrefix": "/home/zejr/Works/Olist/zaig-order-validation-service/env",
+          "fileHash": "89b0757558c6babe29554bf00273b1c13560491076602c39d7bed95bc0ead45d2d4d45064112974e5b5eefbef7240b4f25c00f994265502efaf0d114af18d63a",
+          "envName": "env",
+          "type": "Venv",
+          "displayName": "Python 3.9.0 64-bit ('env': venv)"
+        }
+      },
+      "expiry": 1616698352602
+    },
+    "/home/zejr/Works/Olist/zaig-order-validation-service/env/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit ('env': venv)",
+        "hash": "89b0757558c6babe29554bf00273b1c13560491076602c39d7bed95bc0ead45d2d4d45064112974e5b5eefbef7240b4f25c00f994265502efaf0d114af18d63a-388b41f879d86a93ceac41dd66c817ef"
+      },
+      "expiry": 1616698352731
+    },
+    "InterpreterAutoSeletionRule-environment": {
+      "architecture": 3,
+      "path": "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "/home/zejr/Works/Globo/tvg-novo-flow/env",
+      "fileHash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39",
+      "type": "VirtualEnv"
+    }
+  },
+  "coc-python|/home/zejr/Works/Globo/tvg-novo-flow": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:4a2e2fde47da6cef2e4b7eb5d8015622": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:4a2e2fde47da6cef2e4b7eb5d8015622": [
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Globo/tvg-novo-flow/env",
+        "fileHash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Globo/tvg-novo-flow/env",
+        "fileHash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Globo/tvg-novo-flow/env",
+        "fileHash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python3.9",
+    "autoSelectedWorkspacePythonInterpreter-/home/zejr/Works/Globo/tvg-novo-flow": {
+      "architecture": 3,
+      "path": "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "/home/zejr/Works/Globo/tvg-novo-flow/env",
+      "fileHash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39",
+      "type": "VirtualEnv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Globo/tvg-novo-flow/env",
+        "fileHash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Globo/tvg-novo-flow/env",
+        "fileHash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Globo/tvg-novo-flow/env",
+        "fileHash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ]
+  },
+  "coc-python|/home/zejr/Works/Olist/olist-migrator": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:e94d454a3ee017d4d032a6077f74427f": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:e94d454a3ee017d4d032a6077f74427f": [
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/olist-migrator/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/olist-migrator/env",
+        "fileHash": "0497c54a12f3264c79ddc5a9d950bff7cb7fb59aa1f4322681d3e9e453236c90138f5fa34f3ec5438d9d05413c563d6cfc7c3dd2ef3cee4fd7b9a8d018807803",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/olist-migrator/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/olist-migrator/env",
+        "fileHash": "0497c54a12f3264c79ddc5a9d950bff7cb7fb59aa1f4322681d3e9e453236c90138f5fa34f3ec5438d9d05413c563d6cfc7c3dd2ef3cee4fd7b9a8d018807803",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/olist-migrator/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/olist-migrator/env",
+        "fileHash": "0497c54a12f3264c79ddc5a9d950bff7cb7fb59aa1f4322681d3e9e453236c90138f5fa34f3ec5438d9d05413c563d6cfc7c3dd2ef3cee4fd7b9a8d018807803",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/home/zejr/Works/Olist/olist-migrator/env/bin/python3.9",
+    "autoSelectedWorkspacePythonInterpreter-/home/zejr/Works/Olist/olist-migrator": {
+      "architecture": 3,
+      "path": "/home/zejr/Works/Olist/olist-migrator/env/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/home/zejr/Works/Olist/olist-migrator/env",
+      "fileHash": "0497c54a12f3264c79ddc5a9d950bff7cb7fb59aa1f4322681d3e9e453236c90138f5fa34f3ec5438d9d05413c563d6cfc7c3dd2ef3cee4fd7b9a8d018807803",
+      "envName": "env",
+      "type": "Venv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/olist-migrator/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/olist-migrator/env",
+        "fileHash": "0497c54a12f3264c79ddc5a9d950bff7cb7fb59aa1f4322681d3e9e453236c90138f5fa34f3ec5438d9d05413c563d6cfc7c3dd2ef3cee4fd7b9a8d018807803",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/olist-migrator/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/olist-migrator/env",
+        "fileHash": "0497c54a12f3264c79ddc5a9d950bff7cb7fb59aa1f4322681d3e9e453236c90138f5fa34f3ec5438d9d05413c563d6cfc7c3dd2ef3cee4fd7b9a8d018807803",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/olist-migrator/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/olist-migrator/env",
+        "fileHash": "0497c54a12f3264c79ddc5a9d950bff7cb7fb59aa1f4322681d3e9e453236c90138f5fa34f3ec5438d9d05413c563d6cfc7c3dd2ef3cee4fd7b9a8d018807803",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ]
+  },
+  "coc-python|/home/zejr/Works/Intexfy/email_leads": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:a7a3fd7f047d71cf413bacd53a7bc92d": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:a7a3fd7f047d71cf413bacd53a7bc92d": [
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Intexfy/email_leads/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Intexfy/email_leads/env",
+        "fileHash": "18beb67a5460b228f01ac75a1e6bb680d68d051e06b5957cd48183e5e33683614de323c14e4d4d15a82c88cd6edccf783b12b64a5d161957f6fb2d36f0665d4e",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Intexfy/email_leads/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Intexfy/email_leads/env",
+        "fileHash": "18beb67a5460b228f01ac75a1e6bb680d68d051e06b5957cd48183e5e33683614de323c14e4d4d15a82c88cd6edccf783b12b64a5d161957f6fb2d36f0665d4e",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Intexfy/email_leads/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Intexfy/email_leads/env",
+        "fileHash": "18beb67a5460b228f01ac75a1e6bb680d68d051e06b5957cd48183e5e33683614de323c14e4d4d15a82c88cd6edccf783b12b64a5d161957f6fb2d36f0665d4e",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/home/zejr/Works/Intexfy/email_leads/env/bin/python3",
+    "autoSelectedWorkspacePythonInterpreter-/home/zejr/Works/Intexfy/email_leads": {
+      "architecture": 3,
+      "path": "/home/zejr/Works/Intexfy/email_leads/env/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "/home/zejr/Works/Intexfy/email_leads/env",
+      "fileHash": "18beb67a5460b228f01ac75a1e6bb680d68d051e06b5957cd48183e5e33683614de323c14e4d4d15a82c88cd6edccf783b12b64a5d161957f6fb2d36f0665d4e",
+      "type": "VirtualEnv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Intexfy/email_leads/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Intexfy/email_leads/env",
+        "fileHash": "18beb67a5460b228f01ac75a1e6bb680d68d051e06b5957cd48183e5e33683614de323c14e4d4d15a82c88cd6edccf783b12b64a5d161957f6fb2d36f0665d4e",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Intexfy/email_leads/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Intexfy/email_leads/env",
+        "fileHash": "18beb67a5460b228f01ac75a1e6bb680d68d051e06b5957cd48183e5e33683614de323c14e4d4d15a82c88cd6edccf783b12b64a5d161957f6fb2d36f0665d4e",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Intexfy/email_leads/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Intexfy/email_leads/env",
+        "fileHash": "18beb67a5460b228f01ac75a1e6bb680d68d051e06b5957cd48183e5e33683614de323c14e4d4d15a82c88cd6edccf783b12b64a5d161957f6fb2d36f0665d4e",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ]
+  },
+  "coc-python|/home/zejr/Works/Intexfy/intexfy-devaneios": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:bad5ef9c9ac2156abac0f0c610f3bd2f": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:bad5ef9c9ac2156abac0f0c610f3bd2f": [
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Intexfy/intexfy-devaneios/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Intexfy/intexfy-devaneios/env",
+        "fileHash": "165e36e23c54df02261b17c77025e606004b0f2ca348b88eb1633328dc873d093d4421cba7ba54a4b42653982f356c0d241cbd3d66d0b77252f7bf0da46aa25e",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Intexfy/intexfy-devaneios/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Intexfy/intexfy-devaneios/env",
+        "fileHash": "165e36e23c54df02261b17c77025e606004b0f2ca348b88eb1633328dc873d093d4421cba7ba54a4b42653982f356c0d241cbd3d66d0b77252f7bf0da46aa25e",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Intexfy/intexfy-devaneios/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Intexfy/intexfy-devaneios/env",
+        "fileHash": "8ba03bad41f60761291bdf2615db39b161ca908457f5f0e637fd6c2e37fe9644b968860c5511a58a945465c34e76903a31aeecdb14a6a7380d7f6f4cf0c7f130",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/home/zejr/Works/Intexfy/intexfy-devaneios/env/bin/python3.9",
+    "autoSelectedWorkspacePythonInterpreter-/home/zejr/Works/Intexfy/intexfy-devaneios": {
+      "architecture": 3,
+      "path": "/home/zejr/Works/Intexfy/intexfy-devaneios/env/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/home/zejr/Works/Intexfy/intexfy-devaneios/env",
+      "fileHash": "165e36e23c54df02261b17c77025e606004b0f2ca348b88eb1633328dc873d093d4421cba7ba54a4b42653982f356c0d241cbd3d66d0b77252f7bf0da46aa25e",
+      "type": "VirtualEnv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Intexfy/intexfy-devaneios/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Intexfy/intexfy-devaneios/env",
+        "fileHash": "165e36e23c54df02261b17c77025e606004b0f2ca348b88eb1633328dc873d093d4421cba7ba54a4b42653982f356c0d241cbd3d66d0b77252f7bf0da46aa25e",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Intexfy/intexfy-devaneios/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Intexfy/intexfy-devaneios/env",
+        "fileHash": "165e36e23c54df02261b17c77025e606004b0f2ca348b88eb1633328dc873d093d4421cba7ba54a4b42653982f356c0d241cbd3d66d0b77252f7bf0da46aa25e",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Intexfy/intexfy-devaneios/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Intexfy/intexfy-devaneios/env",
+        "fileHash": "8ba03bad41f60761291bdf2615db39b161ca908457f5f0e637fd6c2e37fe9644b968860c5511a58a945465c34e76903a31aeecdb14a6a7380d7f6f4cf0c7f130",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ]
+  },
+  "coc-python|/home/zejr/Works/Intexfy/TRASH/email_validator": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:30c5c84aef66e87badf758244a772b57": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:30c5c84aef66e87badf758244a772b57": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/zejr/Works/Intexfy/TRASH/email_validator": {
+      "architecture": 3,
+      "path": "/usr/local/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/usr/local",
+      "fileHash": "bd2ed6009121c7fc4bd1b5b393ba93e10a185157ba279a7beaeed19ad9d5de2cc5d481f2948c011eba53b6a84c2cf84029a7f2d6a45dbb24b73a32b9be35bad0",
+      "type": "Unknown",
+      "displayName": "Python 3.9.1 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/zejr/Works/Intexfy/async_mail": {
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:c69615d4ce9a9514da0f111d3a78a186": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:c69615d4ce9a9514da0f111d3a78a186": [
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Intexfy/async_mail/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Intexfy/async_mail/env",
+        "fileHash": "2dfb53089bfece77f55012e6e2ee29692ea8cea61078115c38a09c47132218f2e7385e90f2d0c86939d98b6e4c053b6246e70d6b68845a661c120b90912a129c",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Intexfy/async_mail/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Intexfy/async_mail/env",
+        "fileHash": "2dfb53089bfece77f55012e6e2ee29692ea8cea61078115c38a09c47132218f2e7385e90f2d0c86939d98b6e4c053b6246e70d6b68845a661c120b90912a129c",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Intexfy/async_mail/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Intexfy/async_mail/env",
+        "fileHash": "2dfb53089bfece77f55012e6e2ee29692ea8cea61078115c38a09c47132218f2e7385e90f2d0c86939d98b6e4c053b6246e70d6b68845a661c120b90912a129c",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Intexfy/async_mail/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Intexfy/async_mail/env",
+        "fileHash": "2dfb53089bfece77f55012e6e2ee29692ea8cea61078115c38a09c47132218f2e7385e90f2d0c86939d98b6e4c053b6246e70d6b68845a661c120b90912a129c",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Intexfy/async_mail/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Intexfy/async_mail/env",
+        "fileHash": "2dfb53089bfece77f55012e6e2ee29692ea8cea61078115c38a09c47132218f2e7385e90f2d0c86939d98b6e4c053b6246e70d6b68845a661c120b90912a129c",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Intexfy/async_mail/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Intexfy/async_mail/env",
+        "fileHash": "2dfb53089bfece77f55012e6e2ee29692ea8cea61078115c38a09c47132218f2e7385e90f2d0c86939d98b6e4c053b6246e70d6b68845a661c120b90912a129c",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/usr/bin/python2",
+    "autoSelectedWorkspacePythonInterpreter-/home/zejr/Works/Intexfy/async_mail": {
+      "architecture": 3,
+      "path": "/home/zejr/Works/Intexfy/async_mail/env/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "/home/zejr/Works/Intexfy/async_mail/env",
+      "fileHash": "2dfb53089bfece77f55012e6e2ee29692ea8cea61078115c38a09c47132218f2e7385e90f2d0c86939d98b6e4c053b6246e70d6b68845a661c120b90912a129c",
+      "envName": "env",
+      "type": "Venv"
+    }
+  },
+  "coc-python|/home/zejr/Works/Olist/products-api": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:948ceea165c41b4803a80626bb113471": [],
+    "SelectedPythonPath": "/home/zejr/Works/Olist/products-api/env/bin/python3",
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:948ceea165c41b4803a80626bb113471": [
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/products-api/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/products-api/env",
+        "fileHash": "3cf73dbc4253a478ecefe4c3a3112f5c836b614b1bf462991d6c36e3f30529fd5688579a4dbe04b51d6505e37e11544a74e671151f00da904ecaf80693aa9bd4",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/products-api/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/products-api/env",
+        "fileHash": "3cf73dbc4253a478ecefe4c3a3112f5c836b614b1bf462991d6c36e3f30529fd5688579a4dbe04b51d6505e37e11544a74e671151f00da904ecaf80693aa9bd4",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/products-api/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/products-api/env",
+        "fileHash": "3cf73dbc4253a478ecefe4c3a3112f5c836b614b1bf462991d6c36e3f30529fd5688579a4dbe04b51d6505e37e11544a74e671151f00da904ecaf80693aa9bd4",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ],
+    "autoSelectedWorkspacePythonInterpreter-/home/zejr/Works/Olist/products-api": {
+      "architecture": 3,
+      "path": "/home/zejr/Works/Olist/products-api/env/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "/home/zejr/Works/Olist/products-api/env",
+      "fileHash": "3cf73dbc4253a478ecefe4c3a3112f5c836b614b1bf462991d6c36e3f30529fd5688579a4dbe04b51d6505e37e11544a74e671151f00da904ecaf80693aa9bd4",
+      "type": "VirtualEnv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/products-api/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/products-api/env",
+        "fileHash": "3cf73dbc4253a478ecefe4c3a3112f5c836b614b1bf462991d6c36e3f30529fd5688579a4dbe04b51d6505e37e11544a74e671151f00da904ecaf80693aa9bd4",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/products-api/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/products-api/env",
+        "fileHash": "3cf73dbc4253a478ecefe4c3a3112f5c836b614b1bf462991d6c36e3f30529fd5688579a4dbe04b51d6505e37e11544a74e671151f00da904ecaf80693aa9bd4",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/products-api/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/products-api/env",
+        "fileHash": "3cf73dbc4253a478ecefe4c3a3112f5c836b614b1bf462991d6c36e3f30529fd5688579a4dbe04b51d6505e37e11544a74e671151f00da904ecaf80693aa9bd4",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ]
+  },
+  "coc-python|/home/zejr/Works/Globo/tvg-validacao-facil": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:93d7c4262067de05ac9419654561fd29": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:93d7c4262067de05ac9419654561fd29": [
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Globo/tvg-validacao-facil/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Globo/tvg-validacao-facil/env",
+        "fileHash": "ff9db339a7d83fa67d9175c9b3fdd4431241e8724a217287660fb9f667183edee9021d788d0aaa7c9e19f918cf58fe1166957279feab72d148d49eb632b39e22",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Globo/tvg-validacao-facil/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Globo/tvg-validacao-facil/env",
+        "fileHash": "ff9db339a7d83fa67d9175c9b3fdd4431241e8724a217287660fb9f667183edee9021d788d0aaa7c9e19f918cf58fe1166957279feab72d148d49eb632b39e22",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Globo/tvg-validacao-facil/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Globo/tvg-validacao-facil/env",
+        "fileHash": "ff9db339a7d83fa67d9175c9b3fdd4431241e8724a217287660fb9f667183edee9021d788d0aaa7c9e19f918cf58fe1166957279feab72d148d49eb632b39e22",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/home/zejr/Works/Globo/tvg-validacao-facil/env/bin/python3.9",
+    "autoSelectedWorkspacePythonInterpreter-/home/zejr/Works/Globo/tvg-validacao-facil": {
+      "architecture": 3,
+      "path": "/home/zejr/Works/Globo/tvg-validacao-facil/env/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "/home/zejr/Works/Globo/tvg-validacao-facil/env",
+      "fileHash": "ff9db339a7d83fa67d9175c9b3fdd4431241e8724a217287660fb9f667183edee9021d788d0aaa7c9e19f918cf58fe1166957279feab72d148d49eb632b39e22",
+      "envName": "env",
+      "type": "Venv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Globo/tvg-validacao-facil/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Globo/tvg-validacao-facil/env",
+        "fileHash": "ff9db339a7d83fa67d9175c9b3fdd4431241e8724a217287660fb9f667183edee9021d788d0aaa7c9e19f918cf58fe1166957279feab72d148d49eb632b39e22",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Globo/tvg-validacao-facil/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Globo/tvg-validacao-facil/env",
+        "fileHash": "ff9db339a7d83fa67d9175c9b3fdd4431241e8724a217287660fb9f667183edee9021d788d0aaa7c9e19f918cf58fe1166957279feab72d148d49eb632b39e22",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Globo/tvg-validacao-facil/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Globo/tvg-validacao-facil/env",
+        "fileHash": "ff9db339a7d83fa67d9175c9b3fdd4431241e8724a217287660fb9f667183edee9021d788d0aaa7c9e19f918cf58fe1166957279feab72d148d49eb632b39e22",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ]
+  },
+  "coc-python|/home/zejr/Works/Olist/olist-webapp": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:f896d79db04c206d9dc8ca01bde1b281": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:f896d79db04c206d9dc8ca01bde1b281": [
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/olist-webapp/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/olist-webapp/env",
+        "fileHash": "c77cc1066c974d8b3f5838e00011c271585695c85c0d353c912b7e2738d27931c969062745573d7d792f5dd1b2789245e299a534d07ee63f3a3e4c404c2c0c13",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/olist-webapp/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/olist-webapp/env",
+        "fileHash": "c77cc1066c974d8b3f5838e00011c271585695c85c0d353c912b7e2738d27931c969062745573d7d792f5dd1b2789245e299a534d07ee63f3a3e4c404c2c0c13",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/olist-webapp/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/olist-webapp/env",
+        "fileHash": "c77cc1066c974d8b3f5838e00011c271585695c85c0d353c912b7e2738d27931c969062745573d7d792f5dd1b2789245e299a534d07ee63f3a3e4c404c2c0c13",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/home/zejr/Works/Olist/olist-webapp/env/bin/python3.9",
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/olist-webapp/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/olist-webapp/env",
+        "fileHash": "c77cc1066c974d8b3f5838e00011c271585695c85c0d353c912b7e2738d27931c969062745573d7d792f5dd1b2789245e299a534d07ee63f3a3e4c404c2c0c13",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/olist-webapp/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/olist-webapp/env",
+        "fileHash": "c77cc1066c974d8b3f5838e00011c271585695c85c0d353c912b7e2738d27931c969062745573d7d792f5dd1b2789245e299a534d07ee63f3a3e4c404c2c0c13",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/olist-webapp/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/olist-webapp/env",
+        "fileHash": "c77cc1066c974d8b3f5838e00011c271585695c85c0d353c912b7e2738d27931c969062745573d7d792f5dd1b2789245e299a534d07ee63f3a3e4c404c2c0c13",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ],
+    "autoSelectedWorkspacePythonInterpreter-/home/zejr/Works/Olist/olist-webapp": {
+      "architecture": 3,
+      "path": "/home/zejr/Works/Olist/olist-webapp/env/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "/home/zejr/Works/Olist/olist-webapp/env",
+      "fileHash": "c77cc1066c974d8b3f5838e00011c271585695c85c0d353c912b7e2738d27931c969062745573d7d792f5dd1b2789245e299a534d07ee63f3a3e4c404c2c0c13",
+      "envName": "env",
+      "type": "Venv"
+    }
+  },
+  "coc-python|/home/zejr/Works/Olist/sellers-api": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:535fbb19ef4d96e2f2488d0668a7c9a2": [],
+    "SelectedPythonPath": "/home/zejr/Works/Olist/sellers-api/env/bin/python3",
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:535fbb19ef4d96e2f2488d0668a7c9a2": [
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/sellers-api/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/sellers-api/env",
+        "fileHash": "9e3c890c925a746095033a56d05af979bf173a096e0483146f9bfbced901467b528872eb84bfd14d9a837204772436f40493fb48c04280ece6bfe9890333bf8b",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/sellers-api/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/sellers-api/env",
+        "fileHash": "9e3c890c925a746095033a56d05af979bf173a096e0483146f9bfbced901467b528872eb84bfd14d9a837204772436f40493fb48c04280ece6bfe9890333bf8b",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/sellers-api/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/sellers-api/env",
+        "fileHash": "9e3c890c925a746095033a56d05af979bf173a096e0483146f9bfbced901467b528872eb84bfd14d9a837204772436f40493fb48c04280ece6bfe9890333bf8b",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ],
+    "autoSelectedWorkspacePythonInterpreter-/home/zejr/Works/Olist/sellers-api": {
+      "architecture": 3,
+      "path": "/home/zejr/Works/Olist/sellers-api/env/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "/home/zejr/Works/Olist/sellers-api/env",
+      "fileHash": "9e3c890c925a746095033a56d05af979bf173a096e0483146f9bfbced901467b528872eb84bfd14d9a837204772436f40493fb48c04280ece6bfe9890333bf8b",
+      "type": "VirtualEnv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/sellers-api/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/sellers-api/env",
+        "fileHash": "9e3c890c925a746095033a56d05af979bf173a096e0483146f9bfbced901467b528872eb84bfd14d9a837204772436f40493fb48c04280ece6bfe9890333bf8b",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/sellers-api/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/sellers-api/env",
+        "fileHash": "9e3c890c925a746095033a56d05af979bf173a096e0483146f9bfbced901467b528872eb84bfd14d9a837204772436f40493fb48c04280ece6bfe9890333bf8b",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/sellers-api/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/sellers-api/env",
+        "fileHash": "9e3c890c925a746095033a56d05af979bf173a096e0483146f9bfbced901467b528872eb84bfd14d9a837204772436f40493fb48c04280ece6bfe9890333bf8b",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ]
+  },
+  "coc-python|/home/zejr/Works/Intexfy/intexfyinternalplatform": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:60896e8dbd272a11930d1e21d8cf53f9": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:60896e8dbd272a11930d1e21d8cf53f9": [],
+    "SelectedPythonPath": "/home/zejr/Works/Intexfy/intexfyinternalplatform/backend/env/bin/python3",
+    "autoSelectedWorkspacePythonInterpreter-/home/zejr/Works/Intexfy/intexfyinternalplatform": {
+      "architecture": 3,
+      "path": "/home/zejr/Works/Intexfy/intexfyinternalplatform/backend/env/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "/home/zejr/Works/Intexfy/intexfyinternalplatform/backend/env",
+      "fileHash": "e2a7338aa863c2f6d4ef0eceaef4d2f12f57ca927556a4cd9796ad987ce5bc2c02bbe6ee3757226a14c6158d9354fdadc7698420364be0e1b66351bd27bc61c4",
+      "type": "VirtualEnv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/zejr/Works/Olist/subscriptions-api": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:75841353b8ca830db4c4045a948e34f3": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:75841353b8ca830db4c4045a948e34f3": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/zejr/Works/Olist/subscriptions-api": {
+      "architecture": 3,
+      "path": "/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "7ef4ab52c83c06444355b77766e5885598779fc2f65ec22ba77988443fb9c3b2d9f2e24afb966076f7727fdb3191efdfb55db7f099013c574ced342529f50e7e",
+      "type": "Unknown",
+      "displayName": "Python 3.9.0 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/zejr/Works/Olist/seller-tag-service": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:2e4704724abb9df9cf0b32f4cad58259": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:2e4704724abb9df9cf0b32f4cad58259": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/zejr/Works/Olist/seller-tag-service": {
+      "architecture": 3,
+      "path": "/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "7ef4ab52c83c06444355b77766e5885598779fc2f65ec22ba77988443fb9c3b2d9f2e24afb966076f7727fdb3191efdfb55db7f099013c574ced342529f50e7e",
+      "type": "Unknown",
+      "displayName": "Python 3.9.0 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/zejr/.config/nvim/plugged/poet-v": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:7453148ff8990379e9f23c88df9639a5": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:7453148ff8990379e9f23c88df9639a5": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/zejr/.config/nvim/plugged/poet-v": {
+      "architecture": 3,
+      "path": "/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "7ef4ab52c83c06444355b77766e5885598779fc2f65ec22ba77988443fb9c3b2d9f2e24afb966076f7727fdb3191efdfb55db7f099013c574ced342529f50e7e",
+      "type": "Unknown",
+      "displayName": "Python 3.9.0 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/zejr/Works/Olist/zaig-order-validation-service": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:ef7ebbd8d2125b98f7aa2ed9178f8692": [],
+    "SelectedPythonPath": "/home/zejr/Works/Olist/zaig-order-validation-service/env/bin/python3",
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:ef7ebbd8d2125b98f7aa2ed9178f8692": [
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/zaig-order-validation-service/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/zaig-order-validation-service/env",
+        "fileHash": "89b0757558c6babe29554bf00273b1c13560491076602c39d7bed95bc0ead45d2d4d45064112974e5b5eefbef7240b4f25c00f994265502efaf0d114af18d63a",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/zaig-order-validation-service/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/zaig-order-validation-service/env",
+        "fileHash": "89b0757558c6babe29554bf00273b1c13560491076602c39d7bed95bc0ead45d2d4d45064112974e5b5eefbef7240b4f25c00f994265502efaf0d114af18d63a",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/zaig-order-validation-service/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/zaig-order-validation-service/env",
+        "fileHash": "89b0757558c6babe29554bf00273b1c13560491076602c39d7bed95bc0ead45d2d4d45064112974e5b5eefbef7240b4f25c00f994265502efaf0d114af18d63a",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ],
+    "autoSelectedWorkspacePythonInterpreter-/home/zejr/Works/Olist/zaig-order-validation-service": {
+      "architecture": 3,
+      "path": "/home/zejr/Works/Olist/zaig-order-validation-service/env/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "/home/zejr/Works/Olist/zaig-order-validation-service/env",
+      "fileHash": "89b0757558c6babe29554bf00273b1c13560491076602c39d7bed95bc0ead45d2d4d45064112974e5b5eefbef7240b4f25c00f994265502efaf0d114af18d63a",
+      "type": "VirtualEnv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/zaig-order-validation-service/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/zaig-order-validation-service/env",
+        "fileHash": "89b0757558c6babe29554bf00273b1c13560491076602c39d7bed95bc0ead45d2d4d45064112974e5b5eefbef7240b4f25c00f994265502efaf0d114af18d63a",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/zaig-order-validation-service/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/zaig-order-validation-service/env",
+        "fileHash": "89b0757558c6babe29554bf00273b1c13560491076602c39d7bed95bc0ead45d2d4d45064112974e5b5eefbef7240b4f25c00f994265502efaf0d114af18d63a",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/zaig-order-validation-service/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/zaig-order-validation-service/env",
+        "fileHash": "89b0757558c6babe29554bf00273b1c13560491076602c39d7bed95bc0ead45d2d4d45064112974e5b5eefbef7240b4f25c00f994265502efaf0d114af18d63a",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ]
+  }
+}

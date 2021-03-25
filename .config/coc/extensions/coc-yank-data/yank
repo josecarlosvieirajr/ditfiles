@@ -1,0 +1,1316 @@
+3dd776c822c01c94295ee8f7ed382685|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/core.py|6|23|v|python
+	regisf
+ae5bb03fd9c3382177b348ad85595e39|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/login.py|2|1|V|python
+	from .interface import Pagina
+	
+	
+	class Login(Pagina):
+	    username = (By.ID, "loginForm_nome_usuario")
+	    password = (By.ID, "loginForm_password")
+	    submit = (
+	        By.XPATH,
+	        "/html/body/div[1]/div/div[1]/form/div/div[3]/div/div/div/div/button",
+	    )
+	
+	    def logar(self, login, senha):
+	        self.webdriver.find_element(*self.username).send_keys(login)
+	        self.webdriver.find_element(*self.password).send_keys(senha)
+	        self.webdriver.find_element(*self.submit).click()
+3c0a89677f8d7cf1245a1eb62c09f5db|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/login.py|1|1|V|python
+	from selenium.webdriver.common.by import By
+1c9928bd334fa5d888ffc70a1cf41d02|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|2|1|V|python
+	from selenium.
+14c4b06b824ec593239362517f538b29|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|6|5|v|python
+	username
+146934deba07cbf76fb8a8d9d3c2652e|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|6|29|v|python
+	loginForm_nome_usuario
+d7fcfb1245404206b5cead7698625d97|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|8|14|V|python
+	    submit = (
+883d76f4026d1ee39857b730f36a7377|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|8|17|V|python
+	        By.XPATH,
+f2702d256f5e9fa6c64f5eaa6d177dd5|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|8|17|V|python
+	        "/html/body/div[1]/div/div[1]/form/div/div[3]/div/div/div/div/button",
+211353f53a2a899e0216c5c8278da138|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|6|5|v|python
+	btn_gerar_ticket
+5d1cf3fc459d0d955c7164423b18d68f|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|10|41|V|python
+	    password = (By.ID, "loginForm_password")
+31e586363892bd0f579f2b0c32fccbea|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|14|20|v|python
+	By.XPATH
+a6097d38838cd6e63d5178074d24f405|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|42|42|v|python
+	cancelad
+60630a3b5b23e11552cd135a3dd57240|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|43|42|v|python
+	realizado
+3fc6b76be811637b935133e695fb4240|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|44|42|v|python
+	com_ressalvas
+dbfd06ea5d45a847dcfa510844efb60c|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/core.py|6|4|v|python
+	 gestao_atendimento_page
+b1f8112f69a30343ede5e86fd87ef729|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|40|47|V|python
+	        self.webdriver.find_element(self.aguardando_atendimento).click()
+e15eda47d9243c32fa059d9557caa972|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|39|9|v|python
+	self.click(
+590f53e8699817c6fa498cc11a4cbe63|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|49|9|v|python
+	self
+e582323bb6d43aca893ad22823a074bb|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|49|9|v|python
+	find_element
+a8affc088cbca89fa20dbd98c91362e4|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|49|19|v|python
+	click
+e42faf96f99a3ad5a8de53e652c16b1b|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|45|1|V|python
+	        self.atendimento
+	        self.cancelado
+	        self.realizado
+	        self.com_ressalvas
+	        self.todos
+f1857eaf0bfc05d3b87f7fdf6b4485ef|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|40|1|V|python
+	        self.click(
+	        self.click(
+	        self.click(
+	        self.click(
+	        self.click(
+f01ddb8081f50673af6c0833f48b0c0b|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|39|9|v|python
+	self.click(s
+9a18ce98398f2a0507ab95698ff335ba|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|44|9|v|python
+	sself
+5803de9256d2531154bab51db273ac56|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/interface.py|16|16|v|python
+	self.webdriver.find_element(*locator)
+d915f016907524d4c6a1009d39cc6e0c|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/interface.py|14|1|V|python
+	        def call():
+	            elem = self.webdriver.find_element(*locator)
+	            return bool(elem)
+	
+	        self.wdw.until(call)
+7bb0edd98f22430a03b67f853e83c2ca|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/interface.py|11|8|V|python
+	        
+4ce090fb5657c979bd561134ffe0ecf1|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/interface.py|19|1|V|python
+	        def call(self, locator):
+	            elem = self.webdriver.find_element(*locator)
+	            return bool(elem)
+b9939ac19a0d99bf7802fd2734cfd559|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/interface.py|12|23|V|python
+	        def call(self):
+73891570da9f02d881e64164d29721c2|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/interface.py|12|27|V|python
+	            elem = self.webdriver.find_element(*locator)
+abfdc260b7e4d30789b61e02b66528a7|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/interface.py|12|27|V|python
+	            return bool(elem)
+0e29f3bfdb41f0f046839a976c352ff7|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/interface.py|17|1|V|python
+	        self.locator = locator
+b889ddc2776a2c2c62d6207a4f7d98ba|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/interface.py|17|1|V|python
+	        self.locator = locator
+	        self.wdw.until(self._call)
+f698fa415c0d5da4f4c2984b72cbd4fd|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/interface.py|17|16|V|python
+	        self.wdw.until(self._call)
+5315215a19a23e8c786ea326ac99d446|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/interface.py|12|1|V|python
+	        self.wait(locator)
+a1471e8b1a67292b6a7dde4a4be8a8d0|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/interface.py|22|9|v|python
+	call_locator
+8fc53a723726c2005cc14e0bd21cf0a7|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/interface.py|23|31|v|python
+	self._call
+e6636e23d7f5cc5d92d641925c40841d|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/interface.py|24|1|V|python
+	    def _call(locator, driver):
+	        elem = driver.find_element(*locator)
+	        return bool(elem)
+8c638e57d56522a1c49e1c76e64bafb5|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/interface.py|3|60|v|python
+	presence_of_element_located
+916a24c23dd701447fa670207421783b|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/interface.py|22|35|V|python
+	        def _call(locator, driver):
+5ceebeaf809bba98bcaa8e4845e6e2ec|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/interface.py|22|45|V|python
+	            if driver.find_element(*locator):
+9f4e407dd20500b34aede45a4d6787a3|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/interface.py|22|27|V|python
+	                return True
+93270c687e976cfb807d4a607c6d4b6e|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/interface.py|22|24|V|python
+	            return False
+e69397885c7d12ba2d101fb04b64131d|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/interface.py|22|1|V|python
+	        call_locator = partial(_call, locator)
+d22aed0f365dea6ab373a17d6fe85581|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/interface.py|25|1|V|python
+	        return self.wdw.until(presence_of_element_located(locator))
+a7ae9448c2e6b6535772f9e2c9eae363|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/interface.py|5|5|v|python
+	text_to_be_present_in_element
+c62c75ef0e6510ad5d19a3f9851e4b7e|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|56|55|V|python
+	                self.wait_text(self.text, "vai brasil")
+e2379fcfa1c3f934b0570b51e89ba616|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|58|25|V|python
+	        # self.click(self.aguardando_atendimento)
+efd38122dedc99b0b33dc2aa2408e552|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|58|25|V|python
+	        # self.wait(self.card)
+24d5eb7f6a65a506cc0def268e54d49c|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|58|25|V|python
+	        # self.click(self.atendimento)
+b9d67bd2e555f97c0ef12e83ac6cec77|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|58|25|V|python
+	        # self.click(self.cancelado)
+9bbb0d01d249dec118d1a2ae15634704|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|58|25|V|python
+	        # self.click(self.realizado)
+511a0f0951af4decb2189d6687427e5c|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|58|25|V|python
+	        # self.click(self.com_ressalvas)
+447469c045c049db8af5fffcc24e195f|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|58|25|V|python
+	        # self.click(self.todos)
+e6662fea6ba1c4e7980566258cef8136|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/interface.py|1|29|V|python
+	from functools import partial
+d03545b73b4a78b77674d7dd1842c1b0|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/main.py|12|17|V|python
+	webdriver.close()
+32f28b87febc591cc693bbd625d05ffc|file:///home/zejr/.config/nvim/vim-plug/plugins.vim|22|8|v|vim
+	'trusktr/seti.vim'
+cbc9706d205f36222fddb345e5778b54|file:///home/zejr/.config/nvim/vim-plug/plugins.vim|22|25|V|vim
+	  Plug 'trusktr/seti.vim'
+1873d2d313cf240dc376d469112c3179|file:///home/zejr/.config/nvim/init.vim|131|1|V|vim
+	" nnoremap <C-p> :Telescope find_files<cr> 
+	" nnoremap <C-f> :Telescope live_grep<cr> 
+	" let g:NERDTreeGitStatusUntrackedFilesMode = 'all'
+	" let NERDTreeShowHidden=1
+	" let NERDTreeRespectWildIgnore=1
+	" let g:venom_use_tools = 1
+	" let g:venom_auto_activate = 1
+	" let g:venom_root_markers = ['.venv', '.venv/', '.git/', '.env', '.env/']
+	" let g:venom_tools = {'poetry': 'poetry env info -p'}
+	" let g:ale_lint_on_text_changed='always'
+	" let g:ale_python_pylint_change_directory = 'project'
+	" let g:ale_linters = {'python': ['flake8', 'pylint']}
+	" let g:ale_floating_window_border = ['│', '─', '╭', '╮', '╯', '╰']
+4484eff59887e768502ce6d5db7ec61e|file:///home/zejr/.config/nvim/init.vim|149|1|V|vim
+	" Enable per-command history.
+b260e702d0b8c8d576fe642e5e4c31e9|file:///home/zejr/.config/nvim/init.vim|149|1|V|vim
+	" CTRL-N and CTRL-P will be automatically bound to next-history and
+7b0efe8e69bcf81c0b5e6f9a2924aec8|file:///home/zejr/.config/nvim/init.vim|149|1|V|vim
+	" previous-history instead of down and up. If you don't like the change,
+306aaa9fc1ef04b49520137c14d304ec|file:///home/zejr/.config/nvim/init.vim|149|1|V|vim
+	" explicitly bind the keys to down and up in your $FZF_DEFAULT_OPTS.
+f22786bcb50694afabc89f55ced41380|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|52|17|V|python
+	            self.
+16096810c0307c5ba9a0c764220279f8|file:///home/zejr/.config/nvim/init.vim|150|14|V|vim
+	" Border color
+36a8497af183848b7c880226cdd7d19a|file:///home/zejr/.config/nvim/init.vim|138|1|V|vim
+	" This is the default extra key bindings
+96978a152d4ed4dcaaeef387f911ab5f|file:///home/zejr/.config/nvim/init.vim|19|33|V|vim
+	set laststatus=2                " Always show Status bar
+2dab83a3381996c3a1cc1946259620fe|file:///home/zejr/.config/nvim/init.vim|61|33|v|vim
+	" format for the title using pritf
+e0d42b51e175604be3e546f759bfe936|file:///home/zejr/.config/nvim/init.vim|19|5|v|vim
+	expandtab
+d7d6b3f8a0cfd4c6e82496fb89f3e90c|file:///home/zejr/.config/nvim/init.vim|77|19|V|vim
+	                                " adding: ,onemore will allow cursor on the  end
+5efbfd7cc792194e3ed8ca18a1f7d3b8|file:///home/zejr/.config/nvim/init.vim|63|1|V|vim
+	                                " Default Statusline formatting
+27700bbe599952591206e5acb4a3ee51|file:///home/zejr/.config/nvim/init.vim|63|1|V|vim
+	                                " overriden by vim-airline
+902504d1df30eacf6c5dfee2093ce89f|file:///home/zejr/.config/nvim/init.vim|20|27|V|vim
+	                                " USe Ctrl+V tab to insert a real tab
+72c6cbb0fd81c032e54b63688e4ad551|file:///home/zejr/.config/nvim/init.vim|46|20|V|vim
+	if exists('$SHELL')             " Sets the shell to open inside vim
+c151873b01c23f7f6ae1b6eead074df9|file:///home/zejr/.config/nvim/init.vim|46|20|v|vim
+	             " Sets the shell to open inside vim
+	
+a869a079d62e9941311d2fd4ac2c100b|file:///home/zejr/.config/nvim/init.vim|9|1|V|vim
+	set completeopt=preview,menuone
+24c7a662a06061f8ca4a6f84ac96d9e0|file:///home/zejr/.config/nvim/init.vim|9|1|V|vim
+	set number relativenumber 
+708ef0abeb152351a6b53d654642dbcb|file:///home/zejr/.config/nvim/vim-plug/plugins.vim|40|1|V|vim
+	  Plug 'fisadev/vim-isort'
+a2c5cf7bd5f87cb58d32acbd612df11f|file:///home/zejr/.config/nvim/init.vim|74|1|V|vim
+	let g:vim_isort_map = '<C-i>'
+d3cf92b7dfbd6dc79cee92cef2a16389|file:///home/zejr/.tmux.conf|1|10|V|tmux
+	# : << EOF
+1ec3b8fca299b0ed4edca96d52d901e0|file:///home/zejr/.tmux.conf|1|11|V|tmux
+	# https://github.com/gpakosz/.tmux
+ba1f64ef0c94773cb574a02b9b0ebdbe|file:///home/zejr/.tmux.conf|1|19|V|tmux
+	# (‑●‑●)> dual licensed under the WTFPL v2 license and the MIT license,
+4289b11f2a87c16bf44a1ee8873e396d|file:///home/zejr/.tmux.conf|1|11|V|tmux
+	#         without any warranty.
+9f27ff71ccf446dbfafa1d2a8f3b1669|file:///home/zejr/.tmux.conf|1|11|V|tmux
+	#         Copyright 2012— Gregory Pakosz (@gpakosz).
+42e1eb66ac88bb4a1af14df84ea87ece|file:///home/zejr/.tmux.conf|1|11|V|tmux
+	# /!\ do not edit this file
+b0b493c85853f68e75f817e570699bcb|file:///home/zejr/.tmux.conf|1|11|V|tmux
+	#     instead, override settings in ~/.tmux.conf.local, see README.md
+67c45235b751e01ee870b177809d2744|file:///home/zejr/.config/alacritty/alacritty.yml|1|1|V|yaml
+	# Configuration for Alacritty, the GPU enhanced terminal emulator.
+	
+	# Any items in the `env` entry below will be added as
+	# environment variables. Some entries may override variables
+	# set by alacritty itself.
+	#env:
+	# TERM variable
+	#
+	# This value is used to set the `$TERM` environment variable for
+	# each instance of Alacritty. If it is not present, alacritty will
+	# check the local terminfo database and use `alacritty` if it is
+	# available, otherwise `xterm-256color` is used.
+	#TERM: alacritty
+	
+	#window:
+	# Window dimensions (changes require restart)
+	#
+	# Specified in number of columns/lines, not pixels.
+	# If both are `0`, this setting is ignored.
+	#dimensions:
+	#  columns: 0
+	#  lines: 0
+	
+	# Window position (changes require restart)
+	#
+	# Specified in number of pixels.
+	# If the position is not set, the window manager will handle the placement.
+	#position:
+	#  x: 0
+	#  y: 0
+	
+	# Window padding (changes require restart)
+	#
+	# Blank space added around the window in pixels. This padding is scaled
+	# by DPI and the specified value is always added at both opposing sides.
+	#padding:
+	#  x: 0
+	#  y: 0
+	
+	# Spread additional padding evenly around the terminal content.
+	#dynamic_padding: false
+	
+	# Window decorations
+	#
+	# Values for `decorations`:
+	#     - full: Borders and title bar
+	#     - none: Neither borders nor title bar
+	#
+	# Values for `decorations` (macOS only):
+	#     - transparent: Title bar, transparent background and title bar buttons
+	#     - buttonless: Title bar, transparent background, but no title bar buttons
+	#decorations: full
+	
+	# Startup Mode (changes require restart)
+	#
+	# Values for `startup_mode`:
+	#   - Windowed
+	#   - Maximized
+	#   - Fullscreen
+	#
+	# Values for `startup_mode` (macOS only):
+	#   - SimpleFullscreen
+	#startup_mode: Windowed
+	
+	# Window title
+	#title: Alacritty
+	
+	# Allow terminal applications to change Alacritty's window title.
+	#dynamic_title: true
+	
+	# Window class (Linux/BSD only):
+	#class:
+	# Application instance name
+	#instance: Alacritty
+	# General application class
+	#general: Alacritty
+	
+	# GTK theme variant (Linux/BSD only)
+	#
+	# Override the variant of the GTK theme. Commonly supported values are `dark` and `light`.
+	# Set this to `None` to use the default theme variant.
+	#gtk_theme_variant: None
+	
+	#scrolling:
+	# Maximum number of lines in the scrollback buffer.
+	# Specifying '0' will disable scrolling.
+	#history: 10000
+	
+	# Scrolling distance multiplier.
+	#multiplier: 3
+	
+	# Font configuration
+	# font:
+	#   # Normal (roman) font face
+	#   normal:
+	#     family: Hack
+	#     style: Regular
+	
+	#   bold:
+	#     family: Hack
+	#     style: bold
+	
+	#   italic:
+	#     family: Hack
+	#     style: Italic
+	
+	#   size: 16.0
+	
+	#   offset:
+	#     x: 0
+	#     y: 0
+	
+	#   glyph_offset:
+	#     x: 0
+	#     y: 0
+	
+	#   use_thin_strokes: true
+	#
+	# Default:
+	#   - (macOS) Menlo
+	#   - (Linux/BSD) monospace
+	#   - (Windows) Consolas
+	#family: monospace
+	
+	# The `style` can be specified to pick a specific face.
+	#style: Regular
+	
+	# Bold font face
+	#bold:
+	# Font family
+	#
+	# If the bold family is not specified, it will fall back to the
+	# value specified for the normal font.
+	#family: monospace
+	
+	# The `style` can be specified to pick a specific face.
+	#style: Bold
+	
+	# Italic font face
+	#italic:
+	# Font family
+	#
+	# If the italic family is not specified, it will fall back to the
+	# value specified for the normal font.
+	#family: monospace
+	
+	# The `style` can be specified to pick a specific face.
+	#style: Italic
+	
+	# Bold italic font face
+	#bold_italic:
+	# Font family
+	#
+	# If the bold italic family is not specified, it will fall back to the
+	# value specified for the normal font.
+	#family: monospace
+	
+	# The `style` can be specified to pick a specific face.
+	#style: Bold Italic
+	
+	# Point size
+a57211cbbf08f139430e0b349af79da9|file:///home/zejr/.config/alacritty/alacritty.yml|8|1|V|yaml
+	  # Offset is the extra space around each character. offset.y can be thought of
+bd4871200cccaa36c7e5ec1a47b76179|file:///home/zejr/.config/alacritty/alacritty.yml|8|1|V|yaml
+	  # as modifying the linespacing, and offset.x as modifying the letter spacing.
+7034f11b8733db497722ab193458479c|file:///home/zejr/.config/alacritty/alacritty.yml|12|1|V|yaml
+	  # Glyph offset determines the locations of the glyphs within their cells with
+e58f8b5704d60a0276388b7e441a1a3e|file:///home/zejr/.config/alacritty/alacritty.yml|12|1|V|yaml
+	  # the default being at the bottom. Increase the x offset to move the glyph to
+c0adbc5843684d48f4bd370dc36f9095|file:///home/zejr/.config/alacritty/alacritty.yml|12|1|V|yaml
+	  # the right, increase the y offset to move the glyph upward.
+715fd0b2bfd2ee2cdb256aa4709e87ef|file:///home/zejr/.config/alacritty/alacritty.yml|16|1|V|yaml
+	  # OS X only: use thin stroke font rendering. Thin strokes are suitable
+b8cf35b6e417c2f9c20e29b52e9cb8ad|file:///home/zejr/.config/alacritty/alacritty.yml|16|1|V|yaml
+	  # for retina displays, but for non-retina you probably want this set to
+f164fa3321b58b5ee0b13f3c7e1e0110|file:///home/zejr/.config/alacritty/alacritty.yml|16|1|V|yaml
+	  # false.
+0d37dccef3fc2f60d88c928ad34e4f01|file:///home/zejr/.config/alacritty/alacritty.yml|18|1|V|yaml
+	# Offset is the extra space around each character. `offset.y` can be thought of
+	# as modifying the line spacing, and `offset.x` as modifying the letter spacing.
+	#offset:
+	#  x: 0
+	#  y: 0
+	
+	# Glyph offset determines the locations of the glyphs within their cells with
+	# the default being at the bottom. Increasing `x` moves the glyph to the right,
+	# increasing `y` moves the glyph upward.
+	#glyph_offset:
+	#  x: 0
+	#  y: 0
+	
+	# Thin stroke font rendering (macOS only)
+	#
+	# Thin strokes are suitable for retina displays, but for non-retina screens
+	# it is recommended to set `use_thin_strokes` to `false`.
+	#use_thin_strokes: true
+	
+	# If `true`, bold text is drawn using the bright color variants.
+	#draw_bold_text_with_bright_colors: false
+	
+c2f297c8bdf11a24f183beabc5ea4115|file:///home/zejr/.config/alacritty/alacritty.yml|49|1|V|yaml
+	# Colors (Tomorrow Night)
+	#colors:
+	# Default colors
+	#primary:
+	#  background: '#1d1f21'
+	#  foreground: '#c5c8c6'
+	
+	# Bright and dim foreground colors
+	#
+	# The dimmed foreground color is calculated automatically if it is not present.
+	# If the bright foreground color is not set, or `draw_bold_text_with_bright_colors`
+	# is `false`, the normal foreground color will be used.
+	#dim_foreground: '#828482'
+	#bright_foreground: '#eaeaea'
+	
+	# Cursor colors
+	#
+	# Colors which should be used to draw the terminal cursor.
+	#
+	# Allowed values are CellForeground and CellBackground, which reference the
+	# affected cell, or hexadecimal colors like #ff00ff.
+	#cursor:
+	#  text: CellBackground
+	#  cursor: CellForeground
+	
+	# Vi mode cursor colors
+	#
+	# Colors for the cursor when the vi mode is active.
+	#
+	# Allowed values are CellForeground and CellBackground, which reference the
+	# affected cell, or hexadecimal colors like #ff00ff.
+	#vi_mode_cursor:
+	#  text: CellBackground
+	#  cursor: CellForeground
+	
+	# Selection colors
+	#
+	# Colors which should be used to draw the selection area.
+	#
+	# Allowed values are CellForeground and CellBackground, which reference the
+	# affected cell, or hexadecimal colors like #ff00ff.
+	#selection:
+	#  text: CellBackground
+	#  background: CellForeground
+	
+	# Search colors
+	#
+	# Colors used for the search bar and match highlighting.
+	#search:
+	# Allowed values are CellForeground and CellBackground, which reference the
+	# affected cell, or hexadecimal colors like #ff00ff.
+	#matches:
+	#  foreground: '#000000'
+	#  background: '#ffffff'
+	
+	#bar:
+	#  background: '#c5c8c6'
+	#  foreground: '#1d1f21'
+	
+	# Normal colors
+	#normal:
+	#  black:   '#1d1f21'
+	#  red:     '#cc6666'
+	#  green:   '#b5bd68'
+	#  yellow:  '#f0c674'
+	#  blue:    '#81a2be'
+	#  magenta: '#b294bb'
+	#  cyan:    '#8abeb7'
+	#  white:   '#c5c8c6'
+	
+	# Bright colors
+	#bright:
+	#  black:   '#666666'
+	#  red:     '#d54e53'
+	#  green:   '#b9ca4a'
+	#  yellow:  '#e7c547'
+	#  blue:    '#7aa6da'
+	#  magenta: '#c397d8'
+	#  cyan:    '#70c0b1'
+	#  white:   '#eaeaea'
+	
+	# Dim colors
+	#
+	# If the dim colors are not set, they will be calculated automatically based
+	# on the `normal` colors.
+	#dim:
+	#  black:   '#131415'
+	#  red:     '#864343'
+	#  green:   '#777c44'
+	#  yellow:  '#9e824c'
+	#  blue:    '#556a7d'
+	#  magenta: '#75617b'
+	#  cyan:    '#5b7d78'
+	#  white:   '#828482'
+	
+	# Indexed Colors
+	#
+	# The indexed colors include all colors from 16 to 256.
+	# When these are not set, they're filled with sensible defaults.
+	#
+	# Example:
+	#   `- { index: 16, color: '#ff00ff' }`
+	#
+	#indexed_colors: []
+	
+	# Bell
+	#
+	# The bell is rung every time the BEL control character is received.
+	#bell:
+	# Visual Bell Animation
+	#
+	# Animation effect for flashing the screen when the visual bell is rung.
+	#
+	# Values for `animation`:
+	#   - Ease
+	#   - EaseOut
+	#   - EaseOutSine
+	#   - EaseOutQuad
+	#   - EaseOutCubic
+	#   - EaseOutQuart
+	#   - EaseOutQuint
+	#   - EaseOutExpo
+	#   - EaseOutCirc
+	#   - Linear
+	#animation: EaseOutExpo
+	
+	# Duration of the visual bell flash. A `duration` of `0` will disable the
+	# visual bell animation.
+	#duration: 0
+	
+	# Visual bell animation color.
+	#color: '#ffffff'
+	
+	# Bell Command
+	#
+	# This program is executed whenever the bell is rung.
+	#
+	# When set to `command: None`, no command will be executed.
+	#
+	# Example:
+	#   command:
+	#     program: notify-send
+	#     args: ["Hello, World!"]
+	#
+	#command: None
+	
+	# Background opacity
+	#
+	# Window opacity as a floating point number from `0.0` to `1.0`.
+	# The value `0.0` is completely transparent and `1.0` is opaque.
+ff2e89ef093b9431a68301437f396f9f|file:///home/zejr/.config/alacritty/alacritty.yml|50|1|V|yaml
+	#selection:
+e83be33313ced4e0a8882ab82aec82e1|file:///home/zejr/.config/alacritty/alacritty.yml|50|1|V|yaml
+	#semantic_escape_chars: ",│`|:\"' ()[]{}<>\t"
+709d72e3e1da75a59920499b30b6c44c|file:///home/zejr/.config/alacritty/alacritty.yml|50|1|V|yaml
+	# When set to `true`, selected text will be copied to the primary clipboard.
+c2b584505a0ad15a61b08910704eb1b9|file:///home/zejr/.config/alacritty/alacritty.yml|50|1|V|yaml
+	#save_to_clipboard: false
+2ba381f4a7e622151f84d8aa319e160a|file:///home/zejr/.config/alacritty/alacritty.yml|52|1|V|yaml
+	  # Cursor style
+e68ffca8a55c49d08c8a2fba4be319e6|file:///home/zejr/.config/alacritty/alacritty.yml|52|1|V|yaml
+	  # Values for `style`:
+a8738913635babfd8f9a29673c1baad9|file:///home/zejr/.config/alacritty/alacritty.yml|52|1|V|yaml
+	  #   - ▇ Block
+a9595d874684f80dcdf51c1ba2e01394|file:///home/zejr/.config/alacritty/alacritty.yml|52|1|V|yaml
+	  #   - _ Underline
+1e56ea44a8f0f68f819738a74b0ef33b|file:///home/zejr/.config/alacritty/alacritty.yml|52|1|V|yaml
+	  #   - | Beam
+d21cb794308ea3786ec2097efa3988d4|file:///home/zejr/.tmux.conf|1|1|V|tmux
+	set-option -g prefix C-a
+	set-option -ag status-right "#[fg=white,dim,bg=default]#(uptime | cut -f 4-5 -d ' ' | cut -f 1 -d ',') "
+	set-option -g status on
+	set-option -g status-interval 1
+	set-option -g status-justify centre
+	set-option -g status-keys vi
+	set-option -g status-position bottom
+	set-option -g status-style fg=colour136,bg=colour235
+	set-option -g status-left-length 20
+	set-option -g status-left-style default
+	set-option -g status-left "#[fg=green]#H #[fg=black]• #[fg=green,bright]#(uname -r)#[default]"
+	set-option -g status-right-length 140
+	set-option -g status-right-style default
+	set-option -g status-right "#[fg=green,bg=default,bright]#(tmux-mem-cpu-load) "
+	set-option -ag status-right "#[fg=red,dim,bg=default]#(uptime | cut -f 4-5 -d ' ' | cut -f 1 -d ',') "
+	set-option -ag status-right " #[fg=white,bg=default]%a%l:%M:%S %p#[default] #[fg=blue]%Y-%m-%d"
+	set-window-option -g window-status-style fg=colour244
+	set-window-option -g window-status-style bg=default
+	set-window-option -g window-status-current-style fg=colour166
+	set-window-option -g window-status-current-style bg=default
+2f55e55a11bd92d36b5ecc445b89ebb1|file:///home/zejr/.tmux.conf|44|6|V|tmux
+	# to cycle through windows
+1872c64cd66088126719a605239a483c|file:///home/zejr/.tmux.conf|44|6|V|tmux
+	bind -r C-h select-window -t :-
+bef3f5f6a0b5e5975cdeccc844fec1e2|file:///home/zejr/.tmux.conf|44|6|V|tmux
+	bind -r C-l select-window -t :+
+c40d1e7ceb6905334de614defd839220|file:///home/zejr/.tmux.conf|44|6|V|tmux
+	bind b previous-window
+7f6efb076b93e0c44cd97b4127d7f8e5|file:///home/zejr/.tmux.conf|44|1|V|tmux
+	# enable mouse
+d87ec63855724844750b171d40c00008|file:///home/zejr/.tmux.conf|83|1|V|tmux
+	bind -t vi-copy 'v' begin-selection
+884ca5ea7714403f6a04e4e413f355f0|file:///home/zejr/.tmux.conf|83|1|V|tmux
+	bind -t vi-copy 'y' copy-selection
+6e5bf36caaec3860131e1192fbedde7f|file:///home/zejr/.tmux.conf|2|1|V|tmux
+	# set prefix to control-f
+	set -g prefix C-f
+	
+	#unbind system defined prefix
+	unbind C-b
+	
+	# helps in faster key repetition
+	set -sg escape-time 0
+	
+	# start session number from 1 rather than 0
+	set -g base-index 1
+	
+	# start pane number from 1 similar to windows
+	set -g pane-base-index 1
+	
+	# Make the current window the first window
+	bind T swap-window -t 1
+	
+	# source .tmux.conf file
+	bind r source-file ~/.tmux.conf \; display "Configuration Reloaded!"
+	
+	# dont mess up with other ctrl-a options by pressing ctrl-a twice
+	bind C-a send-prefix
+50f0976bc0a964dc1f9dca463b53583c|file:///home/zejr/.tmux.conf|21|1|V|tmux
+	setw -g mode-mouse on
+	
+	# allow mouse to select windows and panes
+	set -g mouse-select-pane on
+	set -g mouse-resize-pane on
+	set -g mouse-select-window on
+	
+	# Toggle mouse on
+	bind m \
+	    set -g mode-mouse on \;\
+	    set -g mouse-resize-pane on \;\
+	    set -g mouse-select-pane on \;\
+	    set -g mouse-select-window on \;\
+	    display 'Mouse: ON'
+	
+	# Toggle mouse off
+	bind M \
+	    set -g mode-mouse off \;\
+	    set -g mouse-resize-pane off \;\
+	    set -g mouse-select-pane off \;\
+	    set -g mouse-select-window off \;\
+	    display 'Mouse: OFF'
+	#Note: hold shift key to select the text using mouse
+	
+	# set 256 color
+	set -g default-terminal "screen-256color"
+	
+	# monitor activities in other windows
+	setw -g monitor-activity on
+	set -g visual-activity on
+	
+	# enable vi mode
+	setw -g mode-keys vi
+	
+	# remap copy paste keys
+	unbind [
+	bind y copy-mode
+	unbind p
+	bind p paste-buffer
+	
+	# copy to system clipboard
+	bind C-c run "tmux save-buffer - | xclip -i -sel clipboard"
+	
+	# paste from system clipboard
+	bind C-v run "tmux set-buffer \"$(xclip -o -sel clipboard)\"; tmux paste-buffer"
+	
+	# maximizing and restoring panes
+	unbind Up
+	bind Up new-window -d -n tmp \; swap-pane -s tmp.1 \; select-window -t tmp
+	unbind Down
+	bind Down last-window \; swap-pane -s tmp.1 \; kill-window -t tmp
+	
+	
+	# switch between sessions
+	bind -r ( switch-client -p
+	bind -r ) switch-client -n
+	
+6ccdbc3e8081af9de7ad23f3dcf23c53|file:///home/zejr/.tmux.conf|25|1|V|tmux
+	# recording  program output to a log
+	bind P pipe-pane -o "cat >>~/#W.log" \; display "Toggled logging to ~/#W.log"
+	
+	
+	# don't allow tmux to rename the window based on commands running
+	set-window-option -g allow-rename off
+	#
+	set -g lock-after-time 300
+	set -g lock-command "cmatrix -s"
+	# include status line powerline theme
+	
+e3153b5f709852e7b1e9c344b0a0b3e7|file:///home/zejr/.tmux.conf|28|29|V|tmux
+	set -g message-command-fg 'colour222'
+dacd767c5441a5e4023c1a6408c9f102|file:///home/zejr/.tmux.conf|31|29|V|tmux
+	set -g pane-active-border-fg 'colour154'
+79922619cde3a78f45f9e6b2920cc788|file:///home/zejr/.tmux.conf|31|29|V|tmux
+	set -g message-bg 'colour238'
+7710c0f32ad2ea78c2eaa138740378b5|file:///home/zejr/.tmux.conf|32|29|V|tmux
+	set -g status-right-attr 'none'
+c451211ea413db1a1b997dc8f84cf74d|file:///home/zejr/.tmux.conf|32|29|V|tmux
+	set -g message-fg 'colour222'
+71509f3f37b2d16085367927090e1267|file:///home/zejr/.tmux.conf|32|29|V|tmux
+	set -g message-command-bg 'colour238'
+6d530edbf76acbf1f2d8f412eed55d9c|file:///home/zejr/.tmux.conf|32|25|V|tmux
+	set -g status-attr 'none'
+141d86fae23b9e685dc632c37f7506c2|file:///home/zejr/.tmux.conf|32|23|V|tmux
+	set -g status-utf8 'on'
+6d3851c314a9b31863e1be023807af68|file:///home/zejr/.tmux.conf|32|23|V|tmux
+	set -g pane-border-fg 'colour238'
+63cd558cb904fd3c5ed9e17632b15256|file:///home/zejr/.tmux.conf|32|23|V|tmux
+	set -g status-left-attr 'none'
+4d436173d93c391e8bf2dbb4fc1eddcc|file:///home/zejr/.tmux.conf|32|23|V|tmux
+	setw -g window-status-fg 'colour121'
+262311a1e7612ecfe8af34fe52e4ef5d|file:///home/zejr/.tmux.conf|32|23|V|tmux
+	setw -g window-status-attr 'none'
+e51d12bfdf3430d06417d0a8ffa927bf|file:///home/zejr/.tmux.conf|32|23|V|tmux
+	setw -g window-status-activity-bg 'colour235'
+1d9746b45ddc25af7e9d51f842f18b00|file:///home/zejr/.tmux.conf|32|23|V|tmux
+	setw -g window-status-activity-attr 'none'
+3e6dc3954d08e2a082a8571c08bbf521|file:///home/zejr/.tmux.conf|32|23|V|tmux
+	setw -g window-status-activity-fg 'colour154'
+f2333a8f150652eddf318cea2a82b9e1|file:///home/zejr/.tmux.conf|33|23|V|tmux
+	setw -g window-status-bg 'colour235'
+bb7a648b44294288f8272c1fbe6256aa|file:///home/zejr/.tmux.conf|33|1|V|tmux
+	set -g status-left '#[fg=colour232,bg=colour154] #S #[fg=colour154,bg=colour238,nobold,nounderscore,noitalics]#[fg=colour222,bg=colour238] #W #[fg=colour238,bg=colour235,nobold,nounderscore,noitalics]#[fg=colour121,bg=colour235] #(whoami)  #(uptime  | cut -d " " -f 1,2,3) #[fg=colour235,bg=colour235,nobold,nounderscore,noitalics]'
+83cf2eec57bc3bfc25eabdb549f1f791|file:///home/zejr/.tmux.conf|33|1|V|tmux
+	set -g status-right '#[fg=colour235,bg=colour235,nobold,nounderscore,noitalics]#[fg=colour121,bg=colour235] %r  %a  %Y #[fg=colour238,bg=colour235,nobold,nounderscore,noitalics]#[fg=colour222,bg=colour238] #H #[fg=colour154,bg=colour238,nobold,nounderscore,noitalics]#[fg=colour232,bg=colour154] #(rainbarf --battery --remaining --no-rgb) '
+af4e26b3efe97235633bd55785d228ef|file:///home/zejr/.tmux.conf|33|1|V|tmux
+	setw -g window-status-format '#[fg=colour235,bg=colour235,nobold,nounderscore,noitalics]#[default] #I  #W #[fg=colour235,bg=colour235,nobold,nounderscore,noitalics]'
+b6cf733cfc2fb753bea65b62061e3ff1|file:///home/zejr/.tmux.conf|33|1|V|tmux
+	setw -g window-status-current-format '#[fg=colour235,bg=colour238,nobold,nounderscore,noitalics]#[fg=colour222,bg=colour238] #I  #W  #F #[fg=colour238,bg=colour235,nobold,nounderscore,noitalics]'
+36ddb1b49a84ac08f07e849a3e1e724a|file:///home/zejr/.tmux.conf|25|1|V|tmux
+	# status bar theme
+7f02b4eb9e786b5baf46b4c773e0267e|file:///home/zejr/.tmux.conf|25|1|V|tmux
+	set -g status-bg 'colour235'
+0a72da1207ecbd33945737f9a63df5e2|file:///home/zejr/.tmux.conf|25|1|V|tmux
+	set -g status-justify 'centre'
+54752391ef685eda4f676d3438d724e6|file:///home/zejr/.tmux.conf|25|1|V|tmux
+	set -g status-left-length '100'
+2f485b687b704878a37451caea69e3a9|file:///home/zejr/.tmux.conf|25|1|V|tmux
+	set -g status 'on'
+19d409c897dc9128e76a9242584c4330|file:///home/zejr/.tmux.conf|25|1|V|tmux
+	set -g status-right-length '100'
+6c23e1b4bdce6ebd2ed29b0eb973fc8a|file:///home/zejr/.tmux.conf|25|1|V|tmux
+	setw -g window-status-separator ''
+370709ba5cc497cd8c34189ae16f2b77|file:///home/zejr/.tmux.conf|34|29|V|tmux
+	set -g mouse-select-window on
+0dd95bf7fefa771bfbb628d086767998|file:///home/zejr/.tmux.conf|34|27|V|tmux
+	set -g mouse-select-pane on
+efbb3b063bac918c0765dc6f994d9959|file:///home/zejr/.tmux.conf|34|27|V|tmux
+	set -g mouse-resize-pane on
+8942060bf6489653cf71433ed0a8e07c|file:///home/zejr/.tmux.conf|36|2|V|tmux
+	<BS>
+f446dbea6f3aac2949b05646381fec1d|file:///home/zejr/.tmux.conf|1|27|V|tmux
+	# set -g @plugin "arcticicestudio/nord-tmux"
+f55686bc1c2c679ed1823caf4c624779|file:///home/zejr/.config/alacritty/alacritty.yml|65|1|V|yaml
+	    - nvim
+768a99172b2fd57d465d003915f493f0|file:///home/zejr/.tmux.conf|48|1|V|tmux
+	set -g default-terminal tmux-256color
+	set -ga terminal-overrides ",xterm-256color:RGB"
+219da8140b9f143b0c4e6aaa93715dbc|file:///home/zejr/.tmux.conf|42|1|V|tmux
+	 set -g status-utf8 on
+323c1025031029f6fc2521aacac6bfe9|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|42|1|V|python
+	        for i in range(10):
+	            print(i)
+abad0d9d41c7950b9a3c3fd1e8cf4690|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|42|27|V|python
+	        for i in range(10):
+dd9b139dc793a876ef55beaab47efc5a|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|42|20|V|python
+	            print(i)
+56cf8ee807b2ccc5c61dd62e22f395c7|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|40|42|V|python
+	        self.click(self.btn_gerar_ticket).click()
+74930f9ecf678ed3f4ed27273ba856a8|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/main.py|17|1|V|python
+	finally:
+744b6aa999a051a2447e20148d10432b|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/main.py|17|1|V|python
+	    webdriver.close()
+a894ed98caafbba4f89b78392a5f466f|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/main.py|15|1|V|python
+	except Exception as exc:
+475338b6e346825d070d1b8e743ceb4e|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/main.py|15|1|V|python
+	    print(exc)
+46e67929c9dc0a845851bd1110c5d922|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/main.py|13|1|V|python
+	try:
+00d5a02e00171b076d1baaeb881ff42e|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gestao_de_atendimento.py|1|1|V|python
+	from .interface import Pagina
+	from selenium.common.exceptions import TimeoutException
+	from selenium.webdriver.common.by import By
+	
+	
+	class GestaoAtendimento(Pagina):
+9a377e89748a9ef2bc3050499d846c73|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gerar_ticket.py|1|1|V|python
+	from .interface import Pagina
+	from selenium.common.exceptions import TimeoutException
+	from selenium.webdriver.common.by import By
+	
+	
+	class GerarTicket(Pagina):
+6aae5ae109d2e1fde3a8ab36d1f325b5|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/gerar_ticket.py|1|1|V|python
+	from .interface import Pagina
+	from selenium.common.exceptions import TimeoutException
+	from selenium.webdriver.common.by import By
+	from .order import Order
+	
+	class GerarTicket(Pagina):
+ed00b0e113b9418e05eaf3b6bffc6f17|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/associacao_criativo.py|4|1|V|python
+	from .order import Order
+823a96220adf14d53273c4f6b3b4f0f1|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/interface.py|17|1|V|python
+	    def click(self, locator):
+	        self.wait_element(locator)
+	        return self.webdriver.find_element(*locator).click()
+	
+	    def write(self, locator, words):
+	        self.wait_element(locator)
+	        return self.webdriver.find_element(*locator).send_keys(words)
+	
+	    def wait_element(self, locator):
+	        return self.wdw.until(presence_of_element_located(locator))
+	
+	    def wait_text(self, locator, text):
+	        return self.wdw.until(text_to_be_present_in_element(locator, text))
+cba2b806152fcee1ca5b55eb90c84ea5|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/interface.py|27|27|V|python
+	        self.locator = None
+0cf31b2c283ce3431794586df7b0996d|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/models/interface.py|29|1|V|python
+	    
+5314afc1da75c3c976090ced3c07fa3e|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/paginas/gerar_ticket.py|6|51|V|python
+	from .associacao_criativo import AssociacaoCriativo
+9b05c6927a8c2a8979a181fa2438adc9|file:///home/zejr/Works/Globo/tvg-novo-flow/selenium/src/componentes/associacao_criativo.py|4|7|V|python
+	from .interface import Pagina
+a3ed200c0128fd268e7a13cc9eca9745|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|6|6|v|python
+	..componentes
+0484eed052da4e1fa1337bdca36747db|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|5|6|v|python
+	..interface 
+c9a709e33cc317445add198d53420a95|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|1|18|V|python
+	from selenium.src.componentes import associacao_criativo
+51f51904ae6f5d7d1a7be2a524c947a8|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|1|29|V|python
+	from selenium.common.exceptions import TimeoutException
+e0cd73597e86a80dfeb456c59f71d73f|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|2|1|V|python
+	from selenium.webdriver.support.ui import Select
+713c67d6b64dece59606ef3b44e6584f|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|11|1|V|python
+	    @property
+	    def webdriver(self):
+	        raise NotImplementedError
+66c3c8ec83b355669c2002fa75e8a637|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|19|21|V|python
+	        raise NotImplementedError
+ff9b8298d9b2aa5046ed17584c75e64d|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|13|1|v|python
+	abstractproperty
+fecd0ed9e71fc13e70160b0a277afb12|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|13|1|V|python
+	    # @property
+	    # @abstractmethod
+	    # def webdriver(self):
+	    #     raise NotImplementedError
+	
+	    # @abstractproperty
+	    # def wdw(self):
+	    #     raise NotImplementedError
+397f114f756715506a2087ede1b33a86|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|1|20|v|python
+	, abstractmethod, abstractproperty
+	
+3119a68ab894f2ac5f99ca724442cab6|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|34|40|V|python
+	        return select.select_by_index(2)
+77d22c7bd58d121b3881281ae660f0dc|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|32|1|V|python
+	        # select = Select(self.webdriver.find_element(*locator))
+51ab4ff301911df72e491a04076bb741|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|12|30|v|python
+	rc_select_0
+3c155b62c07b207fb9db9441461a91cc|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|12|16|V|python
+	    tipo_campanha = (By.XPATH, "/html/body/div[1]/section/main/form/fieldset/div[1]/div[2]/div[1]/div[2]/div/div[2]/div[1]")
+4248b37f90172fb3a1ba6de4d900b04c|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|32|1|V|python
+	        select = Select(self.wdw.until(element_to_be_clickable(locator)))
+359d26eccee7d679383985235608649a|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|31|32|V|python
+	        import ipdb; ipdb.set_trace()
+1b1cfdbb3cd16ac2accdb4cd74153007|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|7|5|v|python
+	element_to_be_clickable
+c278c2f197b3bb905598d9c806ad73e1|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|11|35|V|python
+	    tipo_campanha = (By.ID, "rc_select_0")
+c56b293a88a0581082b446b3b26c980a|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|7|5|v|python
+	element_to_be_selected
+a86aedc4bdefcfba392a60bc196e9b1a|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|33|28|v|python
+	element_located_to_be_selected(locator)
+afa61db8f5b65d5ea49caf571a12966e|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|31|9|v|python
+	self.wait_element(locator)
+181e6a33ba68f2625cebc8906be69ba3|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|33|32|V|python
+	        select = Select(self.webdriver.find_element(*locator))
+5aeafdb341005ef3f008800f226c39b7|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|7|5|v|python
+	element_located_to_be_selected,
+	
+db413e71f86b0a130640143340dfccd0|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|3|8|V|python
+	import org.openqa.selenium.Keys;
+bd9e0441a26fca14808e77f00e802fd9|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|37|1|V|python
+	    def select_tipo_tiket(self, nome):
+	        self.select_and_click(self.tipo_ticket, nome)
+6c178584fdf73f90e3c937cecca312ea|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|11|29|v|python
+	"rc_select_0"
+e6bcfe482254ce18e449b951b5f25beb|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|12|28|v|python
+	.ant-select-selection-item
+6ce280bc32283b7e4ba43f11dd0d4c7c|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|43|1|V|python
+	    def check_afiliada(self):
+	        self.click(self.afiliada)
+5cd7036f508e7b5cb311baac3d8d0079|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|1|1|V|python
+	from selenium.webdriver.common.by import By
+	
+	from ..componentes import AssociacaoCriativo, Order
+	from ..interface import Pagina
+	
+	
+	class GerarTicket(Pagina):
+	    controler_afiliada = False
+	
+	    order = Order()
+	    associacao_criativo = AssociacaoCriativo()
+	
+	    c_afiliada = (By.ID, "id_afiliada")
+	    tipo_campanha = (By.ID, "rc_select_0")
+	    tipo_ticket = (By.ID, "rc_select_1")
+	    prioridade = (By.ID, "rc_select_2")
+	    afiliada = (By.ID, "rc_select_12")
+	    diaria = (By.ID, "diaria")
+	    btn_order = (
+	        By.XPATH,
+	        "/html/body/div[1]/section/main/form/fieldset/div[1]/div[2]/div[2]/div/div/div[2]/div[1]/div/button",
+	    )
+	    observacao = (By.ID, "observacao")
+	    anexo_arquivo = (
+	        By.XPATH,
+	        "/html/body/div[1]/section/main/form/fieldset/div[4]/div[2]/div/div[2]/div/div[2]/div/div/span/div[1]/span/button",
+	    )
+	    btn_gravacao_do_ticket = (
+	        By.XPATH,
+	        "/html/body/div[1]/section/main/form/fieldset/div[5]/button",
+	    )
+	    salvar_e_voltar = (
+	        By.CSS_SELECTOR,
+	        "div.col:nth-child(2) > button:nth-child(1)",
+	    )
+	    cancelar = (By.CSS_SELECTOR, ".ant-btn-dangerous")
+	
+	    def select_tipo_campanha(self, nome):
+	        self.select_and_click(self.tipo_campanha, nome)
+	
+	    def select_tipo_tiket(self, nome):
+	        self.select_and_click(self.tipo_ticket, nome)
+	
+	    def select_prioridade(self, nome):
+	        self.select_and_click(self.prioridade, nome)
+	
+	    def check_afiliada(self):
+	        self.click(self.c_afiliada)
+	
+	    def check_diaria(self):
+	        self.click(self.diaria)
+14092e8b02c2e54bcc803464c924b9cb|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket.py|13|12|V|python
+	    c_afiliada = (By.ID, "id_afiliada")
+b98e3d5cc5f2b24d3d9b6872e7b2553d|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket.py|8|12|V|python
+	    controler_afiliada = False
+4b71ae70e8062dfe3695fa94caf5d958|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket.py|44|28|V|python
+	    def check_afiliada(self):
+04ac04e39e884089936e703285262e1f|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket.py|44|28|V|python
+	        self.click(self.c_afiliada)
+41530e0d21ab00bfc9ed219898e9bc7c|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|8|1|V|python
+	    order = Order()
+1b3a7f58d844abca7f324e2edc919545|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|8|1|V|python
+	    associacao_criativo = AssociacaoCriativo()
+c05f7c2f6accf86cbb3d1d3d96035379|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|9|1|V|python
+	    tipo_campanha = (By.ID, "rc_select_0")
+	    tipo_ticket = (By.ID, "rc_select_1")
+	    prioridade = (By.ID, "rc_select_2")
+	    afiliada = (By.ID, "rc_select_12")
+	    diaria = (By.ID, "diaria")
+	    btn_order = (
+	        By.XPATH,
+	        "/html/body/div[1]/section/main/form/fieldset/div[1]/div[2]/div[2]/div/div/div[2]/div[1]/div/button",
+	    )
+	    observacao = (By.ID, "observacao")
+	    anexo_arquivo = (
+	        By.XPATH,
+	        "/html/body/div[1]/section/main/form/fieldset/div[4]/div[2]/div/div[2]/div/div[2]/div/div/span/div[1]/span/button",
+	    )
+	    btn_gravacao_do_ticket = (
+	        By.XPATH,
+	        "/html/body/div[1]/section/main/form/fieldset/div[5]/button",
+	    )
+	    salvar_e_voltar = (
+	        By.CSS_SELECTOR,
+	        "div.col:nth-child(2) > button:nth-child(1)",
+	    )
+	    cancelar = (By.CSS_SELECTOR, ".ant-btn-dangerous")
+	
+	    def select_tipo_campanha(self, nome):
+	        self.select_and_click(self.tipo_campanha, nome)
+	
+	    def select_tipo_tiket(self, nome):
+	        self.select_and_click(self.tipo_ticket, nome)
+	
+	    def select_prioridade(self, nome):
+	        self.select_and_click(self.prioridade, nome)
+	
+	    def check_afiliada(self):
+	        self.click(self.c_afiliada)
+	
+	    def check_diaria(self):
+	        self.click(self.diaria)
+e66bb99c233e35a74505d52e752ae0a7|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|17|1|V|python
+	            self.dados_do_ticket = DadosTicketAfiliada()
+06386a7bd3908cd09187b19e77cc07ea|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|18|1|V|python
+	            self.criativos_associados = AssociacaoCriativoAfiliada()
+bc95dfc14146aa23e43f2ea7af04d310|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|21|12|V|python
+	            
+fa370679eef5a54da873b95c8ae983fa|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket.py|19|1|V|python
+	    observacao = (By.ID, "observacao")
+	    anexo_arquivo = (
+	        By.XPATH,
+	        "/html/body/div[1]/section/main/form/fieldset/div[4]/div[2]/div/div[2]/div/div[2]/div/div/span/div[1]/span/button",
+	    )
+	    btn_gravacao_do_ticket = (
+	        By.XPATH,
+	        "/html/body/div[1]/section/main/form/fieldset/div[5]/button",
+	    )
+	    salvar_e_voltar = (
+	        By.CSS_SELECTOR,
+	        "div.col:nth-child(2) > button:nth-child(1)",
+	    )
+	    cancelar = (By.CSS_SELECTOR, ".ant-btn-dangerous")
+593e6e2640a70c3c6eb0392bbd868d8e|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|35|36|v|python
+	DadosTicketAfiliada
+ceeea07b59b2619b27c3f2ba5e5d7019|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|38|41|v|python
+	AssociacaoCriativoAfiliada
+e8b3ae1d5e9c8421f7e21c6076b57632|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|5|1|V|python
+	        DadosTicketAfiliada,
+	        AssociacaoCriativoAfiliada,
+	        DadosTicket,
+f6310cd8a13284cc0673213fd7ba0b65|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/__init__.py|2|25|v|python
+	 # noqa
+	
+bc521c4193d3ecbb25b37db6ed187cb9|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|1|7|V|python
+	class AssociacaoCriativoAfiliada:
+	    ...
+49dc14face8a5676de8c6e57f261b8aa|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/__init__.py|1|43|V|python
+	from .associacao_criativo import AssociacaoCriativo # noqa
+b9507f0ab1c162492ad6dd7afdb19f9f|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/order.py|8|42|V|python
+	    def __init__(self, webdriver, wdw, btn):
+b60dbb4e52437d46a472f44e2714b5a7|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/order.py|8|42|V|python
+	        super().__init__(webdriver=webdriver, wdw=wdw)
+a04c39a9cd31f17cdd0643d76140c3af|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket.py|13|1|V|python
+	    btn_order = (
+	        By.XPATH,
+	        "/html/body/div[1]/section/main/form/fieldset/div[1]/div[2]/div[2]/div/div/div[2]/div[1]/div/button",
+	    )
+4217cdcd480169e41db92b734336e4f1|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/order.py|8|5|V|python
+	    ...
+0cb5e1726466ecf4fb4af0ecf98817cf|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/order.py|12|4|V|python
+	    _open_order()
+b517dcc5e7502676f0baf6b8ce09f2fa|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/order.py|13|21|v|python
+	"/html/body/div[3]/div/div[2]/div/div[2]/div[2]/form/div/div[2]/div/div/div/button/span/svg"
+c084f25951924d7beeccab07cea7fcf0|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/order.py|18|15|V|python
+	    <LeftMouse>
+f8776d1fad45a8a32061c30784e78adf|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/order.py|20|32|v|python
+	/html/body/div[3]/div/div[2]/div/div[2]/div[3]/button[2]
+55c10080ff3d59b735bef8e86e293edc|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|2|1|V|python
+	from flask_restx import Namespace, Resource, reqparse
+	from intexfyInternalPlatform.src.models.curation import (Curation,
+	                                                         curation_schema)
+	from intexfyInternalPlatform.src.models.delivery import (Delivery,
+	                                                         delivery_schema,
+	                                                         delivery_schemas)
+	from intexfyInternalPlatform.src.services.geracao_listas.gerar import \
+	    gera_lista_com_items_da_cnpj_v2
+	from intexfyInternalPlatform.src.utils.login import login_require
+	from intexfyInternalPlatform.src.utils.response import default_response
+	
+	ns = Namespace('delivery', 'Delivery Resources')
+	
+8990083d2624b4a36df4c7e3884e8759|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|54|1|V|python
+	@ns.route("/<int:delivery_id>/")
+	@ns.response(404, error_404)
+	@ns.param('delivery_id', 'Delivery unique id.')
+	class DeliveryItemResource(Resource):
+	    """Controladora dos DeliveryResorces Items."""
+	
+	    @login_require
+	    @ns.doc("get_delivery")
+	    def get(self, auth, delivery_id, *args, **kwargs):
+	        """Retorna todas as listas para curadoria."""
+	        delivery = Delivery.find_by_id(delivery_id)
+	
+	        if not delivery:
+	            return error_404
+	
+	        return default_response(True, data=delivery.as_dict())
+0469e09a8a779a32530bd860289cec3b|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|20|1|V|python
+	error_404 = default_response(
+	    False, status_code=404, message=["Delivery not found."])
+427a1c94bfbe2582ca1636e801e82eb9|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/mail/resources.py|21|44|V|python
+	    """Controladora dos DeliveryResorces Items."""
+c7e0abe9baa928d45c0aad64b1b0fe86|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/mail/resources.py|23|13|V|python
+	    @ns.doc("get_delivery")
+e744e8dd15d1655b7516b715ad4e5952|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/mail/resources.py|24|28|V|python
+	        """Retorna todas as listas para curadoria."""
+e3b9d9b8397cc01bff411e7555a98361|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/mail/resources.py|2|19|V|python
+	from intexfyInternalPlatform.src.models.curation import (Curation,
+761147e100d678ac1b21da0baa295a97|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/mail/resources.py|2|19|V|python
+	                                                         curation_schema)
+d7f6adb8e1b2a4cef84b4735bee2d1e3|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/mail/resources.py|2|19|V|python
+	from intexfyInternalPlatform.src.models.delivery import (Delivery,
+89bf787f272de72b4f58197014f45fc4|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/mail/resources.py|2|19|V|python
+	                                                         delivery_schema,
+2c3a1c27db4b0c8799891fd09a407422|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/mail/resources.py|2|19|V|python
+	                                                         delivery_schemas)
+5cf42a02212145e2e40ddbec6715961c|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/mail/resources.py|2|19|V|python
+	from intexfyInternalPlatform.src.services.geracao_listas.gerar import \
+da8fc95a9a79175a53d3e13788296f79|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/mail/resources.py|2|19|V|python
+	    gera_lista_com_items_da_cnpj_v2
+02eaa2ae06381d1cdd66038654dc8d59|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/mail/resources.py|17|18|V|python
+	        delivery = Delivery.find_by_id(delivery_id)
+03bfa102f85db768c8f53b0bf430f3f6|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/mail/resources.py|17|1|V|python
+	        if not delivery:
+85a46f7fa7985cf2d6f3de82f63c8cab|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/mail/resources.py|17|1|V|python
+	            return error_404
+5fc93d165aca7c153027602a0e40d192|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|1|1|V|python
+	"""delivery, onde cria-se a lista de leads para enriquecimento e curadoria."""
+0963466b909ec5aa402bc99400b77afc|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|7|28|V|python
+	parser = reqparse.RequestParser()
+24b14b72b59b133f88bab9221ccf0c09|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|7|28|V|python
+	parser.add_argument('page', type=int)
+461a53095c76b8a1bd693dfe5e22f2fc|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|7|28|V|python
+	parser.add_argument('pageSize', type=int)
+93e3976265dca714a1469976c8f41940|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|11|14|V|python
+	@ns.route("/")
+69ba787b85d0b9373b1dcc0062b64cdc|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|11|33|V|python
+	class DeliveryResource(Resource):
+5c06625bb9a3a3804583cb66d3002abd|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|11|33|V|python
+	    """Controladora dos DeliveryResorces Gerais."""
+bbb13248438b924007646cf4e8a49b6d|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|11|1|V|python
+	    @login_require
+fc7021cce532d95b73a44f08967b7fb9|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|11|1|V|python
+	    @ns.doc('get_all_delivery')
+263222427feb4aaf4d765bdb978e220a|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|11|1|V|python
+	    def get(self, auth, *args, **kwargs):
+0f11879987cf8469d919b8454b2f1b7f|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|11|1|V|python
+	        """Servico retorna todos os items paginados do delivery."""
+acf698cd428f048bd65f32e4470dd4f6|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|11|1|V|python
+	        args = parser.parse_args()
+8b7f43e99e66cfcb5042c09d7e4c521c|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|11|1|V|python
+	        query = Delivery.query.paginate(args['page'], args['pageSize'], False)
+c722e126692e8716ec04a41f869e0d8b|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|11|1|V|python
+	        return default_response(
+23a8053be22bcd035c3677fdb0a3b21e|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|11|1|V|python
+	            True, data=delivery_schemas.dump(query.items),
+ecceb6279e18c621f0c66565247dcc69|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|11|1|V|python
+	            page_count=query.total, current_page=query.page,
+ef73339202b09232ae3514fc01bff66b|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|11|1|V|python
+	            per_page=query.per_page
+415ece355bdeb6b5dc29971def54613c|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|11|1|V|python
+	        )
+83b3a75726df9f7341e2171bbca591f0|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|11|1|V|python
+	    @ns.doc("insert_delivery")
+265570ad418d8a926114c047f427bf83|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|11|1|V|python
+	    def post(self, auth, *args, **kwargs):
+dcf5620ec696a0ea3c0802ea5361c5a7|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|11|1|V|python
+	        """Servico Cria um novo item delivery para curadoria."""
+783c3547bc991eead7cfd9965fea5f2a|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|11|1|V|python
+	        ns.payload['icp_params'] = str(ns.payload['icp_params'])
+feeea8f23d7aaafb82853b7320d99113|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|11|1|V|python
+	        ns.payload['status'] = 'aberto'
+198196a419855748b0451075bce5e696|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|11|1|V|python
+	        delivery = Delivery(**ns.payload)
+0bb58cfe11edc7c17a8639a74a81f8a7|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|11|1|V|python
+	        delivery.save()
+fdae7eef53eae99c21bb2ad407ea752a|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|11|1|V|python
+	            True, status_code=201, data=delivery_schema.dump(delivery))
+7108537956afa2a526f96cc9da7b0c36|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|19|39|v|python
+	delivery
+8f7df129026a187a413c9abaa37fe76b|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|19|39|v|python
+	as_dict
+70811c40f48b685f572b51f8526d20f7|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/delivery/resources.py|21|1|V|python
+	    @login_require
+	    @ns.doc("update_delivery")
+	    def put(self, auth, delivery_id, *args, **kwargs):
+	        """Servico nao possui update."""
+	        ns.payload['icp_params'] = str(ns.payload['icp_params'])
+	        Delivery.update(id=delivery_id, data=ns.payload)
+	
+	        return default_response(True, message='updated')
+	
+	    @login_require
+	    @ns.doc("delete_delivery")
+	    def delete(self, auth, delivery_id, *args, **kwargs):
+	        """Servico para delete das listas."""
+	        delivery = Delivery.find_by_id(delivery_id)
+	        if delivery:
+	            delivery.delete()
+	        return default_response(True, status_code=204, message="deleted")
+	
+	
+	@ns.route("/<int:delivery_id>/execute")
+	@ns.response(404, error_404)
+	@ns.param('delivery_id', 'Delivery unique id.')
+	class DeliveryGoResource(Resource):
+	    """Chama o servico de Geracao de listas para curadoria."""
+	
+	    @login_require
+	    @ns.doc("execute_service_sample")
+	    def get(self, id, *args, **kwargs):
+	        """Executa o servico gerador de listas, a partir do ID."""
+	        delivery = Delivery.find_by_id(id)
+	
+	        if not delivery:
+	            return error_404
+	
+	        searched = gera_lista_com_items_da_cnpj_v2(delivery=delivery)
+	        data = dict(
+	            delivery_id=delivery.id, qtd_leads=len(searched),
+	            description=delivery.description, leads=str(searched),
+	        )
+	        curation = Curation(**data)
+	        curation.save()
+	        result = curation_schema.dump(curation)
+	        return default_response(
+	            True, data=result, message="lista gerada com sucesso")
+c7d8709850f64cfb3ed466b76a0d040c|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/mail/resources.py|21|1|V|python
+	    return default_response(True)
+eaa4e6e76f50120081cca9795bfc48ba|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/mail/resources.py|19|12|V|python
+	            return 
+4dea9bb5afe4035f7510f73a8759d24d|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/api/__init__.py|40|15|v|python
+	ns_mail_list
+c4987d9d0740bf1cfbec3aa9aba7dc6c|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/api/__init__.py|68|23|v|python
+	ns_lists_listlead
+aaea28b760f32e38496faf9cd6b7a7e7|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/controllers/mail/resources.py|11|1|V|python
+	@ns.route("/generate/<int:list_id>/")
+	@ns.response(404, error_404)
+	@ns.param('list_id', 'List Lead unique id.')
+	class MailGenerateResource(Resource):
+	
+	    @login_require
+	    def get(self, auth, list_id, *args, **kwargs):
+	
+	        if not str(list_id).isnumeric:
+	            return default_response(True)
+	
+	        email_leads.inicio_da_geracao_de_emails(list_id)
+	
+	        return default_response(True)
+fb3af18f03bff9f67bd7ecb46ce77354|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/tests/test_mail_leads.py|7|5|v|python
+	test_gerando_uma_thread_da_email_leads
+4670f2e256222aa0056a4f03f4698c3f|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/log/__init__.py|18|1|V|python
+	    if debug:
+a4cf5096f0be46a0c97c2d748a1304f8|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/log/__init__.py|18|1|V|python
+	        root.setLevel(logging.DEBUG)
+efdba9d12f3433066bf3713391969d07|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/log/__init__.py|18|1|V|python
+	    else:
+92f23303d52c06ab361a2bcaeac77900|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/tests/conftest.py|10|12|V|python
+	faker = None
+2b2a018a62452118708e36fad2f101d6|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/tests/conftest.py|10|1|V|python
+	def populate_db():
+146ef48544a8fdaaf1eb08a4f571da92|file:///home/zejr/Works/Intexfy/intexfyinternalplatform/backend/intexfyInternalPlatform/src/auth/authentication.py|20|1|V|python
+	        user = User.query.filter_by(email=email).\
+	            first_or_404(description="Login ou senha incorretos!!")
+607c1156fd81ce35d75a99aef3ab3c40|file:///home/zejr/.config/nvim/init.vim|82|1|V|vim
+	set background=dark                        " Set global background to dark
+	colorscheme gruvbox-material               " Default colorscheme
+29685762fc85fb7a7930b7bb5ee39f9d|file:///home/zejr/.config/nvim/init.vim|86|2|V|vim
+	set background=dark                        " Set global background to dark
+559dd55597cda81f461b15c0b3bb75a1|file:///home/zejr/.config/nvim/init.vim|87|1|V|vim
+	colorscheme codedark               " Default colorscheme
+a08f1c7690702a72f458b1372093c0fd|file:///home/zejr/.config/nvim/init.vim|80|1|V|vim
+	let g:airline_theme = 'codedark'
+d46ff2fc046056139a27820139dddee2|file:///home/zejr/.config/nvim/init.vim|123|47|v|vim
+	unique_tail
+74461a6d02c694eae772d0ffb3eaeb24|file:///home/zejr/.config/nvim/init.vim|54|1|V|vim
+	set statusline+=%F
+c56c1df4589400491bf4270330c47709|file:///home/zejr/.config/nvim/init.vim|129|1|V|vim
+	" let g:airline#extensions#po#enabled = 0
+111d39914b8f297e8aee3bd6b51767bf|file:///home/zejr/.config/nvim/init.vim|129|1|V|vim
+	let g:airline#extensions#quickfix#enabled = 0
+e4cbcd6cada3dc295416abdbfeb3cf75|file:///home/zejr/.config/nvim/init.vim|127|1|V|vim
+	let g:airline#extensions#hunks#enabled = 0
+4ed7a1ae0e10d481d321dc08281a62b7|file:///home/zejr/.config/nvim/init.vim|127|1|V|vim
+	let g:airline#extensions#netrw#enabled = 0
+98732c2300c5992a3cc416c6d529927f|file:///home/zejr/.gitignore|18|1|v|
+	.GlobalProtect/
+77e747bb34848c40ed8c7b2a3af591ec|file:///home/zejr/.gitignore|21|6|V|
+	.atom/
+85cf9b51417c7cfb8766aa6b56f7edb9|file:///home/zejr/.gitignore|24|5|V|
+	.bashrc
+d0cba5a3812c45b75ab7ac5eb2391f8d|file:///home/zejr/.gitignore|27|5|V|
+	.config/
+2aba58bfb48906cc943f13c713939e22|file:///home/zejr/.gitignore|34|5|V|
+	.icon/
+a084b794bc0759e7a6b77810e01874f2|file:///home/zejr/.gitignore|1|5|V|
+	.gitignore
+4723a3b40361325f6612c40749b696d9|file:///home/zejr/.gitignore|31|5|V|
+	.gitconfig
+593308ff3a1800e7975e8fdd7f830dd3|file:///home/zejr/.gitignore|43|5|V|
+	.profile

@@ -1,0 +1,20 @@
+[2021-03-22 14:03:51.608] [renderer3] [warning] Ignoring the error while validating workspace folder vsls:/ - No file system provider found for resource 'vsls:/'
+[2021-03-22 14:03:54.103] [renderer3] [error] ENOENT: no such file or directory, unlink '/home/zejr/.local/share/vsliveshare/cascade.json': Error: ENOENT: no such file or directory, unlink '/home/zejr/.local/share/vsliveshare/cascade.json'
+[2021-03-22 14:04:02.051] [renderer3] [error] Path not found: lazyLoad(() => nlsloc(/.vscode/settings.json: EntryNotFound (FileSystemError): Path not found: lazyLoad(() => nlsloc(/.vscode/settings.json
+	at WorkspaceProvider.fileError (/home/zejr/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.3968/out/prod/extension-prod.js:20684:32)
+	at WorkspaceProvider.readFile (/home/zejr/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.3968/out/prod/extension-prod.js:20394:24)
+[2021-03-22 14:04:02.051] [renderer3] [error] Path not found: lazyLoad(() => nlsloc(/.vscode/tasks.json: EntryNotFound (FileSystemError): Path not found: lazyLoad(() => nlsloc(/.vscode/tasks.json
+	at WorkspaceProvider.fileError (/home/zejr/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.3968/out/prod/extension-prod.js:20684:32)
+	at WorkspaceProvider.readFile (/home/zejr/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.3968/out/prod/extension-prod.js:20394:24)
+[2021-03-22 14:04:02.052] [renderer3] [error] Path not found: lazyLoad(() => nlsloc(/.vscode/launch.json: EntryNotFound (FileSystemError): Path not found: lazyLoad(() => nlsloc(/.vscode/launch.json
+	at WorkspaceProvider.fileError (/home/zejr/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.3968/out/prod/extension-prod.js:20684:32)
+	at WorkspaceProvider.readFile (/home/zejr/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.3968/out/prod/extension-prod.js:20394:24)
+[2021-03-22 14:04:02.052] [renderer3] [error] Path not found: lazyLoad(() => nlsloc(/.vscode/settings.json: EntryNotFound (FileSystemError): Path not found: lazyLoad(() => nlsloc(/.vscode/settings.json
+	at WorkspaceProvider.fileError (/home/zejr/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.3968/out/prod/extension-prod.js:20684:32)
+	at WorkspaceProvider.readFile (/home/zejr/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.3968/out/prod/extension-prod.js:20394:24)
+[2021-03-22 14:04:02.055] [renderer3] [error] Path not found: lazyLoad(() => nlsloc(/.vscode/tasks.json: EntryNotFound (FileSystemError): Path not found: lazyLoad(() => nlsloc(/.vscode/tasks.json
+	at WorkspaceProvider.fileError (/home/zejr/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.3968/out/prod/extension-prod.js:20684:32)
+	at WorkspaceProvider.readFile (/home/zejr/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.3968/out/prod/extension-prod.js:20394:24)
+[2021-03-22 14:04:02.056] [renderer3] [error] Path not found: lazyLoad(() => nlsloc(/.vscode/launch.json: EntryNotFound (FileSystemError): Path not found: lazyLoad(() => nlsloc(/.vscode/launch.json
+	at WorkspaceProvider.fileError (/home/zejr/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.3968/out/prod/extension-prod.js:20684:32)
+	at WorkspaceProvider.readFile (/home/zejr/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.3968/out/prod/extension-prod.js:20394:24)
