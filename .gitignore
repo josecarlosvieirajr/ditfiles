@@ -6,6 +6,7 @@ Studies/
 Vídeos/
 Works/
 go/
+i3-gaps/
 .atom/
 .vscode/
 .var/
@@ -58,3 +59,5 @@ node_modules/
 .config/discord/
 .tsuru/
 .tmux/plugins/
+
+*.log

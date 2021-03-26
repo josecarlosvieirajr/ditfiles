@@ -1,4 +1,0 @@
-[2021-03-11 06:36:49.451] [renderer1] [error] write ECONNRESET: Error: write ECONNRESET
-	at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:92:16)
-[2021-03-11 06:56:12.107] [renderer1] [error] write ECONNRESET: Error: write ECONNRESET
-	at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:92:16)

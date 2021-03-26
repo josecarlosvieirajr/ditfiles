@@ -59,7 +59,3 @@ cursor:
   style: Beam
 
 hide_cursor_when_typing: true
-shell:
-  program: /usr/bin/tmux
-  args:
-    - -u

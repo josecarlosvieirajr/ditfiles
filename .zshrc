@@ -129,5 +129,6 @@ alias joplin="~/.joplin-bin/bin/joplin"
 alias olist="GIT_SSH_COMMAND='ssh -i /home/zejr/.ssh/id_rsa_olist'"
 alias yarn="/usr/local/lib/node_modules/yarn/bin/yarn"
 alias pg_start="sudo service postgresql start && sudo update-rc.d postgresql enable"
+alias lock="i3lock -c 000000"
 source /home/zejr/Downloads/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
