@@ -7,6 +7,9 @@ Vídeos/
 Works/
 go/
 i3-gaps/
+cache/
+*Cache/
+*-erro*
 .atom/
 .vscode/
 .var/
