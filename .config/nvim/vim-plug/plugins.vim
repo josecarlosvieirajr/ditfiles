@@ -48,7 +48,7 @@ call plug#begin('~/.config/nvim/plugged')
   Plug 'neovim/nvim-lspconfig'
 
   Plug 'deoplete-plugins/deoplete-jedi'
-  Plug 'davidhalter/jedi-vim'
+  " Plug 'davidhalter/jedi-vim'
   Plug 'airblade/vim-rooter'
 
   " Fzf

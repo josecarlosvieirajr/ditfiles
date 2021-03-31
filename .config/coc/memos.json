@@ -25,7 +25,7 @@
         "sysPrefix": "/usr",
         "fileHash": "c56d6eb2ff2551a751138288e1434016ac4a8a78d61290636f518647c0ff49ed2e87829192fe8d30d1c475ffe9177c927d77ae43375c7e5a886a8fb7e3d1ece8"
       },
-      "expiry": 1616801621606
+      "expiry": 1617192347044
     },
     "/bin/python2.v3": {
       "data": {
@@ -50,7 +50,7 @@
         "sysPrefix": "/usr",
         "fileHash": "3dc5900b169c22d3b234a9e2de35662f88c34d0dc79fe4d833d65601b79a3538e607bb5060e0ff8ab0ad674970297176a690321bc05a594fc218a1b88a40fdbd"
       },
-      "expiry": 1616801621604
+      "expiry": 1617192347046
     },
     "/bin/python.v3": {
       "data": {
@@ -125,7 +125,7 @@
         "sysPrefix": "/usr",
         "fileHash": "9c637d10dfe0e68122f2a8e45491c48c4ec885ae3f156f50d6d03016459304b430cf640ce6dd5ee52a73108e174411f35c9a3ad3707f3e46861386ca830f9ebf"
       },
-      "expiry": 1616801621613
+      "expiry": 1617192347084
     },
     "/usr/bin/python2.7.v3": {
       "data": {
@@ -150,7 +150,7 @@
         "sysPrefix": "/usr",
         "fileHash": "c56d6eb2ff2551a751138288e1434016ac4a8a78d61290636f518647c0ff49ed2e87829192fe8d30d1c475ffe9177c927d77ae43375c7e5a886a8fb7e3d1ece8"
       },
-      "expiry": 1616801621616
+      "expiry": 1617192347087
     },
     "/usr/bin/python2.v3": {
       "data": {
@@ -175,7 +175,7 @@
         "sysPrefix": "/usr",
         "fileHash": "3dc5900b169c22d3b234a9e2de35662f88c34d0dc79fe4d833d65601b79a3538e607bb5060e0ff8ab0ad674970297176a690321bc05a594fc218a1b88a40fdbd"
       },
-      "expiry": 1616801621618
+      "expiry": 1617192347089
     },
     "/usr/local/bin/python3.9.v3": {
       "data": {
@@ -325,12 +325,12 @@
         "sysPrefix": "/usr",
         "fileHash": "9c637d10dfe0e68122f2a8e45491c48c4ec885ae3f156f50d6d03016459304b430cf640ce6dd5ee52a73108e174411f35c9a3ad3707f3e46861386ca830f9ebf"
       },
-      "expiry": 1616801621599
+      "expiry": 1617192347042
     },
     "INTERPRETERS_CACHE_v3_CurrentPathService": [
       {
         "architecture": 3,
-        "path": "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python3",
+        "path": "/home/zejr/.cache/pypoetry/virtualenvs/personal-cash-flow-Wbqlgb50-py3.9/bin/python3",
         "version": {
           "options": {
             "loose": false,
@@ -347,8 +347,8 @@
           "build": [],
           "version": "3.9.0-final"
         },
-        "sysPrefix": "/home/zejr/Works/Globo/tvg-novo-flow/env",
-        "fileHash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39",
+        "sysPrefix": "/home/zejr/.cache/pypoetry/virtualenvs/personal-cash-flow-Wbqlgb50-py3.9",
+        "fileHash": "f0da228bc87a00a7ab3f02109aaa705b103c20966507de6d4dc73be4a1c839e526c209707036b69cf014ed9037d136e25e9f19edd79660d756a5509965c55383",
         "type": "Unknown"
       },
       {
@@ -376,7 +376,7 @@
       },
       {
         "architecture": 3,
-        "path": "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python",
+        "path": "/home/zejr/.cache/pypoetry/virtualenvs/personal-cash-flow-Wbqlgb50-py3.9/bin/python",
         "version": {
           "options": {
             "loose": false,
@@ -393,13 +393,13 @@
           "build": [],
           "version": "3.9.0-final"
         },
-        "sysPrefix": "/home/zejr/Works/Globo/tvg-novo-flow/env",
-        "fileHash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39",
+        "sysPrefix": "/home/zejr/.cache/pypoetry/virtualenvs/personal-cash-flow-Wbqlgb50-py3.9",
+        "fileHash": "f0da228bc87a00a7ab3f02109aaa705b103c20966507de6d4dc73be4a1c839e526c209707036b69cf014ed9037d136e25e9f19edd79660d756a5509965c55383",
         "type": "Unknown"
       },
       {
         "architecture": 3,
-        "path": "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python3.9",
+        "path": "/home/zejr/.cache/pypoetry/virtualenvs/personal-cash-flow-Wbqlgb50-py3.9/bin/python",
         "version": {
           "options": {
             "loose": false,
@@ -416,8 +416,8 @@
           "build": [],
           "version": "3.9.0-final"
         },
-        "sysPrefix": "/home/zejr/Works/Globo/tvg-novo-flow/env",
-        "fileHash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39",
+        "sysPrefix": "/home/zejr/.cache/pypoetry/virtualenvs/personal-cash-flow-Wbqlgb50-py3.9",
+        "fileHash": "f0da228bc87a00a7ab3f02109aaa705b103c20966507de6d4dc73be4a1c839e526c209707036b69cf014ed9037d136e25e9f19edd79660d756a5509965c55383",
         "type": "Unknown"
       }
     ],
@@ -575,7 +575,7 @@
     "INTERPRETERS_CACHE_v3_KnownPathsService": [
       {
         "architecture": 3,
-        "path": "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python",
+        "path": "/home/zejr/.cache/pypoetry/virtualenvs/personal-cash-flow-Wbqlgb50-py3.9/bin/python",
         "version": {
           "options": {
             "loose": false,
@@ -592,13 +592,13 @@
           "build": [],
           "version": "3.9.0-final"
         },
-        "sysPrefix": "/home/zejr/Works/Globo/tvg-novo-flow/env",
-        "fileHash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39",
+        "sysPrefix": "/home/zejr/.cache/pypoetry/virtualenvs/personal-cash-flow-Wbqlgb50-py3.9",
+        "fileHash": "f0da228bc87a00a7ab3f02109aaa705b103c20966507de6d4dc73be4a1c839e526c209707036b69cf014ed9037d136e25e9f19edd79660d756a5509965c55383",
         "type": "Unknown"
       },
       {
         "architecture": 3,
-        "path": "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python3",
+        "path": "/home/zejr/.cache/pypoetry/virtualenvs/personal-cash-flow-Wbqlgb50-py3.9/bin/python3",
         "version": {
           "options": {
             "loose": false,
@@ -615,13 +615,13 @@
           "build": [],
           "version": "3.9.0-final"
         },
-        "sysPrefix": "/home/zejr/Works/Globo/tvg-novo-flow/env",
-        "fileHash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39",
+        "sysPrefix": "/home/zejr/.cache/pypoetry/virtualenvs/personal-cash-flow-Wbqlgb50-py3.9",
+        "fileHash": "f0da228bc87a00a7ab3f02109aaa705b103c20966507de6d4dc73be4a1c839e526c209707036b69cf014ed9037d136e25e9f19edd79660d756a5509965c55383",
         "type": "Unknown"
       },
       {
         "architecture": 3,
-        "path": "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python3.9",
+        "path": "/home/zejr/.cache/pypoetry/virtualenvs/personal-cash-flow-Wbqlgb50-py3.9/bin/python3.9",
         "version": {
           "options": {
             "loose": false,
@@ -638,8 +638,8 @@
           "build": [],
           "version": "3.9.0-final"
         },
-        "sysPrefix": "/home/zejr/Works/Globo/tvg-novo-flow/env",
-        "fileHash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39",
+        "sysPrefix": "/home/zejr/.cache/pypoetry/virtualenvs/personal-cash-flow-Wbqlgb50-py3.9",
+        "fileHash": "f0da228bc87a00a7ab3f02109aaa705b103c20966507de6d4dc73be4a1c839e526c209707036b69cf014ed9037d136e25e9f19edd79660d756a5509965c55383",
         "type": "Unknown"
       },
       {
@@ -1151,7 +1151,7 @@
         "displayName": "Python 3.8.5 64-bit",
         "hash": "9c637d10dfe0e68122f2a8e45491c48c4ec885ae3f156f50d6d03016459304b430cf640ce6dd5ee52a73108e174411f35c9a3ad3707f3e46861386ca830f9ebf-75a1b4fb74c7d718270337df7b1dd834"
       },
-      "expiry": 1616801621746
+      "expiry": 1617192347397
     },
     "/bin/python.interpreter.displayName.v7": {
       "data": {
@@ -1165,7 +1165,7 @@
         "displayName": "Python 3.8.5 64-bit",
         "hash": "9c637d10dfe0e68122f2a8e45491c48c4ec885ae3f156f50d6d03016459304b430cf640ce6dd5ee52a73108e174411f35c9a3ad3707f3e46861386ca830f9ebf-a6247eca6321d7ddf8cc9a5b5f7587a9"
       },
-      "expiry": 1616801621755
+      "expiry": 1617192347408
     },
     "/home/zejr/.pyenv/versions/3.7.2/bin/python.interpreter.Details.v7": {
       "data": {
@@ -1377,7 +1377,7 @@
           "displayName": "Python 3.8.5 64-bit"
         }
       },
-      "expiry": 1616801621814
+      "expiry": 1617192347587
     },
     "/bin/python.interpreter.Details.v7": {
       "data": {
@@ -1437,7 +1437,7 @@
           "displayName": "Python 3.8.5 64-bit"
         }
       },
-      "expiry": 1616801621840
+      "expiry": 1617192347646
     },
     "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python3.9.interpreter.Details.v7": {
       "data": {
@@ -1827,7 +1827,7 @@
         "sysPrefix": "/usr",
         "fileHash": "ead26da0e189ea324ec3bd811f6e0bd87e7d14a18b11ce47fc56e984bf3623e7ff758a3842cc3c96ed5ac850766ed34d90e2fcd94762582627f0d4589172eadb"
       },
-      "expiry": 1616801621602
+      "expiry": 1617192347040
     },
     "/usr/bin/python3.8.v3": {
       "data": {
@@ -1852,11 +1852,11 @@
         "sysPrefix": "/usr",
         "fileHash": "ead26da0e189ea324ec3bd811f6e0bd87e7d14a18b11ce47fc56e984bf3623e7ff758a3842cc3c96ed5ac850766ed34d90e2fcd94762582627f0d4589172eadb"
       },
-      "expiry": 1616801621611
+      "expiry": 1617192347050
     },
     "InterpreterAutoSeletionRule-currentPath": {
       "architecture": 3,
-      "path": "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python3.9",
+      "path": "/home/zejr/.cache/pypoetry/virtualenvs/personal-cash-flow-Wbqlgb50-py3.9/bin/python",
       "version": {
         "options": {
           "loose": false,
@@ -1873,8 +1873,8 @@
         "build": [],
         "version": "3.9.0-final"
       },
-      "sysPrefix": "/home/zejr/Works/Globo/tvg-novo-flow/env",
-      "fileHash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39",
+      "sysPrefix": "/home/zejr/.cache/pypoetry/virtualenvs/personal-cash-flow-Wbqlgb50-py3.9",
+      "fileHash": "f0da228bc87a00a7ab3f02109aaa705b103c20966507de6d4dc73be4a1c839e526c209707036b69cf014ed9037d136e25e9f19edd79660d756a5509965c55383",
       "type": "Unknown"
     },
     "/usr/bin/python2.interpreter.displayName.v7": {
@@ -1882,14 +1882,14 @@
         "displayName": "Python 2.7.18 64-bit",
         "hash": "3dc5900b169c22d3b234a9e2de35662f88c34d0dc79fe4d833d65601b79a3538e607bb5060e0ff8ab0ad674970297176a690321bc05a594fc218a1b88a40fdbd-b73a7a5e27ef3425e974abecaf5d36e7"
       },
-      "expiry": 1616801621740
+      "expiry": 1617192347361
     },
     "/bin/python2.interpreter.displayName.v7": {
       "data": {
         "displayName": "Python 2.7.18 64-bit",
         "hash": "3dc5900b169c22d3b234a9e2de35662f88c34d0dc79fe4d833d65601b79a3538e607bb5060e0ff8ab0ad674970297176a690321bc05a594fc218a1b88a40fdbd-8406bc58b03f393c3d7cd418c49bbc8b"
       },
-      "expiry": 1616801621752
+      "expiry": 1617192347404
     },
     "InterpreterAutoSeletionRule-system": {
       "architecture": 3,
@@ -1943,7 +1943,7 @@
           "displayName": "Python 2.7.18 64-bit"
         }
       },
-      "expiry": 1616801621805
+      "expiry": 1617192347547
     },
     "/bin/python2.interpreter.Details.v7": {
       "data": {
@@ -1973,7 +1973,7 @@
           "displayName": "Python 2.7.18 64-bit"
         }
       },
-      "expiry": 1616801621832
+      "expiry": 1617192347605
     },
     "InterpreterAutoSeletionRule-cachedInterpreters": {
       "architecture": 3,
@@ -2046,7 +2046,7 @@
         "sysPrefix": "/usr",
         "fileHash": "7ef4ab52c83c06444355b77766e5885598779fc2f65ec22ba77988443fb9c3b2d9f2e24afb966076f7727fdb3191efdfb55db7f099013c574ced342529f50e7e"
       },
-      "expiry": 1616801621608
+      "expiry": 1617192347178
     },
     "/bin/python3.9.v3": {
       "data": {
@@ -2071,7 +2071,7 @@
         "sysPrefix": "/usr",
         "fileHash": "7ef4ab52c83c06444355b77766e5885598779fc2f65ec22ba77988443fb9c3b2d9f2e24afb966076f7727fdb3191efdfb55db7f099013c574ced342529f50e7e"
       },
-      "expiry": 1616801621597
+      "expiry": 1617192347006
     },
     "/home/zejr/Works/Intexfy/async_mail/env/bin/python3.9.v3": {
       "data": {
@@ -2148,30 +2148,6 @@
       },
       "expiry": 1616023203140
     },
-    "InterpreterAutoSeletionRule-workspaceEnvs": {
-      "architecture": 3,
-      "path": "/home/zejr/Works/Olist/products-api/env/bin/python3.9",
-      "version": {
-        "options": {
-          "loose": false,
-          "includePrerelease": false
-        },
-        "loose": false,
-        "raw": "3.9.0-final",
-        "major": 3,
-        "minor": 9,
-        "patch": 0,
-        "prerelease": [
-          "final"
-        ],
-        "build": [],
-        "version": "3.9.0-final"
-      },
-      "sysPrefix": "/home/zejr/Works/Olist/products-api/env",
-      "fileHash": "3cf73dbc4253a478ecefe4c3a3112f5c836b614b1bf462991d6c36e3f30529fd5688579a4dbe04b51d6505e37e11544a74e671151f00da904ecaf80693aa9bd4",
-      "envName": "env",
-      "type": "Venv"
-    },
     "/home/zejr/Works/Intexfy/async_mail/env/bin/python.interpreter.displayName.v7": {
       "data": {
         "displayName": "Python 3.9.0 64-bit ('env': venv)",
@@ -2184,14 +2160,14 @@
         "displayName": "Python 3.9.0 64-bit",
         "hash": "7ef4ab52c83c06444355b77766e5885598779fc2f65ec22ba77988443fb9c3b2d9f2e24afb966076f7727fdb3191efdfb55db7f099013c574ced342529f50e7e-ec38c58ede081c2c13f63e66371e6e7e"
       },
-      "expiry": 1616801621749
+      "expiry": 1617192347400
     },
     "/bin/python3.9.interpreter.displayName.v7": {
       "data": {
         "displayName": "Python 3.9.0 64-bit",
         "hash": "7ef4ab52c83c06444355b77766e5885598779fc2f65ec22ba77988443fb9c3b2d9f2e24afb966076f7727fdb3191efdfb55db7f099013c574ced342529f50e7e-acb60fa57b11c74081b94f854486c59e"
       },
-      "expiry": 1616801621758
+      "expiry": 1617192347426
     },
     "/home/zejr/Works/Intexfy/async_mail/env/bin/python.interpreter.Details.v7": {
       "data": {
@@ -2252,7 +2228,7 @@
           "displayName": "Python 3.9.0 64-bit"
         }
       },
-      "expiry": 1616801621823
+      "expiry": 1617192347597
     },
     "/bin/python3.9.interpreter.Details.v7": {
       "data": {
@@ -2282,7 +2258,7 @@
           "displayName": "Python 3.9.0 64-bit"
         }
       },
-      "expiry": 1616801621847
+      "expiry": 1617192347653
     },
     "/home/zejr/Works/Olist/products-api/env/bin/python3.9.v3": {
       "data": {
@@ -2307,7 +2283,7 @@
         "sysPrefix": "/home/zejr/Works/Olist/products-api/env",
         "fileHash": "3cf73dbc4253a478ecefe4c3a3112f5c836b614b1bf462991d6c36e3f30529fd5688579a4dbe04b51d6505e37e11544a74e671151f00da904ecaf80693aa9bd4"
       },
-      "expiry": 1616692978577
+      "expiry": 1617208384129
     },
     "/home/zejr/Works/Olist/products-api/env/bin/python3.v3": {
       "data": {
@@ -2332,7 +2308,7 @@
         "sysPrefix": "/home/zejr/Works/Olist/products-api/env",
         "fileHash": "3cf73dbc4253a478ecefe4c3a3112f5c836b614b1bf462991d6c36e3f30529fd5688579a4dbe04b51d6505e37e11544a74e671151f00da904ecaf80693aa9bd4"
       },
-      "expiry": 1616692978557
+      "expiry": 1617208384134
     },
     "/home/zejr/Works/Olist/products-api/env/bin/python.v3": {
       "data": {
@@ -2357,7 +2333,7 @@
         "sysPrefix": "/home/zejr/Works/Olist/products-api/env",
         "fileHash": "3cf73dbc4253a478ecefe4c3a3112f5c836b614b1bf462991d6c36e3f30529fd5688579a4dbe04b51d6505e37e11544a74e671151f00da904ecaf80693aa9bd4"
       },
-      "expiry": 1616692978549
+      "expiry": 1617208384107
     },
     "/home/zejr/Works/Olist/products-api/env/bin/python3.interpreter.Details.v7": {
       "data": {
@@ -2370,7 +2346,7 @@
         "displayName": "Python 3.9.0 64-bit ('env': venv)",
         "hash": "3cf73dbc4253a478ecefe4c3a3112f5c836b614b1bf462991d6c36e3f30529fd5688579a4dbe04b51d6505e37e11544a74e671151f00da904ecaf80693aa9bd4-b27561d0b2daac2f65d64d95d3287de8"
       },
-      "expiry": 1616692978660
+      "expiry": 1617208384278
     },
     "/home/zejr/Works/Olist/products-api/env/bin/python.interpreter.Details.v7": {
       "data": {
@@ -2401,7 +2377,7 @@
           "displayName": "Python 3.9.0 64-bit ('env': venv)"
         }
       },
-      "expiry": 1616692978727
+      "expiry": 1617208384451
     },
     "/home/zejr/Works/Olist/products-api/env/bin/python3.interpreter.displayName.v7": {
       "data": {
@@ -2559,7 +2535,7 @@
         "sysPrefix": "/home/zejr/Works/Olist/olist-webapp/env",
         "fileHash": "c77cc1066c974d8b3f5838e00011c271585695c85c0d353c912b7e2738d27931c969062745573d7d792f5dd1b2789245e299a534d07ee63f3a3e4c404c2c0c13"
       },
-      "expiry": 1616692916928
+      "expiry": 1617192752687
     },
     "/home/zejr/Works/Olist/olist-webapp/env/bin/python3.v3": {
       "data": {
@@ -2584,7 +2560,7 @@
         "sysPrefix": "/home/zejr/Works/Olist/olist-webapp/env",
         "fileHash": "c77cc1066c974d8b3f5838e00011c271585695c85c0d353c912b7e2738d27931c969062745573d7d792f5dd1b2789245e299a534d07ee63f3a3e4c404c2c0c13"
       },
-      "expiry": 1616692916889
+      "expiry": 1617192752701
     },
     "/home/zejr/Works/Olist/olist-webapp/env/bin/python.v3": {
       "data": {
@@ -2609,14 +2585,14 @@
         "sysPrefix": "/home/zejr/Works/Olist/olist-webapp/env",
         "fileHash": "c77cc1066c974d8b3f5838e00011c271585695c85c0d353c912b7e2738d27931c969062745573d7d792f5dd1b2789245e299a534d07ee63f3a3e4c404c2c0c13"
       },
-      "expiry": 1616692916893
+      "expiry": 1617192752737
     },
     "/home/zejr/Works/Olist/olist-webapp/env/bin/python.interpreter.displayName.v7": {
       "data": {
         "displayName": "Python 3.9.0 64-bit ('env': venv)",
         "hash": "c77cc1066c974d8b3f5838e00011c271585695c85c0d353c912b7e2738d27931c969062745573d7d792f5dd1b2789245e299a534d07ee63f3a3e4c404c2c0c13-9991606081b70f647537a7f160339ab3"
       },
-      "expiry": 1616692917141
+      "expiry": 1617192752824
     },
     "/home/zejr/Works/Olist/olist-webapp/env/bin/python.interpreter.Details.v7": {
       "data": {
@@ -2647,20 +2623,20 @@
           "displayName": "Python 3.9.0 64-bit ('env': venv)"
         }
       },
-      "expiry": 1616692917263
+      "expiry": 1617192752884
     },
     "/home/zejr/Works/Olist/olist-webapp/env/bin/python3.9.interpreter.Details.v7": {
       "data": {
         "fileHash": "c77cc1066c974d8b3f5838e00011c271585695c85c0d353c912b7e2738d27931c969062745573d7d792f5dd1b2789245e299a534d07ee63f3a3e4c404c2c0c13"
       },
-      "expiry": 1616692917195
+      "expiry": 1617192752958
     },
     "/home/zejr/Works/Olist/olist-webapp/env/bin/python3.9.interpreter.displayName.v7": {
       "data": {
         "displayName": "Python 3.9.0 64-bit ('env': venv)",
         "hash": "c77cc1066c974d8b3f5838e00011c271585695c85c0d353c912b7e2738d27931c969062745573d7d792f5dd1b2789245e299a534d07ee63f3a3e4c404c2c0c13-0680e3f9dfdeff669ae314ee35f466e2"
       },
-      "expiry": 1616692917385
+      "expiry": 1617192753061
     },
     "/home/zejr/Works/Olist/sellers-api/env/bin/python3.v3": {
       "data": {
@@ -2685,7 +2661,7 @@
         "sysPrefix": "/home/zejr/Works/Olist/sellers-api/env",
         "fileHash": "9e3c890c925a746095033a56d05af979bf173a096e0483146f9bfbced901467b528872eb84bfd14d9a837204772436f40493fb48c04280ece6bfe9890333bf8b"
       },
-      "expiry": 1615491463132
+      "expiry": 1617192347135
     },
     "/home/zejr/Works/Olist/sellers-api/env/bin/python3.9.v3": {
       "data": {
@@ -2710,7 +2686,7 @@
         "sysPrefix": "/home/zejr/Works/Olist/sellers-api/env",
         "fileHash": "9e3c890c925a746095033a56d05af979bf173a096e0483146f9bfbced901467b528872eb84bfd14d9a837204772436f40493fb48c04280ece6bfe9890333bf8b"
       },
-      "expiry": 1615491463282
+      "expiry": 1617192347132
     },
     "/home/zejr/Works/Olist/sellers-api/env/bin/python.v3": {
       "data": {
@@ -2735,7 +2711,7 @@
         "sysPrefix": "/home/zejr/Works/Olist/sellers-api/env",
         "fileHash": "9e3c890c925a746095033a56d05af979bf173a096e0483146f9bfbced901467b528872eb84bfd14d9a837204772436f40493fb48c04280ece6bfe9890333bf8b"
       },
-      "expiry": 1615491463214
+      "expiry": 1617192347169
     },
     "/home/zejr/Works/Olist/sellers-api/env/bin/python3.interpreter.Details.v7": {
       "data": {
@@ -2748,7 +2724,7 @@
         "displayName": "Python 3.9.0 64-bit ('env': venv)",
         "hash": "9e3c890c925a746095033a56d05af979bf173a096e0483146f9bfbced901467b528872eb84bfd14d9a837204772436f40493fb48c04280ece6bfe9890333bf8b-3a5e613d149358603f01aec2585e7853"
       },
-      "expiry": 1615491463370
+      "expiry": 1617192347356
     },
     "/home/zejr/Works/Olist/sellers-api/env/bin/python.interpreter.Details.v7": {
       "data": {
@@ -2779,7 +2755,7 @@
           "displayName": "Python 3.9.0 64-bit ('env': venv)"
         }
       },
-      "expiry": 1615491463515
+      "expiry": 1617192347529
     },
     "/home/zejr/Works/Olist/sellers-api/env/bin/python3.interpreter.displayName.v7": {
       "data": {
@@ -2985,14 +2961,14 @@
         "sysPrefix": "/home/zejr/.cache/pypoetry/virtualenvs/products-api-jWfuJ8Sw-py3.9",
         "fileHash": "f7e1722d497bb5f80ee8018254e3a7a428e1359966acd90ae1c23d6615b54d8ba1fef43e959bcb0649ed765bfe24e36e60825e8212723b7a87e43448a66454e2"
       },
-      "expiry": 1616692978551
+      "expiry": 1617208384110
     },
     "/home/zejr/.cache/pypoetry/virtualenvs/products-api-jWfuJ8Sw-py3.9/bin/python.interpreter.displayName.v7": {
       "data": {
-        "displayName": "Python 3.9.0 64-bit",
-        "hash": "f7e1722d497bb5f80ee8018254e3a7a428e1359966acd90ae1c23d6615b54d8ba1fef43e959bcb0649ed765bfe24e36e60825e8212723b7a87e43448a66454e2-31b63e2dbf8de4e7a69b9566bba63833"
+        "displayName": "Python 3.9.0 64-bit ('products-api-jWfuJ8Sw-py3.9': venv)",
+        "hash": "f7e1722d497bb5f80ee8018254e3a7a428e1359966acd90ae1c23d6615b54d8ba1fef43e959bcb0649ed765bfe24e36e60825e8212723b7a87e43448a66454e2-790071eb580895f433933143faeb3be6"
       },
-      "expiry": 1616693013568
+      "expiry": 1617208384625
     },
     "/home/zejr/.cache/pypoetry/virtualenvs/products-api-jWfuJ8Sw-py3.9/bin/python.interpreter.Details.v7": {
       "data": {
@@ -3019,10 +2995,10 @@
           "sysPrefix": "/home/zejr/.cache/pypoetry/virtualenvs/products-api-jWfuJ8Sw-py3.9",
           "fileHash": "f7e1722d497bb5f80ee8018254e3a7a428e1359966acd90ae1c23d6615b54d8ba1fef43e959bcb0649ed765bfe24e36e60825e8212723b7a87e43448a66454e2",
           "type": "Unknown",
-          "displayName": "Python 3.9.0 64-bit"
+          "displayName": "Python 3.9.0 64-bit ('products-api-jWfuJ8Sw-py3.9': venv)"
         }
       },
-      "expiry": 1616693013580
+      "expiry": 1617208384910
     },
     "/home/zejr/Works/Olist/zaig-order-validation-service/env/bin/python3.9.v3": {
       "data": {
@@ -3150,9 +3126,197 @@
       },
       "expiry": 1616698352731
     },
-    "InterpreterAutoSeletionRule-environment": {
+    "/home/zejr/Works/Olist/order-validation-zaig-service/env/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/order-validation-zaig-service/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/order-validation-zaig-service/env",
+        "fileHash": "95bd130c1a0d47cc3aebae157b04ecac4734ea7551a78f6608d99906242b49bc10d9f691268ae6e5bcf4f2262661c171a5ec7d2d403279d4a5728a7775f45d18"
+      },
+      "expiry": 1617103200848
+    },
+    "/home/zejr/Works/Olist/order-validation-zaig-service/env/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/order-validation-zaig-service/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/order-validation-zaig-service/env",
+        "fileHash": "95bd130c1a0d47cc3aebae157b04ecac4734ea7551a78f6608d99906242b49bc10d9f691268ae6e5bcf4f2262661c171a5ec7d2d403279d4a5728a7775f45d18"
+      },
+      "expiry": 1617103200879
+    },
+    "/home/zejr/Works/Olist/order-validation-zaig-service/env/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/order-validation-zaig-service/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/order-validation-zaig-service/env",
+        "fileHash": "95bd130c1a0d47cc3aebae157b04ecac4734ea7551a78f6608d99906242b49bc10d9f691268ae6e5bcf4f2262661c171a5ec7d2d403279d4a5728a7775f45d18"
+      },
+      "expiry": 1617103200888
+    },
+    "/home/zejr/Works/Olist/order-validation-zaig-service/env/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit ('env': venv)",
+        "hash": "95bd130c1a0d47cc3aebae157b04ecac4734ea7551a78f6608d99906242b49bc10d9f691268ae6e5bcf4f2262661c171a5ec7d2d403279d4a5728a7775f45d18-a09a4240f6b95c6758a1b10a0bca04ff"
+      },
+      "expiry": 1617103200931
+    },
+    "/home/zejr/Works/Olist/order-validation-zaig-service/env/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "95bd130c1a0d47cc3aebae157b04ecac4734ea7551a78f6608d99906242b49bc10d9f691268ae6e5bcf4f2262661c171a5ec7d2d403279d4a5728a7775f45d18",
+        "info": {
+          "architecture": 3,
+          "path": "/home/zejr/Works/Olist/order-validation-zaig-service/env/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.0-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 0,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.0-final"
+          },
+          "sysPrefix": "/home/zejr/Works/Olist/order-validation-zaig-service/env",
+          "fileHash": "95bd130c1a0d47cc3aebae157b04ecac4734ea7551a78f6608d99906242b49bc10d9f691268ae6e5bcf4f2262661c171a5ec7d2d403279d4a5728a7775f45d18",
+          "envName": "env",
+          "type": "Venv",
+          "displayName": "Python 3.9.0 64-bit ('env': venv)"
+        }
+      },
+      "expiry": 1617103200962
+    },
+    "/home/zejr/Works/Olist/order-validation-zaig-service/env/bin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "95bd130c1a0d47cc3aebae157b04ecac4734ea7551a78f6608d99906242b49bc10d9f691268ae6e5bcf4f2262661c171a5ec7d2d403279d4a5728a7775f45d18"
+      },
+      "expiry": 1617103201102
+    },
+    "/home/zejr/Works/Olist/order-validation-zaig-service/env/bin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit ('env': venv)",
+        "hash": "95bd130c1a0d47cc3aebae157b04ecac4734ea7551a78f6608d99906242b49bc10d9f691268ae6e5bcf4f2262661c171a5ec7d2d403279d4a5728a7775f45d18-abd52c86c08973f9d61def32fea39666"
+      },
+      "expiry": 1617103201205
+    },
+    "/home/zejr/.cache/pypoetry/virtualenvs/order-validation-zaig-service-36LCpm2u-py3.9/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/.cache/pypoetry/virtualenvs/order-validation-zaig-service-36LCpm2u-py3.9/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/.cache/pypoetry/virtualenvs/order-validation-zaig-service-36LCpm2u-py3.9",
+        "fileHash": "b5cf9f8341a326248673888429f6aa489d87ec5f39179e6045826be0e98612b0e36d5f34b023cd6c8967abf7ee01ad0b4b2ffa49da9458aeab655457fae23249"
+      },
+      "expiry": 1617107008440
+    },
+    "/home/zejr/.cache/pypoetry/virtualenvs/order-validation-zaig-service-36LCpm2u-py3.9/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit",
+        "hash": "b5cf9f8341a326248673888429f6aa489d87ec5f39179e6045826be0e98612b0e36d5f34b023cd6c8967abf7ee01ad0b4b2ffa49da9458aeab655457fae23249-8ce8c3f96bb496cfac4e1963e385d32f"
+      },
+      "expiry": 1617107362891
+    },
+    "/home/zejr/.cache/pypoetry/virtualenvs/order-validation-zaig-service-36LCpm2u-py3.9/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "b5cf9f8341a326248673888429f6aa489d87ec5f39179e6045826be0e98612b0e36d5f34b023cd6c8967abf7ee01ad0b4b2ffa49da9458aeab655457fae23249",
+        "info": {
+          "architecture": 3,
+          "path": "/home/zejr/.cache/pypoetry/virtualenvs/order-validation-zaig-service-36LCpm2u-py3.9/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.0-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 0,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.0-final"
+          },
+          "sysPrefix": "/home/zejr/.cache/pypoetry/virtualenvs/order-validation-zaig-service-36LCpm2u-py3.9",
+          "fileHash": "b5cf9f8341a326248673888429f6aa489d87ec5f39179e6045826be0e98612b0e36d5f34b023cd6c8967abf7ee01ad0b4b2ffa49da9458aeab655457fae23249",
+          "type": "Unknown",
+          "displayName": "Python 3.9.0 64-bit"
+        }
+      },
+      "expiry": 1617107362946
+    },
+    "InterpreterAutoSeletionRule-workspaceEnvs": {
       "architecture": 3,
-      "path": "/home/zejr/Works/Globo/tvg-novo-flow/env/bin/python3",
+      "path": "/home/zejr/Works/Olist/products-api/env/bin/python3.9",
       "version": {
         "options": {
           "loose": false,
@@ -3169,9 +3333,284 @@
         "build": [],
         "version": "3.9.0-final"
       },
-      "sysPrefix": "/home/zejr/Works/Globo/tvg-novo-flow/env",
-      "fileHash": "f6ab24bc4a54cfbda3534db4d96de23c6b1eb42a7c0ac784c7d9f190a6d1f1ed8fc2d4d13d5df6cd8dc4a4e0e5f456af73b619c2e95c7ca4bd825ac0a94aed39",
+      "sysPrefix": "/home/zejr/Works/Olist/products-api/env",
+      "fileHash": "3cf73dbc4253a478ecefe4c3a3112f5c836b614b1bf462991d6c36e3f30529fd5688579a4dbe04b51d6505e37e11544a74e671151f00da904ecaf80693aa9bd4",
+      "envName": "env",
+      "type": "Venv"
+    },
+    "InterpreterAutoSeletionRule-environment": {
+      "architecture": 3,
+      "path": "/home/zejr/Works/Olist/tapioca-zaig/env/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "/home/zejr/Works/Olist/tapioca-zaig/env",
+      "fileHash": "df5a07b21e8a050cecb5809bd060261d3ab3064e34de6084fc45aabcad17d600311308dc0bf76002c7c8c91ecc12837a7170db3b7dee3d20605424103099421c",
       "type": "VirtualEnv"
+    },
+    "/home/zejr/Works/Olist/tapioca-zaig/env/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/tapioca-zaig/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/tapioca-zaig/env",
+        "fileHash": "df5a07b21e8a050cecb5809bd060261d3ab3064e34de6084fc45aabcad17d600311308dc0bf76002c7c8c91ecc12837a7170db3b7dee3d20605424103099421c"
+      },
+      "expiry": 1617197274721
+    },
+    "/home/zejr/Works/Olist/tapioca-zaig/env/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/tapioca-zaig/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/tapioca-zaig/env",
+        "fileHash": "df5a07b21e8a050cecb5809bd060261d3ab3064e34de6084fc45aabcad17d600311308dc0bf76002c7c8c91ecc12837a7170db3b7dee3d20605424103099421c"
+      },
+      "expiry": 1617197274763
+    },
+    "/home/zejr/Works/Olist/tapioca-zaig/env/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/tapioca-zaig/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/tapioca-zaig/env",
+        "fileHash": "df5a07b21e8a050cecb5809bd060261d3ab3064e34de6084fc45aabcad17d600311308dc0bf76002c7c8c91ecc12837a7170db3b7dee3d20605424103099421c"
+      },
+      "expiry": 1617197274766
+    },
+    "/home/zejr/Works/Olist/tapioca-zaig/env/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit ('env': venv)",
+        "hash": "df5a07b21e8a050cecb5809bd060261d3ab3064e34de6084fc45aabcad17d600311308dc0bf76002c7c8c91ecc12837a7170db3b7dee3d20605424103099421c-1be3d10f55a91921045fc2aab66891ed"
+      },
+      "expiry": 1617197275616
+    },
+    "/home/zejr/Works/Olist/tapioca-zaig/env/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "df5a07b21e8a050cecb5809bd060261d3ab3064e34de6084fc45aabcad17d600311308dc0bf76002c7c8c91ecc12837a7170db3b7dee3d20605424103099421c",
+        "info": {
+          "architecture": 3,
+          "path": "/home/zejr/Works/Olist/tapioca-zaig/env/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.0-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 0,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.0-final"
+          },
+          "sysPrefix": "/home/zejr/Works/Olist/tapioca-zaig/env",
+          "fileHash": "df5a07b21e8a050cecb5809bd060261d3ab3064e34de6084fc45aabcad17d600311308dc0bf76002c7c8c91ecc12837a7170db3b7dee3d20605424103099421c",
+          "envName": "env",
+          "type": "Venv",
+          "displayName": "Python 3.9.0 64-bit"
+        }
+      },
+      "expiry": 1617197275558
+    },
+    "/home/zejr/Works/Olist/tapioca-zaig/env/bin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "df5a07b21e8a050cecb5809bd060261d3ab3064e34de6084fc45aabcad17d600311308dc0bf76002c7c8c91ecc12837a7170db3b7dee3d20605424103099421c"
+      },
+      "expiry": 1617197275047
+    },
+    "/home/zejr/Works/Olist/tapioca-zaig/env/bin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit ('env': venv)",
+        "hash": "df5a07b21e8a050cecb5809bd060261d3ab3064e34de6084fc45aabcad17d600311308dc0bf76002c7c8c91ecc12837a7170db3b7dee3d20605424103099421c-901f7d7b25e104732972d549a8095e22"
+      },
+      "expiry": 1617197275280
+    },
+    "/home/zejr/.cache/pypoetry/virtualenvs/personal-cash-flow-Wbqlgb50-py3.9/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/.cache/pypoetry/virtualenvs/personal-cash-flow-Wbqlgb50-py3.9/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/.cache/pypoetry/virtualenvs/personal-cash-flow-Wbqlgb50-py3.9",
+        "fileHash": "f0da228bc87a00a7ab3f02109aaa705b103c20966507de6d4dc73be4a1c839e526c209707036b69cf014ed9037d136e25e9f19edd79660d756a5509965c55383"
+      },
+      "expiry": 1617225373673
+    },
+    "/home/zejr/.cache/pypoetry/virtualenvs/personal-cash-flow-Wbqlgb50-py3.9/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/.cache/pypoetry/virtualenvs/personal-cash-flow-Wbqlgb50-py3.9/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/.cache/pypoetry/virtualenvs/personal-cash-flow-Wbqlgb50-py3.9",
+        "fileHash": "f0da228bc87a00a7ab3f02109aaa705b103c20966507de6d4dc73be4a1c839e526c209707036b69cf014ed9037d136e25e9f19edd79660d756a5509965c55383"
+      },
+      "expiry": 1617225373675
+    },
+    "/home/zejr/.cache/pypoetry/virtualenvs/personal-cash-flow-Wbqlgb50-py3.9/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/zejr/.cache/pypoetry/virtualenvs/personal-cash-flow-Wbqlgb50-py3.9/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/.cache/pypoetry/virtualenvs/personal-cash-flow-Wbqlgb50-py3.9",
+        "fileHash": "f0da228bc87a00a7ab3f02109aaa705b103c20966507de6d4dc73be4a1c839e526c209707036b69cf014ed9037d136e25e9f19edd79660d756a5509965c55383"
+      },
+      "expiry": 1617225373677
+    },
+    "/home/zejr/.cache/pypoetry/virtualenvs/personal-cash-flow-Wbqlgb50-py3.9/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit",
+        "hash": "f0da228bc87a00a7ab3f02109aaa705b103c20966507de6d4dc73be4a1c839e526c209707036b69cf014ed9037d136e25e9f19edd79660d756a5509965c55383-c7ef68bab1c58e5ecfac0df1fc57205c"
+      },
+      "expiry": 1617225373751
+    },
+    "/home/zejr/.cache/pypoetry/virtualenvs/personal-cash-flow-Wbqlgb50-py3.9/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "f0da228bc87a00a7ab3f02109aaa705b103c20966507de6d4dc73be4a1c839e526c209707036b69cf014ed9037d136e25e9f19edd79660d756a5509965c55383",
+        "info": {
+          "architecture": 3,
+          "path": "/home/zejr/.cache/pypoetry/virtualenvs/personal-cash-flow-Wbqlgb50-py3.9/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.0-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 0,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.0-final"
+          },
+          "sysPrefix": "/home/zejr/.cache/pypoetry/virtualenvs/personal-cash-flow-Wbqlgb50-py3.9",
+          "fileHash": "f0da228bc87a00a7ab3f02109aaa705b103c20966507de6d4dc73be4a1c839e526c209707036b69cf014ed9037d136e25e9f19edd79660d756a5509965c55383",
+          "type": "Unknown",
+          "displayName": "Python 3.9.0 64-bit"
+        }
+      },
+      "expiry": 1617225373803
+    },
+    "/home/zejr/.cache/pypoetry/virtualenvs/personal-cash-flow-Wbqlgb50-py3.9/bin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "f0da228bc87a00a7ab3f02109aaa705b103c20966507de6d4dc73be4a1c839e526c209707036b69cf014ed9037d136e25e9f19edd79660d756a5509965c55383"
+      },
+      "expiry": 1617225373838
+    },
+    "/home/zejr/.cache/pypoetry/virtualenvs/personal-cash-flow-Wbqlgb50-py3.9/bin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit ('personal-cash-flow-Wbqlgb50-py3.9': venv)",
+        "hash": "f0da228bc87a00a7ab3f02109aaa705b103c20966507de6d4dc73be4a1c839e526c209707036b69cf014ed9037d136e25e9f19edd79660d756a5509965c55383-3db5e33d9222284e33823cf0043b1572"
+      },
+      "expiry": 1617225373904
     }
   },
   "coc-python|/home/zejr/Works/Globo/tvg-novo-flow": {
@@ -4165,7 +4604,7 @@
     ],
     "autoSelectedWorkspacePythonInterpreter-/home/zejr/Works/Olist/products-api": {
       "architecture": 3,
-      "path": "/home/zejr/Works/Olist/products-api/env/bin/python3",
+      "path": "/home/zejr/Works/Olist/products-api/env/bin/python3.9",
       "version": {
         "options": {
           "loose": false,
@@ -4184,7 +4623,8 @@
       },
       "sysPrefix": "/home/zejr/Works/Olist/products-api/env",
       "fileHash": "3cf73dbc4253a478ecefe4c3a3112f5c836b614b1bf462991d6c36e3f30529fd5688579a4dbe04b51d6505e37e11544a74e671151f00da904ecaf80693aa9bd4",
-      "type": "VirtualEnv"
+      "envName": "env",
+      "type": "Venv"
     },
     "INTERPRETERS_CACHE_v3_PipEnvService": [],
     "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
@@ -4593,7 +5033,7 @@
     ],
     "autoSelectedWorkspacePythonInterpreter-/home/zejr/Works/Olist/olist-webapp": {
       "architecture": 3,
-      "path": "/home/zejr/Works/Olist/olist-webapp/env/bin/python3.9",
+      "path": "/home/zejr/Works/Olist/olist-webapp/env/bin/python3",
       "version": {
         "options": {
           "loose": false,
@@ -4612,8 +5052,7 @@
       },
       "sysPrefix": "/home/zejr/Works/Olist/olist-webapp/env",
       "fileHash": "c77cc1066c974d8b3f5838e00011c271585695c85c0d353c912b7e2738d27931c969062745573d7d792f5dd1b2789245e299a534d07ee63f3a3e4c404c2c0c13",
-      "envName": "env",
-      "type": "Venv"
+      "type": "VirtualEnv"
     }
   },
   "coc-python|/home/zejr/Works/Olist/sellers-api": {
@@ -4695,7 +5134,7 @@
     ],
     "autoSelectedWorkspacePythonInterpreter-/home/zejr/Works/Olist/sellers-api": {
       "architecture": 3,
-      "path": "/home/zejr/Works/Olist/sellers-api/env/bin/python3",
+      "path": "/home/zejr/Works/Olist/sellers-api/env/bin/python3.9",
       "version": {
         "options": {
           "loose": false,
@@ -4714,7 +5153,8 @@
       },
       "sysPrefix": "/home/zejr/Works/Olist/sellers-api/env",
       "fileHash": "9e3c890c925a746095033a56d05af979bf173a096e0483146f9bfbced901467b528872eb84bfd14d9a837204772436f40493fb48c04280ece6bfe9890333bf8b",
-      "type": "VirtualEnv"
+      "envName": "env",
+      "type": "Venv"
     },
     "INTERPRETERS_CACHE_v3_PipEnvService": [],
     "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
@@ -5147,5 +5587,194 @@
     },
     "INTERPRETERS_CACHE_v3_PipEnvService": [],
     "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/zejr/Works/Olist/order-validation-zaig-service": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:36f663ede5123d7e507cf857d260aff7": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:36f663ede5123d7e507cf857d260aff7": [],
+    "SelectedPythonPath": "/home/zejr/Works/Olist/order-validation-zaig-service/env/bin/python3.9",
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/zejr/Works/Olist/tapioca-zaig": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:74890964241af8a2b4eff1f325d66ea1": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:74890964241af8a2b4eff1f325d66ea1": [
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/tapioca-zaig/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/tapioca-zaig/env",
+        "fileHash": "df5a07b21e8a050cecb5809bd060261d3ab3064e34de6084fc45aabcad17d600311308dc0bf76002c7c8c91ecc12837a7170db3b7dee3d20605424103099421c",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/tapioca-zaig/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/tapioca-zaig/env",
+        "fileHash": "df5a07b21e8a050cecb5809bd060261d3ab3064e34de6084fc45aabcad17d600311308dc0bf76002c7c8c91ecc12837a7170db3b7dee3d20605424103099421c",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/tapioca-zaig/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/tapioca-zaig/env",
+        "fileHash": "df5a07b21e8a050cecb5809bd060261d3ab3064e34de6084fc45aabcad17d600311308dc0bf76002c7c8c91ecc12837a7170db3b7dee3d20605424103099421c",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/tapioca-zaig/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/tapioca-zaig/env",
+        "fileHash": "df5a07b21e8a050cecb5809bd060261d3ab3064e34de6084fc45aabcad17d600311308dc0bf76002c7c8c91ecc12837a7170db3b7dee3d20605424103099421c",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/tapioca-zaig/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/tapioca-zaig/env",
+        "fileHash": "df5a07b21e8a050cecb5809bd060261d3ab3064e34de6084fc45aabcad17d600311308dc0bf76002c7c8c91ecc12837a7170db3b7dee3d20605424103099421c",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/zejr/Works/Olist/tapioca-zaig/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "/home/zejr/Works/Olist/tapioca-zaig/env",
+        "fileHash": "df5a07b21e8a050cecb5809bd060261d3ab3064e34de6084fc45aabcad17d600311308dc0bf76002c7c8c91ecc12837a7170db3b7dee3d20605424103099421c",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/home/zejr/Works/Olist/tapioca-zaig/env/bin/python3",
+    "autoSelectedWorkspacePythonInterpreter-/home/zejr/Works/Olist/tapioca-zaig": {
+      "architecture": 3,
+      "path": "/home/zejr/Works/Olist/tapioca-zaig/env/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "/home/zejr/Works/Olist/tapioca-zaig/env",
+      "fileHash": "df5a07b21e8a050cecb5809bd060261d3ab3064e34de6084fc45aabcad17d600311308dc0bf76002c7c8c91ecc12837a7170db3b7dee3d20605424103099421c",
+      "type": "VirtualEnv"
+    }
+  },
+  "coc-python|/home/zejr/Works/OpenSource/personal-cash-flow": {
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:75f3eef615b6b8cafc089a0f4279319f": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:75f3eef615b6b8cafc089a0f4279319f": []
   }
 }

@@ -62,5 +62,7 @@ node_modules/
 .config/discord/
 .tsuru/
 .tmux/plugins/
-
+.packagecloud
+*.source
+*.code
 *.log

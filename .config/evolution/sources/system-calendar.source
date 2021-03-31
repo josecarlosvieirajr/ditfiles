@@ -87,7 +87,7 @@ Parent=local-stub
 [Calendar]
 BackendName=local
 Color=#becedd
-Selected=true
+Selected=false
 
 [Offline]
 StaySynchronized=true

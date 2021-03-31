@@ -56,6 +56,9 @@ set colorcolumn=80,100,120
 set listchars+=tab:→→\|,space:.,eol:↲,nbsp:␣,trail:•,extends:⟩,precedes:⟨
 set statusline=%F%m%r%h%w%=(%{&ff}/%Y)\ (line\ %l\/%L,\ col\ %c)\
 
+set omnifunc=jedi#completions
+set completeopt=menuone,longest,preview
+
 if exists('$SHELL')
     set shell=$SHELL
 else
@@ -125,6 +128,8 @@ let g:airline#extensions#ale#enabled = 0
 let g:airline#extensions#virtualenv#enabled = 0
 let g:airline#extensions#coc#enabled = 0
 
+let g:use_splits_not_buffers = 'right'
+let g:popup_on_dot = 0
 
 let g:ale_linters = {}
 :call extend(g:ale_linters, {

@@ -1,686 +1,731 @@
-e91f1e4eb87ee322311bb3760234c417|file:///home/zejr/.i3/picom.conf|1|1|V|
-	# max-brightness = 1.0
-dbc1bcb572549ebfd797416e516fdf96|file:///home/zejr/.i3/picom.conf|1|1|V|
-	# Make transparent windows clip other windows like non-transparent windows do,
-821c90be8c545f139b003c9097ab0f70|file:///home/zejr/.i3/picom.conf|1|1|V|
-	# instead of blending on top of them.
-e1eef48ae8e8ee928e63ea7aa28a50b4|file:///home/zejr/.i3/picom.conf|1|1|V|
-	# transparent-clipping = false
-58d81c13fae073add0e571f7855d0a3f|file:///home/zejr/.i3/picom.conf|1|1|V|
-	# Set the log level. Possible values are:
-5f5ad4479a07e7f438d50345358c0d7f|file:///home/zejr/.i3/picom.conf|1|1|V|
-	#  "trace", "debug", "info", "warn", "error"
-0b004324423a5c68ea6c42a3a821db1a|file:///home/zejr/.i3/picom.conf|1|1|V|
-	# in increasing level of importance. Case doesn't matter. 
-b356fe25473e0ab5e113586363c603d9|file:///home/zejr/.i3/picom.conf|1|1|V|
-	# If using the "TRACE" log level, it's better to log into a file 
-f4f75fca3511f6d223d4a1e607283aa3|file:///home/zejr/.i3/picom.conf|1|1|V|
-	# using *--log-file*, since it can generate a huge stream of logs.
-1d27364388dd57ae27fa3f21adc6a721|file:///home/zejr/.i3/picom.conf|1|1|V|
-	# log-level = "debug"
-607ebcdb4d773e94fbe783ef55afe02f|file:///home/zejr/.i3/picom.conf|1|1|V|
-	log-level = "warn";
-59d4f6c649b7d5da3fafea741373f087|file:///home/zejr/.i3/picom.conf|1|1|V|
-	# Set the log file.
-04530ca74e2f69d68a04d4975e057b2e|file:///home/zejr/.i3/picom.conf|1|1|V|
-	# If *--log-file* is never specified, logs will be written to stderr. 
-57ca0ad82c06e8868dc8d19faad5ba18|file:///home/zejr/.i3/picom.conf|1|1|V|
-	# Otherwise, logs will to written to the given file, though some of the early 
-ff832c617a92e03028eb5d49d8a8ebd3|file:///home/zejr/.i3/picom.conf|1|1|V|
-	# logs might still be written to the stderr. 
-1a1532c7c77d1a738b07c6f64b539e5a|file:///home/zejr/.i3/picom.conf|1|1|V|
-	# When setting this option from the config file, it is recommended to use an absolute path.
-9bfa4ab532112e062f8f23c1edf9fdab|file:///home/zejr/.i3/picom.conf|1|1|V|
-	# log-file = '~/.config/compton.log'
-9c67446e1b0705e3cbf64acd150da24c|file:///home/zejr/.i3/picom.conf|1|1|V|
-	# Show all X errors (for debugging)
-ba06c4817cd1c68d06e330a6a22a8b6d|file:///home/zejr/.i3/picom.conf|1|1|V|
-	# show-all-xerrors = false
-a0d7a224f9e7d06aecd89c38f439ccbe|file:///home/zejr/.i3/picom.conf|1|1|V|
-	# Write process ID to a file.
-30f96d9b7def3c366f63b7dc441b482f|file:///home/zejr/.i3/picom.conf|1|1|V|
-	# write-pid-path = '/path/to/your/log/file'
-dd8826e93e89fdfb6a5f7e884a831d4d|file:///home/zejr/.i3/picom.conf|1|1|V|
-	# Window type settings
-c6fa46aadb65f81df8ec5dc4e5316be0|file:///home/zejr/.i3/picom.conf|1|1|V|
-	# 'WINDOW_TYPE' is one of the 15 window types defined in EWMH standard: 
-c216ee7f4f19cbe7b6596d38fb6b323d|file:///home/zejr/.i3/picom.conf|1|1|V|
-	#     "unknown", "desktop", "dock", "toolbar", "menu", "utility", 
-b1978e0129fde839608f7ed1b8bfe172|file:///home/zejr/.i3/picom.conf|1|1|V|
-	#     "splash", "dialog", "normal", "dropdown_menu", "popup_menu", 
-300a9363b4738c16be91580feaf0d206|file:///home/zejr/.i3/picom.conf|1|1|V|
-	#     "tooltip", "notification", "combo", and "dnd".
-dfcdb11e10725350b6eeb0d00e9972af|file:///home/zejr/.i3/picom.conf|1|1|V|
-	# Following per window-type options are available: ::
-1029ca10e906b80e2d9529c9dea3087f|file:///home/zejr/.i3/picom.conf|1|1|V|
-	#   fade, shadow:::
-b541cc2df5f1251512a99045caa6b2fb|file:///home/zejr/.i3/picom.conf|1|1|V|
-	#     Controls window-type-specific shadow and fade settings.
-380c4680aa50adf8f99426172b0d53ea|file:///home/zejr/.i3/picom.conf|1|1|V|
-	#   opacity:::
-ec7865a4fdc3ad474c6cefe31b334dfb|file:///home/zejr/.i3/picom.conf|1|1|V|
-	#     Controls default opacity of the window type.
-662e5265ed82c21930586aabe4101951|file:///home/zejr/.i3/picom.conf|1|1|V|
-	#   focus:::
-239f3d9a2dc5d577d11f57a0bdf6ccc8|file:///home/zejr/.i3/picom.conf|1|1|V|
-	#     Controls whether the window of this type is to be always considered focused. 
-f34626160d7c0ecbbc7ec73c37af6873|file:///home/zejr/.i3/picom.conf|1|1|V|
-	#     (By default, all window types except "normal" and "dialog" has this on.)
-acdc2515e85f9aaee108a57aa1e8bb28|file:///home/zejr/.i3/picom.conf|1|1|V|
-	#   full-shadow:::
-b732d283f43b143857a91da22b665e7e|file:///home/zejr/.i3/picom.conf|1|1|V|
-	#     Controls whether shadow is drawn under the parts of the window that you 
-3fa4d58f5a2716e6842b93aededc4935|file:///home/zejr/.i3/picom.conf|1|1|V|
-	#     normally won't be able to see. Useful when the window has parts of it 
-73d25c1ebab8c1b27554796c56649c0f|file:///home/zejr/.i3/picom.conf|1|1|V|
-	#     transparent, and you want shadows in those areas.
-35ce2befb2897a3c03d71b3cd848376e|file:///home/zejr/.i3/picom.conf|1|1|V|
-	#   redir-ignore:::
-ed7c148afa6fbcaa17aef083bee6a31f|file:///home/zejr/.i3/picom.conf|1|1|V|
-	#     Controls whether this type of windows should cause screen to become 
-4aec9fc70ea36890b83d85018a2fad4a|file:///home/zejr/.i3/picom.conf|1|1|V|
-	#     redirected again after been unredirected. If you have unredir-if-possible
-af727fe71af2f221af9c857ed32d53fe|file:///home/zejr/.i3/picom.conf|1|1|V|
-	#     set, and doesn't want certain window to cause unnecessary screen redirection, 
-d488171edb3ffa96db8d0453d5cdbff6|file:///home/zejr/.i3/picom.conf|1|1|V|
-	#     you can set this to `true`.
-ce6099835fade52e95bb8a2f8e620d6b|file:///home/zejr/.i3/picom.conf|1|1|V|
-	wintypes:
-b0a4a0913c151945e1142bf44754915b|file:///home/zejr/.i3/picom.conf|1|1|V|
-	  tooltip = { fade = true; shadow = true; opacity = 0.9; focus = true; full-shadow = false; };
-4cda983f5460bfbaf99119fcf2c92f11|file:///home/zejr/.i3/picom.conf|1|1|V|
-	  dock = { shadow = false; }
-c09339d7cec9e052e7b3482dcbf2042f|file:///home/zejr/.i3/picom.conf|1|1|V|
-	  dnd = { shadow = false; }
-dec1bf6a53ccbd150945cc724ec648c9|file:///home/zejr/.i3/picom.conf|1|1|V|
-	  popup_menu = { opacity = 0.9; }
-9d8add97d779ac6c91d1b105db33685d|file:///home/zejr/.i3/picom.conf|1|1|V|
-	  dropdown_menu = { opacity = 0.9; }
-7fd79a5a7d0ab7eab546ffa11a160c44|file:///home/zejr/.i3/picom.conf|1|1|V|
-	    © 2021 GitHub, Inc.
-6576c00a01237ec8798716deac6efe8c|file:///home/zejr/.i3/picom.conf|1|1|V|
-	    Terms
-db262fced3805225fe35be84b0261c7c|file:///home/zejr/.i3/picom.conf|1|1|V|
-	    Privacy
-d60bb16b8b6fd53ccc90df350e2c6f4a|file:///home/zejr/.i3/picom.conf|1|1|V|
-	    Security
-84b58165357bdb4b07e7bf3229a7df3c|file:///home/zejr/.i3/picom.conf|1|1|V|
-	    Status
-54df3ba39b5c8f726be9c1bb68ecad6c|file:///home/zejr/.i3/picom.conf|1|1|V|
-	    Docs
-36189c7ec7ea46ce8d73e057f242427e|file:///home/zejr/.i3/picom.conf|1|1|V|
-	    Contact GitHub
-5202d58c11d769a54363e7f7178351ef|file:///home/zejr/.i3/picom.conf|1|1|V|
-	    Pricing
-cb4f0a4c282b05e79196b706bfea6fcf|file:///home/zejr/.i3/picom.conf|1|1|V|
-	    API
-6e68a94a00ebdfc25fba15ae9edccb27|file:///home/zejr/.i3/picom.conf|1|1|V|
-	    Training
-20457361f0bedc962b1116fe3cd5c305|file:///home/zejr/.i3/picom.conf|1|1|V|
-	    Blog
-4b4b960edefcf97caf7e550e3f6d5cef|file:///home/zejr/.i3/picom.conf|1|1|V|
-	    About
-ecf77426827a8a4c8590962fe2f36bed|file:///home/zejr/.i3/picom.conf|5|5|V|
-	    "0:class_g = 'jetbrains-pycharm-ce'",
-d029e2a4e15c57a8501083e0472264c4|file:///home/zejr/.i3/picom.conf|25|17|V|
-	arcolinux-i3wm/etc/skel/.config/i3/picom.conf
-b90659cd78db45f04add807af830a34f|file:///home/zejr/.i3/picom.conf|1|1|V|
-	Pull requests
-80b768b15c3693e345a436b9dc0ea36f|file:///home/zejr/.i3/picom.conf|1|1|V|
-	Issues
-675e31b94580e2642405e2f8586d112e|file:///home/zejr/.i3/picom.conf|1|1|V|
-	Marketplace
-1819001b72329e2ef5799fe504238035|file:///home/zejr/.i3/picom.conf|1|1|V|
-	Explore
-f149520336f5a360a63974c2e4ac4348|file:///home/zejr/.i3/picom.conf|1|1|V|
-	@josecarlosvieirajr
-8947f9b2fd040fb4ad74fa04d45acf5d|file:///home/zejr/.i3/picom.conf|1|1|V|
-	arcolinux /
-b124661330a2a4fd5fe4c32ff5d9b77b|file:///home/zejr/.i3/picom.conf|1|1|V|
-	arcolinux-i3wm
-4b1bea6bd721028dcebbf6a6223a53b2|file:///home/zejr/.i3/picom.conf|1|1|V|
-	    7
-ca0dbad92a874b2f69b549293387925e|file:///home/zejr/.i3/picom.conf|1|1|V|
-	Code
-06df33001c1d7187fdd81ea1f5b277aa|file:///home/zejr/.i3/picom.conf|1|1|V|
-	Actions
-54e1d44609e3abed11f6e1eb6ae54988|file:///home/zejr/.i3/picom.conf|1|1|V|
-	Projects
-bf111e3622a72a3b5dc784b5903983ca|file:///home/zejr/.i3/picom.conf|1|1|V|
-	Wiki
-2fae32629d4ef4fc6341f1751b405e45|file:///home/zejr/.i3/picom.conf|1|1|V|
-	Security
-7ee5185de786c60525fc9548daa45a89|file:///home/zejr/.i3/picom.conf|1|1|V|
-	    Insights
-3d8665a8e6f515e9e816fa6aeb7483ea|file:///home/zejr/.i3/picom.conf|1|1|V|
-	@erikdubois
-dcb476a5224b46ab17f9a303470eb540|file:///home/zejr/.i3/picom.conf|1|1|V|
-	erikdubois picom.conf changed
-87f07682b4a77ea4b964e68a92a9c4a5|file:///home/zejr/.i3/picom.conf|1|1|V|
-	Latest commit 319b240 19 days ago
-16d2b386b2034b9488996466aaae0b57|file:///home/zejr/.i3/picom.conf|1|1|V|
-	History
-7183ca21001bd7e3bab9c2af0975e582|file:///home/zejr/.i3/picom.conf|1|1|V|
-	1 contributor
-7975816576d13e4e4da1431324b3d15c|file:///home/zejr/.i3/picom.conf|1|1|V|
-	443 lines (360 sloc) 14.6 KB
-2532c951f95839a2151c0e68449caefa|file:///home/zejr/.i3/picom.conf|1|1|V|
-	#################################
-f6aa65f0a47f595d94d9947189e2486b|file:///home/zejr/.i3/picom.conf|1|1|V|
-	#             Shadows           #
-1e39be3a4943388eb1305b949f50954e|file:///home/zejr/.i3/picom.conf|1|1|V|
-	# Enabled client-side shadows on windows. Note desktop windows 
-f95b114ad86f76292d2fa3000ec189a3|file:///home/zejr/.i3/picom.conf|1|1|V|
-	# (windows with '_NET_WM_WINDOW_TYPE_DESKTOP') never get shadow, 
-b2eeba46ead578f5f1c168fd09c9765b|file:///home/zejr/.i3/picom.conf|1|1|V|
-	# unless explicitly requested using the wintypes option.
-94091982898f097e83e88c698862a6d5|file:///home/zejr/.config/nitrogen/bg-saved.cfg|2|6|v|cfg
-	/home/zejr/Downloads/wallpaper-pc1-scaled.jpg
+16766620c236fdc9cebbc3557b6ed65f|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/handlers.py|6|1|V|python
+	    async def get_product_id(self, instance):
+f22f3ce84060748fdf0f77c1a8fd289d|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/handlers.py|6|1|V|python
+	    async def add
+7c4c22c60e39da063e582e532e826eb5|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/handlers.py|1|1|V|python
+	from .models import SellerProduct
+a92cfd2228429df25d982095a15e153e|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/models.py|1|1|V|python
+	class SellerProduct(Model):
+c1681763c4ca862aa16d18c9a0b640da|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/models.py|1|1|V|python
+	    id: str
+96bc0e4ee6874973709a52cc9f3ac094|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/models.py|1|1|V|python
+	    seller_id: str
+1e6517ccedd2a9ab86d65d6a400cfb5e|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/models.py|1|1|V|python
+	    sku: str
+94ad369d9be20a0619265bd0f138e6ee|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|34|1|V|python
+	    SNSQueueRoute(
+82ce7be7560c8a9a244e9503ea08609a|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|34|1|V|python
+	        settings.BANK_ACCOUNT_CREATED_QUEUE,
+a1c29f7bf31179202cb851b89c59668f|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|34|1|V|python
+	        handler=SetupStepBankAccountHandler(),
+7cc573d67275d2a04be7307e5d2cb2dc|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|34|1|V|python
+	        **route_options,
+5e7815d3b18ea6383cf1bd0f4bc1347e|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|34|1|V|python
+	    ),
+17645044f931d290f505c29da86a6d87|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|34|1|V|python
+	        settings.SELLER_PRODUCT_CREATED_QUEUE,
+6a04f7e041a83af0315560a6830deaed|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|34|1|V|python
+	        handler=SetupStepFirstProductHandler(),
+e6da45dd1e76804f0a840ef686bc45a1|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|34|1|V|python
+	        settings.SELLER_DOCUMENT_CREATED_QUEUE,
+07d298e302b3fa941235447f4e0107d1|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|34|1|V|python
+	        handler=DocumentationApprovedHandler(),
+606ddf63c3071b7e982224137a92d3e3|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|34|1|V|python
+	        settings.SELLER_DOCUMENT_UPDATED_QUEUE,
+e0cb00f03e2b3984aec03017d0a523c1|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|34|1|V|python
+	        settings.SELLER_SUBSCRIPTION_INTEGRATION_PAID_QUEUE,
+d7951e86c273bced0e97ae2676977950|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|34|1|V|python
+	        handler=SetupStepSubscriptionIntegrationPaidHandler(),
+267d6bba419614564842105e33905822|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|34|1|V|python
+	        settings.SELLER_TAG_CREATED_QUEUE,
+f18205f5a187095b991e92cc581c5f35|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|34|1|V|python
+	        handler=SetupStepFirstStepsCompletedHandler(),
+389f546bab1b4a76dbabb643183d31b9|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|34|1|V|python
+	        settings.SELLER_SUBSCRIPTION_ACTIVE_QUEUE, handler=SetupStepSubscriptionPaidHandler(), **route_options
+ff0354e6b0677aabcb2e75b268f81b01|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|34|1|V|python
+	        settings.SELLER_CREATED_QUEUE,
+08aaa4fc565e5b65a619bd1afa90ee30|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|34|1|V|python
+	        handler=ProductsValidatedTagSellerBrandedStoreHandler(),
+42eedc650fabe9bb002ffcba54482eac|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|34|1|V|python
+	        settings.SELLER_IS_MANUFACTURER_TRUE_QUEUE,
+73dfc86ba01ca0b3ddb58ff4a3a6f2d6|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|34|1|V|python
+	        handler=ProductsValidatedTagSellerIsManufacturerHandler(),
+a17b396ab0cdcea2d3e47be6653ab5ff|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|34|1|V|python
+	        settings.SELLER_TAG_SUBSCRIPTION_PAID_QUEUE,
+0149dfcc5fc377ee267a7c2089fb0835|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|34|1|V|python
+	        handler=SetupImplementationTagHandler(),
+753e461d1d6fc591ad8c203627cbded2|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|31|17|v|python
+	SendOrderToZaigApiHandler(
+c8c7f39de22b9749b1b3341acf114033|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|7|1|V|python
+	    DocumentationApprovedHandler,
+475824aa6bd374c5e6883005a5b76510|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|8|30|V|python
+	    ProductsValidatedTagSellerBrandedStoreHandler,
+7a5ba6a67ff0c68b6892bf328ecdb0d0|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|8|30|V|python
+	    ProductsValidatedTagSellerIsManufacturerHandler,
+e3939d3ce32f0fb32ed0e1302e8a03e7|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|8|30|V|python
+	    SetupImplementationTagHandler,
+bff0fe1283077a4a3ea6b9f7da7cf9ca|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|8|30|V|python
+	    SetupStepBankAccountHandler,
+296a342fd32d160681776d426073456b|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|8|30|V|python
+	    SetupStepCompanyAccountHandler,
+87b62269ccb98024ad9d379dd0d817cc|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|8|30|V|python
+	    SetupStepFirstProductHandler,
+9c2e2b57b9d5726eb9093728447d8215|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|8|30|V|python
+	    SetupStepFirstStepsCompletedHandler,
+ba977a073bb14f571832b6e0e78a155e|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|8|30|V|python
+	    SetupStepSubscriptionIntegrationPaidHandler,
+636642a605c807f127f53fc0f28d0975|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|8|30|V|python
+	    SetupStepSubscriptionPaidHandler,
+e187e7f42a14497373bcf373dbe5244f|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|21|18|v|python
+	ORDER_WITH_STATUS_WAIT_REVIEW
+c8778019025f2b24dee131f34e21de5d|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/config.py|15|5|v|python
+	REDIS_URL
+9a15025f2a0a1a531f1c15755032cd19|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/config.py|16|73|V|python
+	    REDIS_CACHE_TTL = config("REDIS_CACHE_TTL", default="1296000", cast=config.eval)  # 15 days
+4941d17b828ea62c1459e58b4b7d7a1d|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/config.py|16|73|V|python
+	    REDIS_POOL_MAX_SIZE = config("REDIS_POOL_MAX_SIZE", default="20", cast=config.eval)
+81f9155b87240c2f33feab83e2657da0|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/config.py|21|6|V|python
+	    SELLERS_API_URL = config("SELLERS_API_URL")
+6887fd69c507f8e6649472e34939d784|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/config.py|24|6|V|python
+	    SELLER_UPDATED_QUEUE = config("SELLER_UPDATED_QUEUE")
+f4c1bf4e3bea1b2ac7fb5656c9fcbed9|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/config.py|24|6|V|python
+	    BANK_ACCOUNT_CREATED_QUEUE = config("BANK_ACCOUNT_CREATED_QUEUE")
+4923015f4e35c853d53e108ba22eba22|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/config.py|24|6|V|python
+	    SELLER_PRODUCT_CREATED_QUEUE = config("SELLER_PRODUCT_CREATED_QUEUE")
+e7b5dbf3b484144f6e4f846c973ee3fe|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/config.py|24|6|V|python
+	    SELLER_DOCUMENT_CREATED_QUEUE = config("SELLER_DOCUMENT_CREATED_QUEUE")
+fdcebce0ea12800b0b8d671d93bee19a|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/config.py|24|6|V|python
+	    SELLER_DOCUMENT_UPDATED_QUEUE = config("SELLER_DOCUMENT_UPDATED_QUEUE")
+b67c4971baadf0fb8fbdbfcc2fa3dbca|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/config.py|24|6|V|python
+	    SELLER_SUBSCRIPTION_ACTIVE_QUEUE = config("SELLER_SUBSCRIPTION_ACTIVE_QUEUE")
+29f5eb21f614519f9003745efd727001|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/config.py|24|6|V|python
+	    SELLER_SUBSCRIPTION_INTEGRATION_PAID_QUEUE = config("SELLER_SUBSCRIPTION_INTEGRATION_PAID_QUEUE")
+675c2e636898b7fff25f881e058f27a9|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/config.py|24|6|V|python
+	    SELLER_TAG_CREATED_QUEUE = config("SELLER_TAG_CREATED_QUEUE")
+fe3e59e9cccbb6c08b93505d799dd18b|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/config.py|24|6|V|python
+	    SELLER_CREATED_QUEUE = config("SELLER_CREATED_QUEUE")
+4bbb928b41c5115c8faedfc1abd4aa47|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/config.py|24|6|V|python
+	    SELLER_IS_MANUFACTURER_TRUE_QUEUE = config("SELLER_IS_MANUFACTURER_TRUE_QUEUE")
+c856c7d6440ff22f73883ec50801fd06|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/config.py|24|6|V|python
+	    SELLER_TAG_SUBSCRIPTION_PAID_QUEUE = config("SELLER_TAG_SUBSCRIPTION_PAID_QUEUE")
+f95f6b99215ce0dd00b7c59eb3037f8b|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/config.py|24|1|V|python
+	    FIRST_STEPS_COMPLETED_TAGS = config("FIRST_STEPS_COMPLETED_TAGS", cast=config.list)
+715f712cc89819679ece33a125fb7809|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|7|5|v|python
+	SendOrderToZaigApiHandler
+9878c5f20c82fa94368078f64a327e1f|file:///home/zejr/Works/Olist/run_goaws.sh|5|22|v|sh
+	=${OPTARG};;
 	
-087b7a8f94927a37a4e85b6c79af38af|file:///home/zejr/.config/nitrogen/bg-saved.cfg|7|6|v|cfg
-	/home/albert/Pictures/wallpapers/think.jpg
+6781acd2a51a1ee4cc82320d46fa9d6d|file:///home/zejr/Works/Olist/run_goaws.sh|17|7|V|sh
+	<S-Del>echo $queue_name
+511c62efef6e69e0edf474f590d3e324|file:///home/zejr/Works/Olist/run_goaws.sh|17|7|V|sh
+	echo $saida
+b631404427f6998fb2f3bbce95132d50|file:///home/zejr/Works/Olist/run_goaws.sh|16|6|V|sh
+	echo $url_queue
+21b71564ba695cd75632750c54486c12|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|20|5|v|python
+	SNSQueueRoute
+0b9098cca2e1d19d8cd2e37a98e8e837|file:///home/zejr/.config/nvim/coc-settings.json|88|36|V|json
+	  "python.formatting.provider": "none",
+e8632c01cf1e266e04147242502a2a2a|file:///home/zejr/.config/nvim/coc-settings.json|88|38|V|json
+	  "python.formatting.blackPath": "~/.local/bin/black",
+b9cced8d68e07a51c00c68533eb12f43|file:///home/zejr/.config/nvim/coc-settings.json|88|35|V|json
+	  "python.formatting.blackArgs": [],
+acc3882b851bede509c9b490cb35d391|file:///home/zejr/.config/nvim/coc-settings.json|88|35|V|json
+	  "python.formatting.autopep8Path": "autopep8",
+c26dbacd8199c50b77feaae45277346c|file:///home/zejr/.config/nvim/coc-settings.json|88|35|V|json
+	  "python.formatting.autopep8Args": [],
+8b11a78b8c0687721a10a2e6ac1dae80|file:///home/zejr/.config/nvim/coc-settings.json|88|35|V|json
+	  "python.formatting.yapfPath": "yapf",
+b05c519439d813a63742390a6185c7bc|file:///home/zejr/.config/nvim/coc-settings.json|88|35|V|json
+	  "python.formatting.yapfArgs": [],
+8e6042d9e85df3f920c7e7d0735dc59a|file:///home/zejr/.config/nvim/coc-settings.json|87|33|V|json
+	  "python.formatting.enable": false,
+79cf831b91243532a89fae1c46a98bde|file:///home/zejr/.config/nvim/coc-settings.json|89|55|V|json
+	  "python.formatting.autopep8Path": "~/.local/bin/black",
+1ffd9e753c8054cc61456ac7fac1ac89|file:///home/zejr/.config/nvim/coc-settings.json|89|35|v|json
+	black
+80b4bbed3959d448d0ec30ec5cdad66d|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/handlers.py|2|10|v|python
+	.=jedi#complete_opened(1)
 	
-b7dda73cd8855d57e0e2ac4648ad9411|file:///home/zejr/.i3/picom.conf|183|1|V|conf
-	blur-background = true
-52fef52aa2ca0157be4c98764cd7876e|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/core.py|1|20|V|python
-	from tests_selenium.src.paginas import gerar_ticket
-13b3061b1214994aa8aa07a2a45f6e37|file:///home/zejr/.i3/i3blocks_bottom.conf|37|1|V|conf
-	[time]
-	command=date '+%A %d %B %Y  %H:%M'
-	interval=30
-af75a184d302d6648c6b3eb21bd5a0ed|file:///home/zejr/.i3/i3blocks_bottom.conf|40|9|V|conf
-	[weather]
-f54d2ef59a9b84b20f6729018d2a812d|file:///home/zejr/.i3/i3blocks_bottom.conf|40|9|V|conf
-	command=curl -Ss 'https://wttr.in?0&T&Q' | cut -c 17- | head -3 | xargs echo
-56258f72616569e282e579974755b9f4|file:///home/zejr/.i3/i3blocks_bottom.conf|40|9|V|conf
-	interval=3600
-48a4ffd671387b910e563cef9886b4ea|file:///home/zejr/.i3/i3blocks_bottom.conf|40|9|V|conf
-	color=#A4C2F4
-279ac7e81b0f1f6487bf942f878c0f37|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	[volume]
-99529e9371add83071c87a1765111d7f|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	label=VOL
-88ae42b2b7963aa0fc59a828c212e51b|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	#label=♪
-d85f76900cf2d0e715fa234bde24510f|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	instance=Master
-a070c82d27cab83a2240057c336020cc|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	#instance=PCM
-bfd879275a7193c82d01f151214013c1|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	interval=once
-49bc8ef1904848196c60f54884be2709|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	signal=10
-fbe4ccc96c459bfba2ce2976bcb92084|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	# Memory usage
-301ea5412529f02a55d6525dacaf22c1|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	# The type defaults to "mem" if the instance is not specified.
-78a9e76301140720123e318b79bdeef6|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	[memory]
-81c26480a99a065e64b4043c6ea6f6c1|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	label=MEM
-4c40b90f2264e96d2287b24b44889129|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	separator=false
-8c3a9ef3293dcc9c1c07bddc2c9c0aae|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	interval=30
-7c158ccfd0fd634e60608aafce01eacb|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	# Disk usage
-9e3fb5019aa1e9cd00e5e8c5436549ee|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	# The directory defaults to $HOME if the instance is not specified.
-68c9d0cc7c676cce94de705caf31c737|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	# The script may be called with a optional argument to set the alert
-a3ea2d31aa94415829a0550d0b4c41dd|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	# (defaults to 10 for 10%).
-5f75d037d20ddabcd82febd80b132d23|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	[disk]
-33ec82457bbad07f3ea13531644c025f|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	label=HOME
-6878fd0a80c21e9eb19ce9b3439c47b5|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	#instance=/mnt/data
-a9cd030dc609688a0b527f06495abd8a|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	# Network interface monitoring
-f4ccd7d57ee3199ff478252fd7cc7c2d|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	# If the instance is not specified, use the interface used for default route.
-2c3947c4d89c7f0fb9b7571c86803bd0|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	# The address can be forced to IPv4 or IPv6 with -4 or -6 switches.
-29e74da631791ee3950e98ceb273c3df|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	[bandwidth]
-f0e98fd72f01c8325e622537dd5bb2e0|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	#instance=eth0
-6ff5b214e4c2d35d7eb1ca9da644fe85|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	interval=5
-3879058bde6cea4d75c30ac52dd091cf|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	# CPU usage
-02e4732dcefc360a09994772024f8f1f|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	# The script may be called with -w and -c switches to specify thresholds,
-d407814a5aa1e8201fd7bf8a25e7f270|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	# see the script for details.
-db5b245a0cd99a42afc2e683b45bebd1|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	[cpu_usage]
-0299de248c11f5bfaa3f294c7e0fc5ce|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	label=CPU
-9454bfecb87635e34f162f1e1ea162d0|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	interval=10
-47fcb9167f5c21de50c00ea407ec073e|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	min_width=CPU: 100.00%
-dd0f4fe19a41557f2d1f76d9ad34066d|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	#separator=false
-cf9e718e41c36ef749d31444e90d597a|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	#[load_average]
-4db82d7225f3e150b892744ca7f07e47|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	#interval=10
-8165058520eceae0e575aa26ad946cf3|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	# Battery indicator
-a6cb3d22ca1c0a034fc282f46d743056|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	# The battery instance defaults to 0.
-00317d8e3bc3b7773011961f2f77bb13|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	# Date Time
-aaf2d6cb64aeabb3c22d6068cdd10eed|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	# Generic media player support
-a6cc3e03decb90df63a4936db31ef407|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	# This displays "ARTIST - SONG" if a music is playing.
-7715b2733f1105b10877fe0f59475a6d|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	# Supported players are: spotify, vlc, audacious, xmms2, mplayer, and others.
-a1568e42abc862ccc8789552d2a0d9f7|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	#[mediaplayer]
-773c8a21235ea00ed98a6a768d4ef616|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	#instance=spotify
-5e7cf2019efa5204047ebc6e7ac211bc|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	#interval=5
-2ab9e4c8d12b2e25547170d2afe0e290|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	#signal=10
-ae8cbcaef58ad927c2564a756f4d7173|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	# OpenVPN support
-c5fe05132135dae06bf6cafd3f4ed07e|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	# Support multiple VPN, with colors.
-af09bc9c300282ae4a8dacd35391a781|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	#[openvpn]
-07c6b5898d256de11d320363a635764d|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	#interval=20
-b68b90ec7549ea2ae4b44a6618bd15b6|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	# Temperature
-a85e5f2361b2dcf08c7decb54bb34f08|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	# Support multiple chips, though lm-sensors.
-211a1fe89385c24f4238da075f92d856|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	#[temperature]
-132dcbbe497d64158954acdda6397e80|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	#label=TEMP
-94d9567c4944485cbd525a8fb65761f7|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	# Key indicators
-0c29ee4a7c4d139a747934543a5693ed|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	# Add the following bindings to i3 config file:
-856c19919c365b3abfc9fd1faa3aefc0|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	# bindsym --release Caps_Lock exec pkill -SIGRTMIN+11 i3blocks
-912f96100e512d4d72e99b77c5386801|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	# bindsym --release Num_Lock  exec pkill -SIGRTMIN+11 i3blocks
-3f15ef2674ee88dbde31c935f6574441|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	#[keyindicator]
-02ea5e488638c6d8c1dfe8a85c6f7383|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	#instance=CAPS
-e9516104557a75378861fcefd4c91c82|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	#interval=once
-91066fa2a81fe5fc58d0e67d3bf3213d|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	#signal=11
-0a639b9134fff9213751ef347a5f3e15|file:///home/zejr/.i3/i3blocks_bottom.conf|40|1|V|conf
-	#instance=NUM
-c112ae78d21711464dabe21d8f7ad764|file:///home/zejr/.i3/i3blocks_bottom.conf|31|1|V|conf
-	# Volume indicator
-b47f5f91b04cbf2d9eef16dfa320a132|file:///home/zejr/.i3/i3blocks_bottom.conf|31|1|V|conf
-	# The first parameter sets the step (and units to display)
-0e63db738a2fb8371dc06c65c6ad0c5d|file:///home/zejr/.i3/i3blocks_bottom.conf|31|1|V|conf
-	# The second parameter overrides the mixer selection
-4e03ff61462e787a93eb90177e6b5fd8|file:///home/zejr/.i3/i3blocks_bottom.conf|31|1|V|conf
-	# See the script for details.
-1979be0ecffcc6849ad3257e71e950d9|file:///home/zejr/.i3/config|248|9|V|i3config
-	        status_command i3blocks
-e7413aad667a2d0e33d892f849e09907|file:///home/zejr/.i3/i3blocks_bottom.conf|34|9|v|conf
-	rsstail -n1 -1 -N -u http://feeds.bbci.co.uk/news/rss.xml?edition=uk
-	
-045b5c359f0797033f82d6134f172819|file:///home/zejr/.i3/i3blocks_bottom.conf|33|7|V|conf
-	label=RSS
-815e9ee62f7c855a646d3c22b8449e84|file:///home/zejr/.i3/i3blocks_bottom.conf|36|6|V|conf
-	[time]
-9e4ac7f0a99fd158bf0dd4f0bd65d3fe|file:///home/zejr/.i3/i3blocks_bottom.conf|36|7|V|conf
-	command=date '+%A %d %B %Y  %H:%M'
-f62c1611641eb72e3f0ede00d471b986|file:///home/zejr/.i3/i3blocks_bottom.conf|33|9|v|conf
-	rsstail -n1 -1 -N -u http://g1.globo.com/dynamo/tecnologia/rss2.xml
-	
-11e496c9d632ab5cf890ea116631f6a4|file:///home/zejr/.i3blocks.conf|88|7|V|conf
-	label=CU
-80791b3ae7002cb88c246876d9faa8f8|file:///home/zejr/Studies/notes.txt|12|26|v|text
-	http
-efb3a6d655c2421633856d94804cb5b0|file:///home/zejr/Studies/notes.txt|12|26|v|text
-	http://g1.globo.com/dynamo/sc/santa-catarina/rss2.xml
-65f4cda45ab456ebdce91bef3bf3592e|file:///home/zejr/Studies/notes.txt|12|26|v|text
-	http://g1.globo.com/dynamo/brasil/rss2.xml
-d1faa5bce8ff2dd4216d56cb0bcd13b7|file:///home/zejr/Studies/notes.txt|10|53|v|text
-	economia/rss2.xml
-	    rsstail -n1 -1 -N -u http://g1.globo.com/dynamo/brasil/rss2.xml
-	    rsstail -n1 -1 -N -u http://g1.globo.com/dynamo/sc/santa-catarina/rss2.xm
-27a0a3e0cd04ef9ff80e3f6670d4e782|file:///home/zejr/Studies/notes.txt|9|26|v|text
-	http://g1.globo.com/dynamo/tecnologia/rss2.xml
-	
-155b864e68a88c9489d3999a967718b4|file:///home/zejr/Studies/notes.txt|10|26|v|text
-	http://g1.globo.com/dynamo/economia/rss2.xml
-	
-b2ae2b0f9e58e2aee82d39a92697cb11|file:///home/zejr/Studies/notes.txt|11|26|v|text
-	http://g1.globo.com/dynamo/brasil/rss2.xml
-	
-14eea8d6b3e7c9482d645f9cbd83c477|file:///home/zejr/Studies/notes.txt|12|26|v|text
-	http://g1.globo.com/dynamo/sc/santa-catarina/rss2.xml
-	
-8d790f35b6d1bdf3a974af86a50e6d26|file:///home/zejr/Studies/notes.txt|9|5|v|text
-	rsstail -n1 -1 -N -u 
-1eac0d3491b67590bfa1f163578c63f3|file:///home/zejr/.i3/feed.py|17|14|V|python
-	    print(abc)
-d3f39bc65e1ae8631ef1cbc9cdd1391a|file:///home/zejr/.i3/feed.py|15|10|V|python
-	    os.system("echo " + base % link)
-c5321b653931ffb41fdef36d5914c08c|file:///home/zejr/.i3/feed.py|21|17|V|python
-	for ink in links:
-2a6a99cbbc794fd2a55adae257d6effd|file:///home/zejr/.i3/feed.py|21|22|V|python
-	    news = os.popen(base % link).read()
-8963229068fa326c2bff590b0bd55720|file:///home/zejr/.i3/feed.py|21|17|V|python
-	    time.sleep(3)
-6224911a4d9e7fdd320868cf1faaba60|file:///home/zejr/.i3/feed.py|21|17|V|python
-	    print("TOPPPP", abc)
-4990ec0329d752d281f20f67fdfffc93|file:///home/zejr/.i3/feed.py|21|9|V|python
-	    break
-de0b540c0e5245d3a29e6e6dfa0e33eb|file:///home/zejr/.i3/i3blocks_bottom.conf|33|9|v|conf
-	rsstail -n1 -1 -N -u http://g1.globo.com/dynamo/tecnologia/rss2.xml
-	interval=300
-	align=center
-30a972795308740bc233965e12c45e2c|file:///home/zejr/.i3/i3blocks_bottom.conf|32|1|V|conf
-	[rss]
-	command=rsstail -n1 -1 -N -u http://g1.globo.com/dynamo/tecnologia/rss2.xml
-	interval=300
-	align=center
-4b05f320da21d0b55bc34a6860eb74b4|file:///home/zejr/.i3/feed.py|19|46|V|python
-	os.system("echo 'Iniciando a captura do rss'")
-6a40abb8e4feea2dc056694d036c4c0a|file:///home/zejr/.i3/feed.py|4|1|V|python
-	# links = [
-	#     "http://g1.globo.com/dynamo/tecnologia/rss2.xml",
-0f366c489015bad326b23810d9e1a2e7|file:///home/zejr/.i3/i3blocks_bottom.conf|36|5|V|conf
-	[rss]
-0e67a7f4493dc8eeaef90505bfddaaa8|file:///home/zejr/.i3/i3blocks_bottom.conf|36|17|V|conf
-	command=python3.9 /home/zejr/.i3/feed.py
-d8e1695423eb01732cf071a1ac0ee3dc|file:///home/zejr/.i3/i3blocks_bottom.conf|36|12|V|conf
-	interval=300
-ab7f592e0cb91e5736225f85417f8b6b|file:///home/zejr/.i3/i3blocks_bottom.conf|36|12|V|conf
-	color=#A6D1FA
-32dd2782648f8696e7bb0dbf5b772dbc|file:///home/zejr/.i3/i3blocks_bottom.conf|36|12|V|conf
-	min_width=1366
-f69a2078ce7717bec0964d3190598c53|file:///home/zejr/.i3/i3blocks_bottom.conf|36|12|V|conf
-	align=center
-cd438acb1416e16c2d802f65a27f7ef7|file:///home/zejr/.i3/i3blocks_bottom.conf|32|1|V|conf
-	[rss_1]
-	command=rsstail -n1 -1 -N -u http://g1.globo.com/dynamo/tecnologia/rss2.xml
-	interval=300
-	align=center
-26d75e076c092d834f61cc1a7ec7f8e7|file:///home/zejr/.i3/i3blocks_bottom.conf|39|1|V|conf
-	[rss_2]
-	command=rsstail -n1 -1 -N -u http://g1.globo.com/dynamo/economia/rss2.xml
-	interval=300
-	align=center
-645ee2151bdb40f1488dc0d57cd7fa4c|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|48|25|v|python
-	'/html/body/div[1]/section/main/form/fieldset/div[3]/div[2]/div/div/div[2]/div'
-1e9647204b1096f47dada99c883b209c|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|50|30|v|python
-	"/html/body/div[6]/div/div/div/div[2]"
-ba209dc756c3fe27fc560652b2039473|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|48|55|V|python
-	        abc = ('xpath', '/html/body/div[1]/section/main/form/fieldset/div[3]/div[2]/div/div/div[2]/div')
-28cecd32a7ee2513129cfb02379ef92a|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|49|46|V|python
-	        locator = (By.XPATH, "/html/body/div[6]/div/div/div/div[2]")
-a8cb29c0ff5d3f4fb04179f34102af8a|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|59|27|V|python
-	        self.click(locator)
-4c3ed176215f07f56cbab05444c4b4c4|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|59|33|V|python
-	        elem = self.webdriver.find_element(*locator)
-359d26eccee7d679383985235608649a|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|48|1|V|python
-	        import ipdb; ipdb.set_trace()
-a1e99f7444834e3995472ac485d09910|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|9|1|V|python
-	    invisibility_of_element_located,
-e992a7d77ff593c81ec746fcdc32d4a4|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/associa_criativo.py|13|9|v|python
-	"/html/body/div[1]/section/main/form/fieldset/div[3]/div[2]/div/div/div[2]/div"
-	
-23c3495e30794b33c020710f729f3cdc|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/associa_criativo.py|12|19|v|python
-	"/html/body/div[1]/section/main/form/fieldset/div[3]/div[2]/div/div/div[2]/div"
-cdea5a3772e5f2cd45bd31d9044418f3|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|47|19|V|python
-	        import ipdb
-75fcae3bf4f588f676f68de3d814f322|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|47|24|V|python
-	        ipdb.set_trace()
-badff3b9454e8c9caa37c9d7ef0262e7|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|46|58|v|python
-	locator_3
-406a627cf935ca86c3769462a8cfaabb|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|61|20|v|python
-	locator_1
-550aa4791b734925f61634f2f173518e|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|53|9|v|python
-	itens
-4729ae3a577de883d3c20e5947f4d084|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/core.py|13|5|v|python
-	geracao_dos_tickets_afiliada
-b29c083e232808f3a71f8ae95b626bef|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/core.py|17|5|V|python
-	    :
-47735a8b50246bca85d500fa017c7fcc|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/core.py|17|7|V|python
-	        :
-8c806c19975539dea17e7144a8606d2c|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/core.py|7|5|v|python
-	gerar_ticket_page
-62f0498838ccf7684db14a10b868d1a2|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/core.py|15|34|v|python
-	gerar_ticket
-0bcac7421cdd9c9cb9f331140a58ae1d|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/core.py|11|31|v|python
-	gerar_ticket()
-	    # geracao_dos_tickets_comuns(gerar_ticket)
-	
-	    gestao_atendimento_page.gerar_ticket()
-	    geracao_dos_tickets_afiliada(gerar_ticket_page)
+dad42829fe59f02d1865b2287b6895d7|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/handlers.py|2|19|V|python
+	    "abc".=jedi#complete_opened(1)
+a371b245bbfa99aa0f48b1df2db396f5|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/handlers.py|2|7|v|python
+	.
+	    "abc".
+4debe2d708cfbedc31636ece71319d76|file:///home/zejr/.config/khal/config|2|16|V|
+	path = ~/calendars/*
+8aaf8d970cf4da3c773e6aade9ef7c94|file:///home/zejr/.config/khal/config|2|15|V|
+	type = discover
+b854e86c7afba06e3e99e88820f56ae3|file:///home/zejr/.config/khal/config|2|15|V|
+	color = dark green
+1c978baa6e3453cca63bcbed6d20d232|file:///home/zejr/.config/khal/config|2|17|v|
+	America/Sao_Paulo
+f047a3577fcd6af23b47814293e293c0|file:///home/zejr/.config/khal/config|3|19|v|
+	Europe/Berlin
+4abf6ac2295b5098a9a7d5dc91c3bf6b|file:///home/zejr/.i3/config|39|28|v|i3config
+	rder pixel 0
+	# for transparency
+	#/.config/compton.conf exec --no-startup-id compton
+	# exec --no-startup-id
+2c72ca1611467e689a7aaecb0be81270|file:///home/zejr/.i3/config|1|8|V|i3config
+	# This file has been auto-generated by i3-config-wizard(1).
+94dc07697cd2042d34a7340748ddeb8c|file:///home/zejr/.i3/config|1|8|V|i3config
+	# It will not be overwritten, so edit it as you like.
+0decdcbe76633d8ed706dcbc81be8f9b|file:///home/zejr/.i3/config|1|1|V|i3config
+	# Should you change your keyboard layout some time, delete
+7b20e08eac074a64bbe34e7defb485e4|file:///home/zejr/.i3/config|1|1|V|i3config
+	# this file and re-run i3-config-wizard(1).
+299c9ba655e86bbc38fa9ea8b6484550|file:///home/zejr/.i3/config|1|1|V|i3config
+	# i3 config file (v4)
+809f8b412a1a1a99305f59fe3a120b50|file:///home/zejr/.i3/config|1|1|V|i3config
+	# Please see https://i3wm.org/docs/userguide.html for a complete reference!
+1f87933f133aec38dbdd3c9ed5509733|file:///home/zejr/.i3/config|3|1|V|i3config
+	# Font for window titles. Will also be used by the bar unless a different font
+a843d964c5977bc2eb10f1f46ae10ed1|file:///home/zejr/.i3/config|3|1|V|i3config
+	# is used in the bar {} block below.
+b020192d8ebadc206b9f59514ca12782|file:///home/zejr/.i3/config|5|1|V|i3config
+	# This font is widely installed, provides lots of unicode glyphs, right-to-left
+be386c25abfae4a3f3c5ab868e0d9096|file:///home/zejr/.i3/config|5|1|V|i3config
+	# text rendering and scalability on retina/hidpi displays (thanks to pango).
+dcd45859649f8b37cc32dd01eaadcc93|file:///home/zejr/.i3/config|5|1|V|i3config
+	#font pango:DejaVu Sans Mono 8
+a803b2f0e1e9d6d7279056188499a8e1|file:///home/zejr/.i3/config|5|1|V|i3config
+	# The combination of xss-lock, nm-applet and pactl is a popular choice, so
+26e13aca45d1924b2be4ecd55ced6ce7|file:///home/zejr/.i3/config|5|1|V|i3config
+	# they are included here as an example. Modify as you see fit.
+495b74ab0bca8f3fe237e329c73d88e9|file:///home/zejr/.i3/config|5|1|V|i3config
+	# xss-lock grabs a logind suspend inhibit lock and will use i3lock to lock the
+0e1c0ca22d3cae088a100599650a46d0|file:///home/zejr/.i3/config|5|1|V|i3config
+	# screen before suspend. Use loginctl lock-session to lock your screen.
+8a4c8de4dab73f5c5f14daf589e63611|file:///home/zejr/.i3/config|7|1|V|i3config
+	# NetworkManager is the most popular way to manage wireless networks on Linux,
+992250376f1438581c60a04a42214ea5|file:///home/zejr/.i3/config|7|1|V|i3config
+	# and nm-applet is a desktop environment-independent system tray GUI for it.
+c84a5b5858603faefe4b064990d2411e|file:///home/zejr/.i3/config|8|1|V|i3config
+	# Remove a borda em volta das janelas
+ad1e33eeab3e567169acda21a74016ec|file:///home/zejr/.i3/config|8|1|V|i3config
+	# for transparency
+e8b1ce0668eb18904a04bf62d495fe56|file:///home/zejr/.i3/config|8|1|V|i3config
+	#/.config/compton.conf exec --no-startup-id compton
+d08b298ebb8909d9ecac67593934208d|file:///home/zejr/.i3/config|8|1|V|i3config
+	# exec --no-startup-id compton --config ~/.config/compton.conf
+65993d2f0bd2e4b2372cb7ea5fed43c3|file:///home/zejr/.i3/config|8|1|V|i3config
+	# exec xcompmgr -c -f -n
+75569e1d96753386619b74b4839d4c6c|file:///home/zejr/.i3/config|14|1|V|i3config
+	# CONFIG DA POLYBAR
+18aba54b9127f79e5fd93b7fa39d44b3|file:///home/zejr/.i3/config|14|1|V|i3config
+	# exec_always --no-startup-id ~/.config/polybar/launch.sh
+0966eaae372b4e1c8fdabcadc5daee07|file:///home/zejr/.i3/config|15|1|V|i3config
+	# exec --no-startup-id picom -CGb
+02e855aa40e5e0bc4afaa1ad5e764237|file:///home/zejr/.i3/config|15|1|V|i3config
+	# exec_always --no-startup-id picom  -CGb --config ~/.i3/picom.conf
+b2642a3fd00550edb22417a1f3c39fb9|file:///home/zejr/.i3/config|11|13|V|i3config
+	set $mod Mod4
+9fb53e2d6e251eb1af6ee623716da073|file:///home/zejr/.i3/config|26|25|V|i3config
+	for_window [class="^.*"] order pixel 2
+474cfeb97d8b6023264a7a397d1e1522|file:///home/zejr/.i3/config|26|13|V|i3config
+	gaps inner 15
+91ae9264a9909068d31a3fdcc19dc97e|file:///home/zejr/.i3/config|26|13|V|i3config
+	gaps outer 12
+315f74cf360168879a1c5e32a0e63d00|file:///home/zejr/.i3/config|18|1|v|i3config
 	
 	
-	def geracao_dos_tickets_afiliada(gerar_ticket_page):
-	    gerar_ticket_page.check_afiliada()
 	
+	font pango:monospace 10
 	
-	def geracao_dos_tickets_comuns(gerar_ticket):
-	    g
-b44b0fc79e5ac358063feee49c47be20|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket.py|19|1|V|python
-	    def select_prioridade(self, nome):
-	        self.select_and_click(self.prioridade, nome)
-3631fec2daf50c1753029e7dc9847147|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket.py|13|1|V|python
-	    def select_tipo_campanha(self, nome):
-	        self.select_and_click(self.tipo_campanha, nome)
-ba80c28b47e9ab2e8698186043cb433b|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|5|5|V|python
-	option = self.webdriver.find_element(*locator_2)
-c278c2f197b3bb905598d9c806ad73e1|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket.py|7|1|V|python
-	    tipo_campanha = (By.ID, "rc_select_0")
-49a9be39fb7dc36e31dfccd9be17ef65|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|7|22|v|python
-	By.ID
-53204201c30df0b6caa5973c5f19be9f|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|8|1|V|python
-	    order = (By.ID, "id_operative")
-62059a74e9330e9dc2f537f712b8797c|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|18|28|v|python
-	texto
-666ac576aa2666cff323f5d976d592a6|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|16|56|v|python
-	nome
-d9ebb4d57745cfe139b10544c84c17c9|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|18|1|V|python
-	    def select_order(self, texto):
-	        self.write(self.order, texto)
-3d7d68ef5ed7f1b7cc0771b356883957|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|21|1|V|python
-	    def select_anunciante(self, texto):
-	        self.write(self.anunciante, texto)
-110b4d69ba3e901edb055ab332bb8d10|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|6|1|V|python
-	    selecione_afiliada = (By.ID, "rc_select_3")
-	    tipo_campanha = (By.ID, "rc_select_0")
-	    order = (By.ID, "id_operative")
-	    anunciante = (By.ID, "id_anunciante")
-	    agencia = (By.ID, "id_agencia")
+	exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 	
-	    def select_tipo_campanha(self, texto):
-	        self.select_and_click(self.tipo_campanha, texto)
+	exec --no-startup-id nm-applet
 	
-	    def select_tipo_afiliada(self, texto):
-	        self.select_and_click(self.selecione_afiliada, texto)
+388d10c77bfb444fe1665aa5f1653e95|file:///home/zejr/.i3/config|23|26|V|i3config
+	for_window [class="Spotify"] move to workspace $ws9
+e569391b5d45bfddf3305608aded6bcf|file:///home/zejr/.i3/config|23|26|V|i3config
+	assign [class="obs"] $ws10
+33e877a453358630c6e77db311c234fd|file:///home/zejr/.i3/config|123|12|V|i3config
+	set $ws1 "1"
+48d23a0639b558aaa4536f06cddd62e3|file:///home/zejr/.i3/config|123|12|V|i3config
+	set $ws2 "2"
+5c5c4b76ac1029501afcdd8dca2f6aeb|file:///home/zejr/.i3/config|123|12|V|i3config
+	set $ws3 "3"
+11e4463c573f706aa1c7f1889963243a|file:///home/zejr/.i3/config|123|12|V|i3config
+	set $ws4 "4"
+29859a72ca7dd0613135f00f8ee29236|file:///home/zejr/.i3/config|123|12|V|i3config
+	set $ws5 "5"
+67bc6e4eeb91dd7f76e434306ce4b9d7|file:///home/zejr/.i3/config|123|12|V|i3config
+	set $ws6 "6"
+e9e6f17299a73848e787a9f22e882f44|file:///home/zejr/.i3/config|123|12|V|i3config
+	set $ws7 "7"
+e539885a053feb52886dfdd996386b8d|file:///home/zejr/.i3/config|123|12|V|i3config
+	set $ws8 "8"
+68eb884399c52150281e56d2707ec016|file:///home/zejr/.i3/config|123|12|V|i3config
+	set $ws9 "9"
+3126cce3a1f2c2f9ea96fa70bb8464c6|file:///home/zejr/.i3/config|123|12|V|i3config
+	set $ws10 "10"
+fdf0eeb8d33d06f32e67a03cb4472730|file:///home/zejr/.i3/config|123|1|V|i3config
+	# switch to workspace
+5c378c6d27ebd3e0759536d9dc791b35|file:///home/zejr/.i3/config|123|1|V|i3config
+	bindsym $mod+1 workspace number $ws1
+67aa2b15ed6148ff05a19bf834ea9c11|file:///home/zejr/.i3/config|123|1|V|i3config
+	bindsym $mod+2 workspace number $ws2
+4ee421dcb29ce736e59cc9436f017409|file:///home/zejr/.i3/config|123|1|V|i3config
+	bindsym $mod+3 workspace number $ws3
+5df6942fb8ee305a34177f861e232978|file:///home/zejr/.i3/config|123|1|V|i3config
+	bindsym $mod+4 workspace number $ws4
+68689dd365bc034aa7cd3713cb05ebbc|file:///home/zejr/.i3/config|123|1|V|i3config
+	bindsym $mod+5 workspace number $ws5
+8a7d232c5df6ece6df1459be1f0b4413|file:///home/zejr/.i3/config|123|1|V|i3config
+	bindsym $mod+6 workspace number $ws6
+dec1109f5e4db4fae6397d8ec8375e0f|file:///home/zejr/.i3/config|123|1|V|i3config
+	bindsym $mod+7 workspace number $ws7
+eea0ae9674881f8c8226dac88b6e6635|file:///home/zejr/.i3/config|123|1|V|i3config
+	bindsym $mod+8 workspace number $ws8
+d17dc088a456051202279fd7637031d2|file:///home/zejr/.i3/config|123|1|V|i3config
+	bindsym $mod+9 workspace number $ws9
+dc6db386330dac276043a30d892dd32d|file:///home/zejr/.i3/config|123|1|V|i3config
+	bindsym $mod+0 workspace number $ws10
+a8fc1c7ecb7dfe0d2e645bb7df19c030|file:///home/zejr/.i3/config|123|1|V|i3config
+	# move focused container to workspace
+819d4ec7b042a7427e43137491af5bd4|file:///home/zejr/.i3/config|123|1|V|i3config
+	bindsym $mod+Shift+1 move container to workspace number $ws1
+ff7ea421176a63785a7191b6a1f144c5|file:///home/zejr/.i3/config|123|1|V|i3config
+	bindsym $mod+Shift+2 move container to workspace number $ws2
+61fb154268843fcec4149637acd56956|file:///home/zejr/.i3/config|123|1|V|i3config
+	bindsym $mod+Shift+3 move container to workspace number $ws3
+a455bd25094f2f06c1312a1d8573eefc|file:///home/zejr/.i3/config|123|1|V|i3config
+	bindsym $mod+Shift+4 move container to workspace number $ws4
+ceca93d39aaea15917dc7c7f5467157f|file:///home/zejr/.i3/config|123|1|V|i3config
+	bindsym $mod+Shift+5 move container to workspace number $ws5
+3512dd4617dbe6a8c2af8e126b932ff8|file:///home/zejr/.i3/config|123|1|V|i3config
+	bindsym $mod+Shift+6 move container to workspace number $ws6
+233e7fab49102f847c138857da0f7a72|file:///home/zejr/.i3/config|123|1|V|i3config
+	bindsym $mod+Shift+7 move container to workspace number $ws7
+9c9e7d980af5d86d4e3e07a0230a1d25|file:///home/zejr/.i3/config|123|1|V|i3config
+	bindsym $mod+Shift+8 move container to workspace number $ws8
+004ac97f00c1aa808e1703de91d92673|file:///home/zejr/.i3/config|123|1|V|i3config
+	bindsym $mod+Shift+9 move container to workspace number $ws9
+8aa5dcd5ca3b1810daee0636ad19a5eb|file:///home/zejr/.i3/config|123|1|V|i3config
+	bindsym $mod+Shift+0 move container to workspace number $ws10
+6018abe5c1b72aa15919db316594efaa|file:///home/zejr/.i3/config|123|1|V|i3config
+	# reload the configuration file
+effbe9ea402efe4d96639209222083b3|file:///home/zejr/.i3/config|118|1|V|i3config
+	# focus the child container
+9dc9d6ed44e3579aa57497f0079599a9|file:///home/zejr/.i3/config|118|1|V|i3config
+	#bindsym $mod+d focus child
+d739e3fcc0f6431c3c1b8caea847b94e|file:///home/zejr/.i3/config|118|1|V|i3config
+	# Define names for default workspaces for which we configure key bindings later on.
+fdc0cf041fd0cab987f9709c126b607b|file:///home/zejr/.i3/config|118|1|V|i3config
+	# We use variables to avoid repeating the names in multiple places.
+6310470e039573e3c215f21798e2b865|file:///home/zejr/.i3/config|119|1|V|i3config
+	# restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
+41d4c1fe45e30d90368604f889464b26|file:///home/zejr/.i3/config|59|13|V|i3config
+	bindsym $mod+| exec i3lock
+86c9afe7c76e64b5b0f7df435dd0ea0e|file:///home/zejr/.i3/config|54|23|V|i3config
+	font pango:monospace 10
+3f84da7a454d622f26ee81b6a4f42545|file:///home/zejr/.i3/config|54|23|V|i3config
+	exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
+840acccc41919b2df316ad8be4cdf79c|file:///home/zejr/.i3/config|67|1|V|i3config
+	# Use pactl to adjust volume in PulseAudio.
+45e0926f70f342511148b20416b8c45b|file:///home/zejr/.i3/config|67|1|V|i3config
+	set $refresh_i3status killall -SIGUSR1 i3status
+5da23a21497ae31484aa6057b3e959c3|file:///home/zejr/.i3/config|67|1|V|i3config
+	bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +10% && $refresh_i3status
+d589e810f7de504d58af42432ba75381|file:///home/zejr/.i3/config|67|1|V|i3config
+	bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ -10% && $refresh_i3status
+8f7710b9aefe0669cf82064f195fa51c|file:///home/zejr/.i3/config|67|1|V|i3config
+	bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle && $refresh_i3status
+d4784f907961957e82917344aed2be17|file:///home/zejr/.i3/config|67|1|V|i3config
+	bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOURCE@ toggle && $refresh_i3status
+e3cf222da9f4d5a46ae6a43c83e2ab57|file:///home/zejr/.i3/config|67|1|V|i3config
+	# Use Mouse+$mod to drag floating windows to their wanted position
+552881029da42935753a926a773f3b14|file:///home/zejr/.i3/config|67|1|V|i3config
+	floating_modifier $mod
+852df8acfa8de1da91fbec902761742f|file:///home/zejr/.i3/config|67|1|V|i3config
+	# start a terminal
+44896fc22585df2ccce00a4c86d8e50a|file:///home/zejr/.i3/config|58|1|V|i3config
+	# kill focused window
+1cc64b6a27e59e718234e63bad6b1673|file:///home/zejr/.i3/config|58|1|V|i3config
+	bindsym $mod+Shift+q kill
+d14fd4af455a8d4218d9de8aa10a6334|file:///home/zejr/.i3/config|58|1|V|i3config
+	# start dmenu (a program launcher)
+8ef7451f084c5bc083b24cee3ac98423|file:///home/zejr/.i3/config|58|1|V|i3config
+	bindsym $mod+d exec dmenu_run
+c539398af0c5da4019b3d65ec74a48fa|file:///home/zejr/.i3/config|58|1|V|i3config
+	# There also is the (new) i3-dmenu-desktop which only displays applications
+5d825d7887306eb05f1001330f8a7f03|file:///home/zejr/.i3/config|58|1|V|i3config
+	# shipping a .desktop file. It is a wrapper around dmenu, so you need that
+9681b1a8b4f1eaa0907aa92d3a755f4e|file:///home/zejr/.i3/config|58|1|V|i3config
+	# installed.
+f251d0f9196000fab51152201f04a4cf|file:///home/zejr/.i3/config|58|1|V|i3config
+	# bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
+afebcbeb38d69bf2bea3b4a25d194ab0|file:///home/zejr/.i3/config|58|1|V|i3config
+	# change focus
+3d89517ffbaabe157a4047be00c63b96|file:///home/zejr/.i3/config|63|14|V|i3config
+	# alternatively, you can use the cursor keys:
+ebcc35cb2df48768345b7072d367e1f8|file:///home/zejr/.i3/config|63|14|V|i3config
+	bindsym $mod+Left focus left
+e50add3eeb782219aa2df1e927b07fd2|file:///home/zejr/.i3/config|63|14|V|i3config
+	bindsym $mod+Down focus down
+e30a827a1d7be80b97d59639b1c08753|file:///home/zejr/.i3/config|63|14|V|i3config
+	bindsym $mod+Up focus up
+d059eb9d8fba03329649e7037595c23a|file:///home/zejr/.i3/config|63|14|V|i3config
+	bindsym $mod+Right focus right
+cb33b021fcd20905fb7354a5ad76597c|file:///home/zejr/.i3/config|69|1|V|i3config
+	bindsym $mod+Shift+Left move left
+a04611fdb974881ebf950a37f0ca952f|file:///home/zejr/.i3/config|69|1|V|i3config
+	bindsym $mod+Shift+Down move down
+909087f42c26763e0a62d6dbffdbb867|file:///home/zejr/.i3/config|69|1|V|i3config
+	bindsym $mod+Shift+Up move up
+52d82e28ec56e045345ba2465d6b1a22|file:///home/zejr/.i3/config|69|1|V|i3config
+	bindsym $mod+Shift+Right move right
+14bf2b837b9361b77324232ef3c4119a|file:///home/zejr/.i3/config|69|1|V|i3config
+	# split in horizontal orientation
+4e5fa453b1411d244665bead5d76cbe3|file:///home/zejr/.i3/config|70|1|V|i3config
+	# split in vertical orientation
+ce0d88dff0e4f7217c6477d1245a904e|file:///home/zejr/.i3/config|72|1|V|i3config
+	# enter fullscreen mode for the focused container
+268a67db96908316af7a597c60d15fc2|file:///home/zejr/.i3/config|63|21|V|i3config
+	# move focused window
+f05c83ea1d30e43dbefaacfb8c544ca4|file:///home/zejr/.i3/config|87|28|v|i3config
+	4lock
+d03c473ee18214c731b45dbc56ecb73e|file:///home/zejr/.i3/config|90|16|V|i3config
+	bindsym $mod+q			            [con_id="__focused__" instance="^(?!dropdown_).*$"] kill
+d05069ba9c5d6a4961e316c54a1f9960|file:///home/zejr/.i3/config|90|19|V|i3config
+	bindsym $mod+Shift+q		        [con_id="__focused__" instance="^(?!dropdown_).*$"] exec --no-startup-id kill -9 `xdotool getwindowfocus getwindowpid`
+160d671371252daf54b2791ad2349713|file:///home/zejr/.i3/config|41|1|V|i3config
+	# bindsym $mod+d exec --no-startup-id dmenu_recency
+44500f4e54306c3fab9788a58d7fd951|file:///home/zejr/.i3/config|41|1|v|i3config
+	bindsym 
+fdb23e487a58a4cc7098f0e7a8602d87|file:///home/zejr/.i3/config|42|1|V|i3config
+	indsym 
+cc3feed0a7bb3b04529e6519aebc41d2|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|8|5|V|python
+	    .
+7789f4f336bd129cc182d0c065d3da7e|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|8|5|V|python
+	    "abc".
+35c5fe05b29a801e62b62cfafe8880fd|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|8|29|V|python
+	    SendOrderToZaigApiHandlerp
+a08995d64ca4ef5d19a2a376ed809259|file:///home/zejr/Works/Olist/sellers-api/sellers-api/apps/sellers/models.py|232|69|V|python
+	jose.vieira@olist.com:oiwurgvqweoprviuqbevuiqbfviuajsldfbvauisdhva;5r
+049ca20cb2d6595a5aa89debf66ca896|file:///home/zejr/Works/Olist/olist-webapp/olist-webapp/apps/core/views.py|449|13|v|python
+	(self, request, *args, **kwargs):
 	
-	    def select_order(self, texto):
-	        self.write(self.order, texto)
-0cf31b2c283ce3431794586df7b0996d|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/associa_criativo_afiliada.py|5|4|V|python
-	    
-3c0a89677f8d7cf1245a1eb62c09f5db|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|2|1|V|python
-	from selenium.webdriver.common.by import By
-6892522fd37a4c886b33f1ec40899895|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/associa_criativo_afiliada.py|7|5|v|python
-	tipo_campanh
-70a17ffa722a3985b86d30b034ad06d7|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/associa_criativo_afiliada.py|8|5|v|python
-	order
-19114c4dc70e648e317f1e8c3b8982b9|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/associa_criativo_afiliada.py|8|31|v|python
-	id_operative
-a2edf08ccbca625004e784dbb909f275|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/associa_criativo_afiliada.py|9|28|v|python
-	id_anunciante
-15807ed11e68cf32c92d04a20eb8f93e|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/associa_criativo_afiliada.py|10|33|v|python
-	id_agencia
-718b9ba62aed995736b30c4e984f0318|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/associa_criativo_afiliada.py|7|15|v|python
-	XPATH
-7aec407a59374ca59f07fa3ed79cb9a4|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/associa_criativo_afiliada.py|12|1|V|python
-	    def select_tipo_campanha(self, texto):
-	        self.select_and_click(self.tipo_campanha, texto)
+cc6438a5a7f5fec20066dcd721a6eb90|file:///home/zejr/Works/Olist/olist-webapp/olist-webapp/apps/core/views.py|454|1|V|python
+	            token = password_data["token"]
+34513c9aecb16431610ffc61c335ecf4|file:///home/zejr/Works/Olist/olist-webapp/olist-webapp/apps/core/views.py|452|1|V|python
+	        password_data = json.loads(request.body)
+2066fb52cf336e1e32a244c2080beedc|file:///home/zejr/Works/Olist/olist-webapp/olist-webapp/apps/core/views.py|461|1|V|python
+	            user_reset_password_client.reset(payload, token=token)
+5c61cda10d55b2f56ac139823c564a90|file:///home/zejr/Works/Olist/olist-webapp/olist-webapp/apps/core/views.py|448|1|V|python
+	# criar a metodo get(self, request, *args, **kwargs):
+	# separar o token que vem da request 
+	#   password_data = json.loads(request.body)
+	#   token = password_data["token"]
+	# Enviar para a rota dentro da sellers_api
+	#   validate_password_token_client.reset(payload, token=token)
+	# Criar um cliente para rota nova da sellers_api (users/validate-password-token)
+927de554fe5aa6a67c8dd9c23d8d5ff7|file:///home/zejr/Works/Olist/olist-webapp/olist-webapp/apps/core/views.py|448|25|V|python
+	# criar a metodo get(self, request, *args, **kwargs):
+f9aa59e5c00f786cc651e5a18c9cc209|file:///home/zejr/Works/Olist/olist-webapp/olist-webapp/apps/core/views.py|448|25|V|python
+	# separar o token que vem da request 
+8f08dd12cb9ba9de73096a65492b862c|file:///home/zejr/Works/Olist/olist-webapp/olist-webapp/apps/core/views.py|448|25|V|python
+	#   password_data = json.loads(request.body)
+163516fa99f6eb939cdc79f97b5fb0ff|file:///home/zejr/Works/Olist/olist-webapp/olist-webapp/apps/core/views.py|448|25|V|python
+	#   token = password_data["token"]
+82396c24907c3cb8aacdd36ad3eeb954|file:///home/zejr/Works/Olist/olist-webapp/olist-webapp/apps/core/views.py|448|25|V|python
+	# Enviar para a rota dentro da sellers_api
+cf0d8ff64de6de9488c61f3a64ec85c0|file:///home/zejr/Works/Olist/olist-webapp/olist-webapp/apps/core/views.py|448|25|V|python
+	#   validate_password_token_client.reset(payload, token=token)
+c922de09171c15127000e7015021c903|file:///home/zejr/Works/Olist/olist-webapp/olist-webapp/apps/core/views.py|448|25|V|python
+	# Criar um cliente para rota nova da sellers_api (users/validate-password-token)
+910c19d39c49622cdc79cf4120f0b6ba|file:///home/zejr/Works/Olist/sellers-api/sellers-api/apps/sellers/api.py|238|1|V|python
+	    serializer_class = UserSerializer
+46fc1ddbd3dbca2164d859ea18362009|file:///home/zejr/Works/Olist/sellers-api/sellers-api/apps/sellers/api.py|242|1|V|python
+	    def create(self, request, *args, **kwargs):
+bdd0c8918d903873e4ce8d10390f2aad|file:///home/zejr/Works/Olist/sellers-api/sellers-api/apps/sellers/api.py|243|1|V|python
+	        token = self.request.GET.get("token")
+0019961e01ef40127ef9291998c84d61|file:///home/zejr/Works/Olist/sellers-api/sellers-api/apps/sellers/api.py|250|1|V|python
+	        email = token.split(":")[0]
+e03f807b1f04de71f949e79cacc31398|file:///home/zejr/Works/Olist/sellers-api/sellers-api/apps/sellers/api.py|253|13|v|python
+	user = User.objects.get(email=email)
+c03538078e310e81570717e60a21b666|file:///home/zejr/Works/Olist/sellers-api/sellers-api/apps/sellers/manager.py|55|7|v|python
+	ResetPasswordManager
+8fdaca96e7aef11190115540d2bd911a|file:///home/zejr/Works/Olist/sellers-api/sellers-api/apps/sellers/manager.py|56|9|v|python
+	reset_is_valid
+c04111c8fcb2a256fd3e018b971b69ae|file:///home/zejr/Works/Olist/sellers-api/sellers-api/apps/sellers/api.py|226|1|V|python
+	# criar uma rota chamada (users/validate-password-token) que aponte para a VIEW (ValidatePasswordTokenViewSet) olhar a linha 237 
+	# instanciar o serializer serializer_class = UserSerializer
+	# criar um metodo validate, def validate(self, request, *args, **kwargs):
+	# buscar o token dentro da request
+	#   token = self.request.GET.get("token")
+	#   email = token.split(":")[0]
+	# Instanciar o Usuario  user = User.objects.get(email=email)
+	# chamar o ResetPasswordManager.objects.reset_is_valid(user, token), retorna um boleano
+	# A partir da resposta do metodo acima, retornar 200 para True e 400 para False
+ab9e0b62cbcc110c0e69502f5196eb32|file:///home/zejr/Works/Olist/tapioca-zaig/tapioca_zaig/resource_mapping.py|17|1|V|python
+	    "onboarding_legal_person": {
+	        "resource": "onboarding/legal_person",
+	        "docs": "https://docs.zaig.com.br/onboarding/#enviar-um-legal-person",
+	        "methods": ["POST"],
+	    },
+ea5aa4574cad8eb1b81c2cc4c0c1a17e|file:///home/zejr/Works/Olist/tapioca-zaig/tapioca_zaig/resource_mapping.py|23|1|v|python
+	onboarding_legal_person
+c32b47fcb6eecbb56cec14e0e1ba8076|file:///home/zejr/Works/Olist/tapioca-zaig/tapioca_zaig/resource_mapping.py|22|6|v|python
+	invoice_validation
+5b9d54feb23b83ecc590d9f5c2ba72ab|file:///home/zejr/Works/Olist/tapioca-zaig/CHANGES.rst|4|1|V|rst
+	0.1.0
+	~~~~~
+dc9b551d81255aa1ec6ddec2483dea0b|file:///home/zejr/Works/Olist/tapioca-zaig/CHANGES.rst|14|1|V|rst
+	* Validation Order endpoint
+b3972ea038b197c513c018febdfc665e|file:///home/zejr/Works/Olist/order-validation-zaig-service/order_validation_zaig_service/routes.py|19|10|v|python
+	(
+	    SNSQu
+75a02eac4bab8d092cc1f5bd8340f054|file:///home/zejr/Works/Olist/tapioca-zaig/CHANGES.rst|4|1|v|rst
+	0.2.0
+	~~~~~
 	
-	    def select_tipo_afiliada(self, texto):
-	        self.select_and_click(self.selecione_afiliada, texto)
-	
-ca039f98e89a0e434be1bfbf00a14de0|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/associa_criativo_afiliada.py|12|1|V|python
-	    def preencher_numero_criativo(self, texto):
-	        self.write(self.n_do_criativo, texto)
-5a84f89c859845237ed901061260740e|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/associa_criativo_afiliada.py|15|1|V|python
-	    def preencher_pli(self, texto):
-	        self.write(self.pli, texto)
-36ab2e2f5a8952f6703c7784d2ab1a46|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/associa_criativo_afiliada.py|23|1|V|python
-	    def preencher_pixel_contador(self, texto):
-	        self.write(self.pixel_contador, texto)
-d4786c309741745d0178a7f4ab7ec99b|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/associa_criativo_afiliada.py|27|25|v|python
-	pixel_contador
-e2c173eca51e2c00087226ba9e51311f|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/associa_criativo_afiliada.py|26|1|V|python
-	    def preencher_url_destino(self, texto):
-	        self.write(self.url_destino, texto)
-ef05017a93df77db2ecdbaad78157299|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/core.py|26|1|V|python
-	    gerar_ticket_page.dados_do_ticket.select_tipo_tiket("Publicação")
-83ef4f0214d89b70cd032305f494ee6f|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/core.py|23|1|V|python
-	    gerar_ticket_page.dados_do_ticket.preencher_order(33333)
-d7e2207d9b1743bcf2eb946121adca26|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|18|9|v|python
-	preencher
-0a211f704af21cf3dbac56f4339fb3a6|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/core.py|37|1|V|python
-	    gerar_ticket_page.criativos_associados.preencher_numero_criativo(11101112)
-	    gerar_ticket_page.criativos_associados.preencher_pli()
-	    gerar_ticket_page.criativos_associados.preencher_pixel_contador(
-	        "Teste Pixel")
-	    gerar_ticket_page.criativos_associados.preencher_url_destino("Teste URL")
-	    gerar_ticket_page.preencher_observacao("TESTE COM SELENIUM")
-	    gerar_ticket_page.criativos_associados.salvar_criativo()
-	    gerar_ticket_page.salvar_ticket()
-1edfc0408fd480d78832df254b35c9d2|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/core.py|28|70|v|python
-	11101112
-b1ae088aa2f9fa21115ab343440a8ce7|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|15|9|v|python
-	select_tipo_afiliada
-9b7b95071a5fa979a7350f3cb4bade48|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/core.py|20|39|v|python
-	selecione_afiliada
-b2f073cb55bb7fcdee167ded3374be36|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/associa_criativo.py|44|1|V|python
-	        self.select_random_option(self.pli, self.pl1_2, self.pli_3)
-ee28e1bcda0cc335fed036307a45040f|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/associa_criativo.py|44|10|v|python
-	elf.select_random_option(self.pli, self.pl1_2, self.pli_3)
-	
-a873cc3018e03df64da9ec8f76bea09e|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|16|46|V|python
-	        self.select_and_click(self.selecione_afiliada, texto)
-4d96393b044ac2345909fd5007a5c62b|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|6|5|v|python
-	afiliada_3
-93a718c1ae68485085671ecdc0285031|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|16|62|v|python
-	pli_3
-794207f229b75fdbcc0d743e750f8caf|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|19|40|v|python
-	afiliada_1
-593e6e2640a70c3c6eb0392bbd868d8e|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|39|32|v|python
-	DadosTicketAfiliada
-ceeea07b59b2619b27c3f2ba5e5d7019|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|40|37|v|python
-	AssociacaoCriativoAfiliada
-8ee8f1b9e430bd0cc1414caa6908cd4b|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|33|5|v|python
-	dados_do_ticket_afiliada
-6aed52213c7e909ceba263fd94f4039f|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|40|32|v|python
-	DadosTicketAfiliada()
-	
-10c5dd1ad025bbb97bf3b042ee10d126|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|34|5|v|python
-	criativos_associados_afiliada
-ef394d17a09183b9db11b41fd985c910|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|41|37|v|python
-	AssociacaoCriativoAfiliada()
-	
-3b8984d05e7c976cc382ad1ac628acd3|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|39|38|V|python
-	        self.controler_afiliada = True
-e8afceda6f23a2713628e9bde94d2ee3|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|39|37|V|python
-	        self.dados_do_ticket = self.dados_do_ticket_afiliada
-0c05ad7a576453a3db26538f91e9444c|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/paginas/gerar_ticket.py|39|37|V|python
-	        self.criativos_associados = self.criativos_associados_afiliada
-24dd408d32bffa139e964e454af2cf40|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/core.py|23|23|v|python
-	dados_do_ticket
-bdac10ab67a9d980f0356e6f233ddcfd|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/core.py|32|23|v|python
-	criativos_associados
-14960ddd606fae6aaeeb305142ceade5|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket.py|3|1|V|python
-	from ..interface import Componente
-233982e9947ba3d423be5ef6f583e740|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|1|1|V|python
-	from tests_selenium.src.interface.interface import Componente
-d17a2e13daa0175b3307f7471346a295|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/associa_criativo.py|11|1|V|python
-	    pli = (
-	        By.XPATH,
-	        "/html/body/div[1]/section/main/form/fieldset/div[3]/div[2]/div/div/div[2]/div/div"
-	    )
-	
-	    pl1_2 = (By.XPATH, "/html/body/div[6]/div/div/div/div[2]")
-	
-	    pli_3 = (By.ID, "rc_select_4")
-07489775b8780c8d15cee15bd91c1103|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|15|32|V|python
-	    pli_3 = (By.ID, "rc_select_3")
-5918c94f67bd6e176bbcb34af0592915|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|10|10|v|python
-	/html/body/div[1]/section/main/form/fieldset/div[3]/div[2]/div/div/div[2]/div/div
-5248def018995fba12e738f23e325d03|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|13|25|v|python
-	/html/body/div[6]/div/div/div/div[2]
-f0ebf25e2d09639f8d22672d3d11411e|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|21|1|V|python
-	        self.select_and_click(self.tipo_ticket, texto)
-a4d4476bac5aee7924f6d711db651886|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|24|1|V|python
-	        self.select_random_option(
-8f6613c9acc24eb45fa0eedd7cafe786|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|24|1|V|python
-	            self.pli, self.pl1_2, self.selecione_afiliada)
-7bb0edd98f22430a03b67f853e83c2ca|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|24|8|V|python
+	* Validation Order endpoint
+61d119d6b0c024c9acb13f2e335d7121|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|1|33|V|python
+	from peewee import SqliteDatabase
+66f2b8ba5ef7afeda9276381abceebb1|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|11|1|V|python
+	class Inflow(BaseModel):
+	    id = peewee.AutoField()
+	    name = peewee.CharField()
+	    value = peewee.FloatField()
+	    date = peewee.DateField()
+5645866eac5fc04b51cfe3213b332738|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|29|5|v|python
+	populate_database
+70bc1b43549ddcdeded847f7f929dc6d|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|32|16|V|python
+	        for item in file:
+7a9ee4cbfa162d9518db99960811055e|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|32|16|V|python
+	            print(item)
+8c7dd922ad47494fc02c388e12c00eac|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|32|49|v|python
+	file
+1339f16408810c2f7dc1546201b15def|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|33|9|v|python
+	csvfile
+1de9b0a30075ae8c303eb420c103c320|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|33|20|v|python
+	reader
+68ad5ea05a56d9549db4ec88a0033f1c|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|36|1|V|python
+	                print(row["name"], row["value"], row["date"])
+fe11ef42710a7748c9994f5cc858581b|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|18|1|V|python
+	    status = peewee.BooleanField()
+78b951c3b7336449921db88b17d548cb|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|38|32|V|python
+	                inflow = Inflow(
+7c11d7e3d64c08c5635c4be58dd33efc|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|44|17|V|python
+	                )
+107a2b388a52ceaaedf069489f85b7bb|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|44|25|V|python
+	                inflow.save()
+95dc062da3952fd13a69ddc0cc749ec2|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|37|1|V|python
+	            import ipdb
+7b06fa3b3b4eac61ced2edb8883aab85|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|35|1|V|python
+	    ipdb.set_trace()
+8a3f818c2023480bbf02154b722b87b7|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|45|26|V|python
+	                print(inflow)
+15a98d047bfc6fd89b73381251a8ea1f|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|40|22|V|python
+	                    *{
+393ee1d23bff7766c85a5a64e610dc4e|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|44|21|V|python
+	                    }
+d81c7b73a9160c678ea5fe7aaeb2f8ac|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|39|1|V|python
+	                inflow = Inflow(
+	                    name=row["name"],
+	                    value=row["value"],
+	                    date=row["date"],
+	                    status=row["status"],
+	                )
+	                inflow.save()
+7bb0edd98f22430a03b67f853e83c2ca|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|32|8|V|python
 	        
-7a2c5af1e688c049e1f6672f30fc3404|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|25|9|V|python
-	        self.pli, self.pl1_2, self.selecione_afiliada)
-0ad4cc5706407f6704aa39e7c9142fe8|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|45|1|V|python
-	        time.sleep(1)
-c640a69eb769bcd7c03cd7573722ce12|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|45|1|V|python
-	        return self.write(locator, Keys.ENTER)
-8069afc6b9398c58ce955b349f3820f4|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|40|1|V|python
-	    def select_and_click(self, locator, nome: str):
-	        self.wait_element(locator)
-	        self.write(locator, nome)
-	        time.sleep(1)
-	        return self.write(locator, Keys.ENTER)
-4274e16b0226c000743b8e9d66b12b4c|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|48|33|V|python
-	        self.wait_element(locator)
-fbf4a4afa7bacc0a88c88a27d9b43d6c|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|46|9|v|python
-	select_and_click_afiliada
-8139e152fb27d80e7539371ad978643d|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|24|14|v|python
-	select_and_click
-3d8bbaed8c73e99c516f6d29bdf9b38f|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|8|11|V|python
-	    pli = (
-883d76f4026d1ee39857b730f36a7377|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|8|17|V|python
-	        By.XPATH,
-50ea63943f880897b5fd0c0bc1eb38f4|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|8|17|V|python
-	        "/html/body/div[1]/section/main/form/fieldset/div[1]/div[2]/div[1]/div[2]/div/div[2]/div/div/div/div"
-5c398a6968507454ba18432a85a83f63|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|8|5|V|python
-	    )
-ae1c99cc9dbad2aebf52905a39a6ad9b|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/componentes/dados_ticket_afiliada.py|8|1|V|python
-	    pl1_2 = (By.XPATH, "/html/body/div[2]/div/div/div/div[2]/div[1]/div")
-87b80a15003b60a95481c3e83682258a|file:///home/zejr/Works/Globo/tvg-novo-flow/tests_selenium/src/interface/interface.py|53|1|V|python
-	        self.webdriver.find_element(*locator_1).click()
-b13a8bd4d425861956dfc083af7a984c|file:///home/zejr/.i3blocks.conf|43|11|v|conf
-	curl -Ss 'https://wttr.in?0&T&Q' | cut -c 17- | head -3 | xargs echo
+66abdd6e3a8180d029b89b694911007e|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|44|13|V|python
+	                    name=row["name"],
+9e384f4bb2f96a0fc7570db79ebedd08|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|44|13|V|python
+	                    value=row["value"],
+4918ecd66e0b26241e2efe75bd090e48|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|44|13|V|python
+	                    date=row["date"],
+1edb07acc5e74ac4f06e791545285955|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|44|13|V|python
+	                    status=row["status"],
+5cfe552551856d6071e34aed731c19d6|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|46|32|V|python
+	                outflow = Outflow(
+4b32715995381aff8bc69544b251fb9f|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|46|17|V|python
+	                outflow.save()
+4192121729289229ae1cbe2755500b97|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|44|1|V|python
+	                save(Inflow, row)
+2c16e0cbf74a711c384c79052ee220ce|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|36|20|v|python
+	int(row["status"])
+c69be3caad9318ab729f4641a1ffb589|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|32|15|v|python
+	bool(row["status"])
+bc092968da696b2af7b97f9bd74edf11|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|37|20|v|python
+	row["status"]
+351a9d49619b074e6a70efebc466a71b|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|32|34|V|python
+	        print(bool(row["status"]))
+1b68413f491df00ba9aafcba020eba63|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|1|10|V|python
+	import ipdb
+2e92b2b4c055de90ab9aab52b8579dd4|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|48|5|v|python
+	inflow_get_all
+f656cbecf43e32610a2f37fe78487b14|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|48|4|v|python
+	 inflow_get_all
+5483a306c42d72bd149058eb3837f8de|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|50|16|V|python
+	    print([i for i in inflow])
+572d1dbf7a559dbc56ffd241282b2f9a|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|50|24|V|python
+	    inflow = table.all()
+1608e994128a55d9927a5db7801b1992|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|52|14|V|python
+	        print(row.content, "-", row.first, row.last)
+d6632d995a1949b94f836a1af3fa02a1|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|52|23|V|python
+	        print(dir(row))
+a6054545f654d8b8d06ad8d5265ef5d8|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|52|18|V|python
+	        print(row)
+5c5619c9e1e7efaca90e0477f3cdd03e|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|29|1|V|python
+	    def show(self):
+	        return {
+	            "id": self.id,
+	            "name": self.name,
+	            "date": self.date,
+	            "status": self.status,
+	        }
+590f53e8699817c6fa498cc11a4cbe63|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|56|19|v|python
+	self
+710f05164e27c822a1a2f5f2c465d5af|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|59|15|V|python
+	    import json
+14f802e1fba977727845e8872c1743a7|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|63|44|v|python
+	keys
+ac7938d40cfc2307e2bf325d28e7884e|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|67|27|v|python
+	plain
+8b04d5e3775d298e78455efc5ca404d5|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|66|26|v|python
+	first
+bf215181b5140522137b3d4f6b73544a|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|67|27|v|python
+	github
+886d7554e6c217d8baa38378f440ae0c|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|2|25|v|python
+	namedtuple
+215173a97f294bd3632fb5f0195540c6|file:///home/zejr/Works/OpenSource/personal-cash-flow/personal_cash_flow/core.py|2|24|V|python
+	from collections import 
+b581d0d0f4165b71e7f110adf7eb3f0d|file:///home/zejr/.i3blocks.conf|107|1|V|conf
+	[end]
+eddf305bfdb26aefb0840604126b9a4a|file:///home/zejr/.i3blocks.conf|100|1|V|conf
+	[load_average]
+	label=UPTIME
+	command=uptime | cut -d " " -f2 | xargs -I {} echo "{} up"
+	interval=135
+	min_width=36
 	
-6e343d7a36024c3e9c4a9a0414449cba|file:///home/zejr/.i3blocks.conf|51|9|v|conf
-	curl -Ss 'https://wttr.in?0&T&Q' | cut -c 18- | head -2 | xargs echo | awk -F"[()]" '{print $2}'
 	
-b55e96bd3b5f871775c2a6c13dd1e7f8|file:///home/zejr/.i3blocks.conf|51|18|v|conf
-	'https://wttr.in?0&T&Q' 
-a3dd3ac45e7987d2e0a6f4f4e9c4cb22|file:///home/zejr/.i3blocks.conf|50|24|V|conf
-	# command=/home/zejr/.i3/gradient-temp
-dbe8218311031df4535097a0c7e68429|file:///home/zejr/.i3blocks.conf|43|24|V|conf
-	# command=curl -Ss 'https://wttr.in?0&T&Q' | cut -c 17- | head -3 | xargs echo
-2ed0c97d883a89678fd1a88a1b5858ec|file:///home/zejr/.i3blocks.conf|43|15|V|conf
-	# interval=3600
-466f489c96d35069cce5a07a57d82fd5|file:///home/zejr/.i3blocks.conf|43|15|V|conf
-	# color=#A4C2F4
-74e9da19ce57a589a65128f4d1f74f5e|file:///home/zejr/.i3blocks.conf|43|1|V|conf
-	[gradient-temp]
+	# Battery indicator
+	#
+	# The battery instance defaults to 0.
+	
+	# Date Time
+	#
+	
+	# Generic media player support
+	#
+	# This displays "ARTIST - SONG" if a music is playing.
+	# Supported players are: spotify, vlc, audacious, xmms2, mplayer, and others.
+	#[mediaplayer]
+	#instance=spotify
+	#interval=5
+	#signal=10
+	
+	# OpenVPN support
+	#
+	# Support multiple VPN, with colors.
+	#[openvpn]
+	#interval=20
+	
+	# Temperature
+	#
+	# Support multiple chips, though lm-sensors.
+	# The script may be called with -w and -c switches to specify thresholds,
+	# see the script for details.
+	# [temperature]
+	# label=TEMP
+	# interval=10
+	
+	# Key indicators
+	#
+	# Add the following bindings to i3 config file:
+	#
+	# bindsym --release Caps_Lock exec pkill -SIGRTMIN+11 i3blocks
+	# bindsym --release Num_Lock  exec pkill -SIGRTMIN+11 i3blocks
+	#[keyindicator]
+	#instance=CAPS
+	#interval=once
+	#signal=11
+	
+	#[keyindicator]
+	#instance=NUM
+	#interval=once
+	#signal=11
+3879058bde6cea4d75c30ac52dd091cf|file:///home/zejr/.i3blocks.conf|85|1|V|conf
+	# CPU usage
+02e4732dcefc360a09994772024f8f1f|file:///home/zejr/.i3blocks.conf|85|1|V|conf
+	# The script may be called with -w and -c switches to specify thresholds,
+d407814a5aa1e8201fd7bf8a25e7f270|file:///home/zejr/.i3blocks.conf|85|1|V|conf
+	# see the script for details.
+a9cd030dc609688a0b527f06495abd8a|file:///home/zejr/.i3blocks.conf|76|1|V|conf
+	# Network interface monitoring
+f4ccd7d57ee3199ff478252fd7cc7c2d|file:///home/zejr/.i3blocks.conf|76|1|V|conf
+	# If the instance is not specified, use the interface used for default route.
+2c3947c4d89c7f0fb9b7571c86803bd0|file:///home/zejr/.i3blocks.conf|76|1|V|conf
+	# The address can be forced to IPv4 or IPv6 with -4 or -6 switches.
+7c158ccfd0fd634e60608aafce01eacb|file:///home/zejr/.i3blocks.conf|66|1|V|conf
+	# Disk usage
+9e3fb5019aa1e9cd00e5e8c5436549ee|file:///home/zejr/.i3blocks.conf|66|1|V|conf
+	# The directory defaults to $HOME if the instance is not specified.
+68c9d0cc7c676cce94de705caf31c737|file:///home/zejr/.i3blocks.conf|66|1|V|conf
+	# The script may be called with a optional argument to set the alert
+a3ea2d31aa94415829a0550d0b4c41dd|file:///home/zejr/.i3blocks.conf|66|1|V|conf
+	# (defaults to 10 for 10%).
+e85e9420cc5ed4113308370e9f9038b1|file:///home/zejr/.i3blocks.conf|50|1|V|conf
+	#[volume]
+4ee2cd335bb08afd07439cb1b4e3644d|file:///home/zejr/.i3blocks.conf|50|1|V|conf
+	#label=🔊
+eed9e879a466b7309fa565d008e32a86|file:///home/zejr/.i3blocks.conf|50|1|V|conf
+	##label=♪
+7bb9fdbdae9f1e89dde55735361db18f|file:///home/zejr/.i3blocks.conf|50|1|V|conf
+	#instance=Master
+01e46cbd02314dc9c81217318a62719b|file:///home/zejr/.i3blocks.conf|50|1|V|conf
+	##instance=PCM
+e9516104557a75378861fcefd4c91c82|file:///home/zejr/.i3blocks.conf|50|1|V|conf
+	#interval=once
+2ab9e4c8d12b2e25547170d2afe0e290|file:///home/zejr/.i3blocks.conf|50|1|V|conf
+	#signal=10
+fbe4ccc96c459bfba2ce2976bcb92084|file:///home/zejr/.i3blocks.conf|50|1|V|conf
+	# Memory usage
+301ea5412529f02a55d6525dacaf22c1|file:///home/zejr/.i3blocks.conf|50|1|V|conf
+	# The type defaults to "mem" if the instance is not specified.
+c112ae78d21711464dabe21d8f7ad764|file:///home/zejr/.i3blocks.conf|31|1|V|conf
+	# Volume indicator
+b47f5f91b04cbf2d9eef16dfa320a132|file:///home/zejr/.i3blocks.conf|31|1|V|conf
+	# The first parameter sets the step (and units to display)
+0e63db738a2fb8371dc06c65c6ad0c5d|file:///home/zejr/.i3blocks.conf|31|1|V|conf
+	# The second parameter overrides the mixer selection
+4e03ff61462e787a93eb90177e6b5fd8|file:///home/zejr/.i3blocks.conf|31|1|V|conf
+	# See the script for details.
+1cc330980b33e48b1f591ba4a6e7f9c7|file:///home/zejr/.i3blocks.conf|1|1|V|conf
+	# i3blocks config file
+	#
+	# Please see man i3blocks for a complete reference!
+	# The man page is also hosted at http://vivien.github.io/i3blocks
+	#
+	# List of valid properties:
+	#
+	# align
+	# color
+	# command
+	# full_text
+	# instance
+	# interval
+	# label
+	# min_width
+	# name
+	# separator
+	# separator_block_width
+	# short_text
+	# signal
+	# urgent
+	
+	# Global properties
+	#
+	# The top properties below are applied to every block, but can be overridden.
+	# Each block command defaults to the script name to avoid boilerplate.
+2e16667de89c2c934ba11412eebd4e19|file:///home/zejr/.i3/config|89|20|V|i3config
+	bindsym $mod+Shift+w layout tabbed
+7c6d14f5f7b0f93037a24fad2531c8ca|file:///home/zejr/.i3/config|193|1|V|i3config
+	    output primary
+9d8a48d8fef8b1e0d7ceb544ad005f37|file:///home/zejr/.gitignore|68|11|V|
+	.Xauthority
